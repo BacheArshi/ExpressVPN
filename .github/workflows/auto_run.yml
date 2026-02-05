@@ -1,7 +1,7 @@
 name: Hourly Config Updater
 on:
   schedule:
-    - cron: '0 * * * *' # سر هر ساعت اجرا شود
+    - cron: '*/30 * * * *' # سر هر ساعت اجرا شود
   workflow_dispatch: # دکمه اجرای دستی
 
 jobs:
