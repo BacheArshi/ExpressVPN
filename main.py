@@ -8,37 +8,31 @@ from datetime import datetime, timezone
 # =============================================================
 #  بخش تنظیمات (Settings)
 # =============================================================
-# 1. کانفیگ‌هایی که همیشه باید اول باشند (هر چندتا خواستی اضافه کن)
 PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%91",
     #"ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%92"
 ]
 
-EXPIRY_HOURS = 24      # زمان حذف کانفیگ‌های قدیمی
-SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های 1 ساعت اخیر کانال‌ها
+EXPIRY_HOURS = 24       # حذف کانفیگ‌های قدیمی‌تر از 24 ساعت
+SEARCH_LIMIT_HOURS = 1  # بررسی 1 ساعت اخیر کانال
+ROTATION_LIMIT = 65     # تعداد کانفیگ در هر دور نمایش
 # =============================================================
 
 def extract_configs_logic(msg_div):
-    """
-    استخراج با منطق ۴ شرط توقف:
-    1. 3 اسپیس / 2. خط بعد / 3. شروع پروتکل جدید / 4. پایان پیام
-    """
-    # تبدیل تگ‌های ایموجی تلگرام به متن واقعی برای جلوگیری از قطع شدن لینک
+    # تبدیل ایموجی به متن
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'):
             img.replace_with(img['alt'])
     
-    # تبدیل <br> به خط جدید برای اعمال قانون توقف در خط بعد
+    # تبدیل br به اینتر
     for br in msg_div.find_all("br"):
         br.replace_with("\n")
     
-    # دریافت متن تمیز شده
     full_text = html.unescape(msg_div.get_text())
     
-    protocols = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://' ]
+    protocols = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
     extracted = []
     
-    # تقسیم بر اساس خط (قانون توقف در خط بعد)
     lines = full_text.split('\n')
     
     for line in lines:
@@ -50,24 +44,18 @@ def extract_configs_logic(msg_div):
         
         for i in range(len(starts)):
             start_pos = starts[i]
-            
-            # قانون توقف در صورت شروع پروتکل جدید در همان خط
             if i + 1 < len(starts):
                 end_pos = starts[i+1]
                 candidate = line[start_pos:end_pos]
             else:
-                # قانون توقف در انتهای خط یا پیام
                 candidate = line[start_pos:]
             
-            # قانون توقف در صورت مشاهده 3 فاصله (اسپیس) پشت سر هم
             if '   ' in candidate:
                 candidate = candidate.split('   ')[0]
             
             final_cfg = candidate.strip()
-            # فیلتر طول (حداقل 8 کاراکتر)
             if len(final_cfg) > 7:
                 extracted.append(final_cfg)
-                
     return extracted
 
 def get_messages_within_limit(channel_username):
@@ -102,10 +90,12 @@ def get_messages_within_limit(channel_username):
     except: return []
 
 def run():
+    # 1. خواندن لیست کانال‌ها
     if not os.path.exists('channels.txt'): return
     with open('channels.txt', 'r') as f:
         channels = [line.strip() for line in f if line.strip()]
 
+    # 2. خواندن دیتابیس فعلی
     existing_data = []
     if os.path.exists('data.temp'):
         with open('data.temp', 'r') as f:
@@ -113,39 +103,85 @@ def run():
                 parts = line.strip().split('|')
                 if len(parts) == 2: existing_data.append(parts)
 
+    # استخراج لیست کانفیگ‌های موجود برای جلوگیری از تکرار
     all_known_configs = [d[1] for d in existing_data]
     new_entries = []
     now = datetime.now().timestamp()
 
+    # 3. دریافت کانفیگ‌های جدید
+    # نکته: ما لیست را معکوس نمی‌کنیم تا ترتیب زمانی حفظ شود
     for ch in channels:
         found = get_messages_within_limit(ch)
         for c in found:
-            # اگر کانفیگ پیدا شده، جزو لیست PINNED نباشد، آن را ذخیره کن
             if c not in all_known_configs and c not in PINNED_CONFIGS:
-                new_entries.insert(0, [str(now), c])
+                # افزودن به لیست جدیدها
+                new_entries.append([str(now), c])
                 all_known_configs.append(c)
 
-    # فیلتر کردن موارد قدیمی دیتابیس (غیر از PINNED ها که اصلاً در دیتابیس نیستند)
-    combined = new_entries + existing_data
-    final_data = [item for item in combined if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    # 4. ترکیب: کانفیگ‌های قدیمی + کانفیگ‌های جدید (ته لیست)
+    # این تغییر باعث می‌شود کانفیگ‌های جدید بروند ته صف
+    combined = existing_data + new_entries
+    
+    # حذف منقضی شده‌ها
+    valid_db_data = [item for item in combined if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # نوشتن در فایل خروجی
+    # 5. مدیریت چرخش (Rotation)
+    current_index = 0
+    if os.path.exists('pointer.txt'):
+        try:
+            with open('pointer.txt', 'r') as f:
+                current_index = int(f.read().strip())
+        except:
+            current_index = 0
+
+    total_configs = len(valid_db_data)
+    selected_configs = []
+    next_index = 0
+
+    if total_configs > 0:
+        # اگر اشاره‌گر از کل تعداد بیشتر شده، برگرد اول خط
+        if current_index >= total_configs:
+            current_index = 0
+        
+        end_index = current_index + ROTATION_LIMIT
+        
+        # برش زدن لیست
+        if end_index <= total_configs:
+            # حالت عادی: برداشتن یک تکه از وسط
+            batch = valid_db_data[current_index : end_index]
+            selected_configs = [item[1] for item in batch]
+            next_index = end_index
+        else:
+            # حالت لوپ: رسیدن به ته لیست و برداشتن بقیه از اول لیست
+            batch1 = valid_db_data[current_index : total_configs]
+            remaining_needed = ROTATION_LIMIT - len(batch1)
+            batch2 = valid_db_data[0 : remaining_needed]
+            
+            selected_configs = [item[1] for item in batch1 + batch2]
+            next_index = remaining_needed
+    else:
+        next_index = 0
+
+    # 6. نوشتن فایل خروجی (اشتراک کاربر)
     with open('configs.txt', 'w', encoding='utf-8') as f:
-        # اول: کانفیگ‌های سنجاق شده (همیشه در صدر)
+        # اول پین شده‌ها
         for pin in PINNED_CONFIGS:
             f.write(pin + "\n\n")
-            
-        # دوم: کانفیگ‌های استخراج شده از کانال‌ها
-        for _, cfg in final_data:
-            # جلوگیری از تکرار احتمالی کانفیگ سنجاق شده در لیست استخراجی
+        
+        # بعد ۶۵ تای انتخابی
+        for cfg in selected_configs:
             if cfg not in PINNED_CONFIGS:
                 f.write(cfg + "\n\n")
 
-    # آپدیت دیتابیس (فقط برای موارد استخراجی)
+    # 7. ذخیره دیتابیس کامل
     with open('data.temp', 'w', encoding='utf-8') as f:
-        for ts, cfg in final_data:
+        for ts, cfg in valid_db_data:
             if cfg not in PINNED_CONFIGS:
                 f.write(f"{ts}|{cfg}\n")
+
+    # 8. ذخیره موقعیت جدید اشاره‌گر
+    with open('pointer.txt', 'w', encoding='utf-8') as f:
+        f.write(str(next_index))
 
 if __name__ == "__main__":
     run()
