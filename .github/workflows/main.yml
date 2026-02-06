@@ -2,7 +2,7 @@ name: Update Configs
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # اجرا هر 5 دقیقه
+    - cron: '2,7,12,17,22,27,32,37,42,47,52,57 * * * *'  # اجرا هر 5 دقیقه
   workflow_dispatch:       # قابلیت اجرای دستی دکمه‌ای
 
 permissions:
