@@ -28,7 +28,7 @@ def extract_configs_final_boss(msg_div):
     # 3. گرفتن متن خام و تبدیل کاراکترهای HTML (مثل &amp; به &)
     full_text = html.unescape(msg_div.get_text())
     
-    protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://']
+    protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://','test://']
     extracted = []
     
     # جدا کردن بر اساس خط (قانون: توقف در خط بعد)
