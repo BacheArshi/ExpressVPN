@@ -2,35 +2,40 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
+import html
 from datetime import datetime, timezone
 
 # =============================================================
 #  بخش تنظیمات
-# =============================================================
-EXPIRY_HOURS = 24      # زمان حذف کانفیگ‌های قدیمی (ساعت)
-SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های X ساعت اخیر کانال
+# =============================================
+EXPIRY_HOURS = 24      # زمان حذف کانفیگ‌های قدیمی
+SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های 1 ساعت اخیر
 # =============================================================
 
-def extract_configs_smart(msg_text_div):
+def extract_configs_final_boss(msg_div):
     """
-    استخراج هوشمند با جایگزینی ایموجی‌ها و اعمال قوانین توقف
+    استخراج با منطق: 3 اسپیس، خط بعد، شروع بعدی، یا پایان پیام
     """
-    # 1. تبدیل تگ‌های ایموجی تلگرام به متن واقعی (برای جلوگیری از قطع شدن کانفیگ)
-    for img in msg_text_div.find_all('img', class_='emoji'):
-        if img.has_attr('alt'):
+    # 1. تبدیل تگ‌های <br> به اینتر واقعی
+    for br in msg_div.find_all("br"):
+        br.replace_with("\n")
+    
+    # 2. تبدیل تگ‌های ایموجی به متن واقعی (🇩🇪)
+    for img in msg_div.find_all("img"):
+        if 'emoji' in img.get('class', []) and img.get('alt'):
             img.replace_with(img['alt'])
     
-    # 2. دریافت متن با حفظ ساختار خطوط
-    text = msg_text_div.get_text(separator="\n")
+    # 3. گرفتن متن خام و تبدیل کاراکترهای HTML (مثل &amp; به &)
+    full_text = html.unescape(msg_div.get_text())
     
-    configs = []
     protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://']
+    extracted = []
     
-    # جدا کردن بر اساس خط (شرط: توقف در خط بعد)
-    lines = text.split('\n')
+    # جدا کردن بر اساس خط (قانون: توقف در خط بعد)
+    lines = full_text.split('\n')
     
     for line in lines:
-        # پیدا کردن تمام نقاط شروع پروتکل‌ها در این خط
+        # پیدا کردن تمام نقاط شروع در این خط
         starts = []
         for proto in protocols:
             for m in re.finditer(re.escape(proto), line):
@@ -40,24 +45,24 @@ def extract_configs_smart(msg_text_div):
         for i in range(len(starts)):
             start_pos = starts[i]
             
-            # شرط: توقف در صورت شروع پروتکل جدید در همان خط
+            # قانون: توقف در صورت شروع کانفیگ بعدی در همان خط
             if i + 1 < len(starts):
                 end_pos = starts[i+1]
-                chunk = line[start_pos:end_pos]
+                candidate = line[start_pos:end_pos]
             else:
-                # شرط: توقف در اتمام سطر یا اتمام پیام
-                chunk = line[start_pos:]
+                # قانون: توقف در اتمام پیام یا سطر
+                candidate = line[start_pos:]
             
-            # شرط: توقف در صورت مشاهده 3 فاصله پشت سر هم
-            if '   ' in chunk:
-                chunk = chunk.split('   ')[0]
+            # قانون: توقف در صورت مشاهده 3 فاصله پشت سر هم
+            if '   ' in candidate:
+                candidate = candidate.split('   ')[0]
             
-            clean_cfg = chunk.strip()
-            # فیلتر برای اطمینان از اینکه حداقل طول یک کانفیگ را دارد (مثلاً ss://a)
-            if len(clean_cfg) > 7:
-                configs.append(clean_cfg)
+            final_cfg = candidate.strip()
+            # فیلتر طول (حداقل 8 کاراکتر برای ss://a...)
+            if len(final_cfg) > 7:
+                extracted.append(final_cfg)
                 
-    return configs
+    return extracted
 
 def get_messages_within_limit(channel_username):
     url = f"https://t.me/s/{channel_username}"
@@ -68,7 +73,7 @@ def get_messages_within_limit(channel_username):
         soup = BeautifulSoup(response.text, 'html.parser')
         message_wraps = soup.find_all('div', class_='tgme_widget_message_wrap')
         
-        extracted_configs = []
+        valid_configs = []
         now_utc = datetime.now(timezone.utc)
         
         for wrap in message_wraps:
@@ -82,14 +87,12 @@ def get_messages_within_limit(channel_username):
                 msg_text_div = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text_div: continue
 
-                # فراخوانی تابع استخراج هوشمند با پاس دادن کل المنت HTML
-                configs = extract_configs_smart(msg_text_div)
+                configs = extract_configs_final_boss(msg_text_div)
                 for c in configs:
-                    if c not in extracted_configs:
-                        extracted_configs.append(c)
-                        
+                    if c not in valid_configs:
+                        valid_configs.append(c)
             except: continue
-        return extracted_configs
+        return valid_configs
     except: return []
 
 def run():
