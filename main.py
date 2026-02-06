@@ -6,36 +6,42 @@ import html
 from datetime import datetime, timezone
 
 # =============================================================
-#  بخش تنظیمات
-# =============================================
+#  بخش تنظیمات (Settings)
+# =============================================================
+# 1. کانفیگ‌هایی که همیشه باید اول باشند (هر چندتا خواستی اضافه کن)
+PINNED_CONFIGS = [
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%91",
+    #"ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%92"
+]
+
 EXPIRY_HOURS = 24      # زمان حذف کانفیگ‌های قدیمی
-SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های 1 ساعت اخیر
+SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های 1 ساعت اخیر کانال‌ها
 # =============================================================
 
-def extract_configs_final_boss(msg_div):
+def extract_configs_logic(msg_div):
     """
-    استخراج با منطق: 3 اسپیس، خط بعد، شروع بعدی، یا پایان پیام
+    استخراج با منطق ۴ شرط توقف:
+    1. 3 اسپیس / 2. خط بعد / 3. شروع پروتکل جدید / 4. پایان پیام
     """
-    # 1. تبدیل تگ‌های <br> به اینتر واقعی
-    for br in msg_div.find_all("br"):
-        br.replace_with("\n")
-    
-    # 2. تبدیل تگ‌های ایموجی به متن واقعی (🇩🇪)
+    # تبدیل تگ‌های ایموجی تلگرام به متن واقعی برای جلوگیری از قطع شدن لینک
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'):
             img.replace_with(img['alt'])
     
-    # 3. گرفتن متن خام و تبدیل کاراکترهای HTML (مثل &amp; به &)
+    # تبدیل <br> به خط جدید برای اعمال قانون توقف در خط بعد
+    for br in msg_div.find_all("br"):
+        br.replace_with("\n")
+    
+    # دریافت متن تمیز شده
     full_text = html.unescape(msg_div.get_text())
     
-    protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://','test://']
+    protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://', 'test://']
     extracted = []
     
-    # جدا کردن بر اساس خط (قانون: توقف در خط بعد)
+    # تقسیم بر اساس خط (قانون توقف در خط بعد)
     lines = full_text.split('\n')
     
     for line in lines:
-        # پیدا کردن تمام نقاط شروع در این خط
         starts = []
         for proto in protocols:
             for m in re.finditer(re.escape(proto), line):
@@ -45,20 +51,20 @@ def extract_configs_final_boss(msg_div):
         for i in range(len(starts)):
             start_pos = starts[i]
             
-            # قانون: توقف در صورت شروع کانفیگ بعدی در همان خط
+            # قانون توقف در صورت شروع پروتکل جدید در همان خط
             if i + 1 < len(starts):
                 end_pos = starts[i+1]
                 candidate = line[start_pos:end_pos]
             else:
-                # قانون: توقف در اتمام پیام یا سطر
+                # قانون توقف در انتهای خط یا پیام
                 candidate = line[start_pos:]
             
-            # قانون: توقف در صورت مشاهده 3 فاصله پشت سر هم
+            # قانون توقف در صورت مشاهده 3 فاصله (اسپیس) پشت سر هم
             if '   ' in candidate:
                 candidate = candidate.split('   ')[0]
             
             final_cfg = candidate.strip()
-            # فیلتر طول (حداقل 8 کاراکتر برای ss://a...)
+            # فیلتر طول (حداقل 8 کاراکتر)
             if len(final_cfg) > 7:
                 extracted.append(final_cfg)
                 
@@ -87,7 +93,7 @@ def get_messages_within_limit(channel_username):
                 msg_text_div = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text_div: continue
 
-                configs = extract_configs_final_boss(msg_text_div)
+                configs = extract_configs_logic(msg_text_div)
                 for c in configs:
                     if c not in valid_configs:
                         valid_configs.append(c)
@@ -114,20 +120,32 @@ def run():
     for ch in channels:
         found = get_messages_within_limit(ch)
         for c in found:
-            if c not in all_known_configs:
+            # اگر کانفیگ پیدا شده، جزو لیست PINNED نباشد، آن را ذخیره کن
+            if c not in all_known_configs and c not in PINNED_CONFIGS:
                 new_entries.insert(0, [str(now), c])
                 all_known_configs.append(c)
 
+    # فیلتر کردن موارد قدیمی دیتابیس (غیر از PINNED ها که اصلاً در دیتابیس نیستند)
     combined = new_entries + existing_data
     final_data = [item for item in combined if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
+    # نوشتن در فایل خروجی
     with open('configs.txt', 'w', encoding='utf-8') as f:
+        # اول: کانفیگ‌های سنجاق شده (همیشه در صدر)
+        for pin in PINNED_CONFIGS:
+            f.write(pin + "\n\n")
+            
+        # دوم: کانفیگ‌های استخراج شده از کانال‌ها
         for _, cfg in final_data:
-            f.write(cfg + "\n\n")
+            # جلوگیری از تکرار احتمالی کانفیگ سنجاق شده در لیست استخراجی
+            if cfg not in PINNED_CONFIGS:
+                f.write(cfg + "\n\n")
 
+    # آپدیت دیتابیس (فقط برای موارد استخراجی)
     with open('data.temp', 'w', encoding='utf-8') as f:
         for ts, cfg in final_data:
-            f.write(f"{ts}|{cfg}\n")
+            if cfg not in PINNED_CONFIGS:
+                f.write(f"{ts}|{cfg}\n")
 
 if __name__ == "__main__":
     run()
