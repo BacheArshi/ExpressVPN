@@ -27,7 +27,7 @@ def extract_configs_logic(msg_div):
     
     full_text = html.unescape(msg_div.get_text())
     # ترتیب پروتکل‌ها مهم است: اول بلندترها را چک می‌کنیم
-    protocols = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://', 'ss://', 'shadowsocks://']
+    protocols = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
     extracted = []
     
     lines = full_text.split('\n')
