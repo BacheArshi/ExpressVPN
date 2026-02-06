@@ -2,14 +2,61 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
 # =============================================================
-#  تنظیمات اصلی
+#  بخش تنظیمات
 # =============================================================
-EXPIRY_HOURS = 24   # حذف کانفیگ‌ها بعد از 24 ساعت
-SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های 1 ساعت اخیر
+EXPIRY_HOURS = 24      # زمان حذف کانفیگ‌های قدیمی (ساعت)
+SEARCH_LIMIT_HOURS = 1 # بررسی پیام‌های X ساعت اخیر کانال
 # =============================================================
+
+def extract_configs_smart(text):
+    """
+    استخراج کانفیگ‌ها با قوانین:
+    1. توقف در 3 فاصله
+    2. توقف در خط جدید
+    3. توقف در صورت شروع پروتکل جدید
+    4. توقف در انتهای پیام
+    """
+    configs = []
+    # تعریف پروتکل‌های شروع
+    protocols = ['vless://', 'vmess://', 'ss://', 'trojan://', 'shadowsocks://']
+    
+    # جدا کردن پیام به خطوط (شرط: توقف در خط بعد)
+    lines = text.split('\n')
+    
+    for line in lines:
+        # پیدا کردن تمام نقاط شروع پروتکل‌ها در این خط
+        starts = []
+        for proto in protocols:
+            for m in re.finditer(re.escape(proto), line):
+                starts.append(m.start())
+        
+        # مرتب کردن نقاط شروع از اول به آخر
+        starts.sort()
+        
+        for i in range(len(starts)):
+            start_pos = starts[i]
+            
+            # تعیین نقطه پایان احتمالی (شروع کانفیگ بعدی در همان خط)
+            if i + 1 < len(starts):
+                end_pos = starts[i+1]
+                chunk = line[start_pos:end_pos]
+            else:
+                # اگر کانفیگ دیگری در این خط نبود، تا آخر خط را بردار
+                chunk = line[start_pos:]
+            
+            # شرط: توقف در 3 فاصله (3 spaces)
+            # اگر در این بخش 3 فاصله پشت سر هم باشد، فقط تا قبل از آن را نگه دار
+            if '   ' in chunk:
+                chunk = chunk.split('   ')[0]
+            
+            clean_cfg = chunk.strip()
+            if len(clean_cfg) > 10: # فیلتر برای جلوگیری از موارد خیلی کوتاه
+                configs.append(clean_cfg)
+                
+    return configs
 
 def get_messages_within_limit(channel_username):
     url = f"https://t.me/s/{channel_username}"
@@ -20,61 +67,37 @@ def get_messages_within_limit(channel_username):
         soup = BeautifulSoup(response.text, 'html.parser')
         message_wraps = soup.find_all('div', class_='tgme_widget_message_wrap')
         
-        valid_configs = []
-        
-        # اصلاح مهم Regex:
-        # اضافه کردن / برای مسیرها (path)
-        # اضافه کردن [] برای آدرس‌های IPv6
-        pattern = r"(?:vless|vmess|trojan|ss|shadowsocks)://[a-zA-Z0-9\-_@.:?#%&=+/\[\]]+"
-        
+        extracted_configs = []
         now_utc = datetime.now(timezone.utc)
         
         for wrap in message_wraps:
             try:
-                # 1. بررسی زمان پیام
+                # بررسی زمان پیام
                 time_tag = wrap.find('time')
                 if not time_tag: continue
-                
-                msg_time_str = time_tag['datetime']
-                msg_time = datetime.fromisoformat(msg_time_str)
-                
-                # اگر پیام قدیمی‌تر از حد مجاز است، بررسی نکن
+                msg_time = datetime.fromisoformat(time_tag['datetime'])
                 if (now_utc - msg_time).total_seconds() > (SEARCH_LIMIT_HOURS * 3600):
                     continue
 
-                # 2. استخراج و تمیزسازی متن
+                # استخراج متن پیام
                 msg_text_div = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text_div: continue
 
-                # تبدیل <br> به فاصله برای جدا شدن خطوط چسبیده
-                for br in msg_text_div.find_all('br'):
-                    br.replace_with(' ')
+                # گرفتن متن با حفظ خطوط (separator="\n")
+                raw_text = msg_text_div.get_text(separator="\n")
                 
-                text = msg_text_div.get_text()
-                
-                # 3. پیدا کردن کانفیگ‌ها
-                found = re.findall(pattern, text)
-                for item in found:
-                    clean_config = item.strip()
-                    
-                    # اصلاح مهم: کاهش محدودیت طول به 7 کاراکتر
-                    # ss://a (حداقل طول منطقی)
-                    if len(clean_config) > 7 and clean_config not in valid_configs:
-                        valid_configs.append(clean_config)
+                # استخراج با منطق هوشمند
+                configs = extract_configs_smart(raw_text)
+                for c in configs:
+                    if c not in extracted_configs:
+                        extracted_configs.append(c)
                         
-            except Exception as e:
-                continue
-                
-        return valid_configs
-
-    except Exception as e:
-        print(f"Error scraping {channel_username}: {e}")
-        return []
+            except: continue
+        return extracted_configs
+    except: return []
 
 def run():
-    if not os.path.exists('channels.txt'):
-        return
-
+    if not os.path.exists('channels.txt'): return
     with open('channels.txt', 'r') as f:
         channels = [line.strip() for line in f if line.strip()]
 
@@ -83,14 +106,12 @@ def run():
         with open('data.temp', 'r') as f:
             for line in f:
                 parts = line.strip().split('|')
-                if len(parts) == 2:
-                    existing_data.append(parts)
+                if len(parts) == 2: existing_data.append(parts)
 
     all_known_configs = [d[1] for d in existing_data]
     new_entries = []
     now = datetime.now().timestamp()
 
-    # استخراج موارد جدید
     for ch in channels:
         found = get_messages_within_limit(ch)
         for c in found:
@@ -98,21 +119,16 @@ def run():
                 new_entries.insert(0, [str(now), c])
                 all_known_configs.append(c)
 
-    # حذف موارد قدیمی (24 ساعت)
+    # ترکیب و اعمال انقضا
     combined = new_entries + existing_data
-    final_data = []
-    
-    for ts, cfg in combined:
-        if now - float(ts) < (EXPIRY_HOURS * 3600):
-            final_data.append([ts, cfg])
+    final_data = [item for item in combined if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # ذخیره فایل کانفیگ
+    # خروجی نهایی
     with open('configs.txt', 'w', encoding='utf-8') as f:
         for _, cfg in final_data:
-            f.write(cfg)
-            f.write("\n\n")
+            f.write(cfg + "\n\n")
 
-    # ذخیره دیتابیس
+    # آپدیت دیتابیس موقت
     with open('data.temp', 'w', encoding='utf-8') as f:
         for ts, cfg in final_data:
             f.write(f"{ts}|{cfg}\n")
