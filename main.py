@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 #  بخش تنظیمات (Settings)
 # =============================================================
 PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%91",
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%91%20%40express_alaki",
 ]
 
 EXPIRY_HOURS = 24       
