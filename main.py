@@ -12,7 +12,7 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@bache:138#%F0%9F%91%91%20%40express_alaki",
 ]
 
-EXPIRY_HOURS = 24       
+EXPIRY_HOURS = 12       
 SEARCH_LIMIT_HOURS = 1  
 ROTATION_LIMIT = 60     # هر عددی خواستی اینجا بذار
 # =============================================================
