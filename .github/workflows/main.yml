@@ -1,12 +1,10 @@
 name: Update Configs
 
 on:
-  #schedule:
-    #- cron: '2,7,12,17,22,27,32,37,42,47,52,57 * * * *'  # اجرا هر 5 دقیقه
-  workflow_dispatch:       # قابلیت اجرای دستی دکمه‌ای
+  workflow_dispatch:       # اجرای دستی توسط Cron-job یا دکمه Actions
 
 permissions:
-  contents: write          # اجازه نوشتن در فایل‌ها (بسیار مهم)
+  contents: write          # اجازه نوشتن در ریپوزیتوری
 
 jobs:
   build:
@@ -33,6 +31,7 @@ jobs:
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add configs.txt data.temp pointer.txt
+        # اضافه شدن configs2.txt به لیست فایل‌ها
+        git add configs.txt configs2.txt data.temp pointer.txt
         git commit -m "Auto-update configs" || echo "No changes to commit"
         git push
