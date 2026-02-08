@@ -3,166 +3,178 @@ from bs4 import BeautifulSoup
 import re
 import os
 import html
+import json
+import base64
+import urllib.parse
 from datetime import datetime, timezone
 
 # =============================================================
-#  بخش تنظیمات (Settings)
+#  بخش تنظیمات (Settings) - هر تغییری اینجا بدهید، دفعه بعد اعمال می‌شود
 # =============================================================
 PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
 ]
 
+# ۱. آیکون‌ها و علائم ظاهری
+SOURCE_ICON = "📁" 
+NOT_FOUND_FLAG = "🌐"
+
+# ۲. لیست پروتکل‌های مورد حمایت (قابل تغییر)
+SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
+
+# ۳. تنظیمات چرخش و انقضا
 EXPIRY_HOURS = 12       
 SEARCH_LIMIT_HOURS = 1  
-ROTATION_LIMIT = 65      # تعداد کانفیگ برای فایل configs.txt
-ROTATION_LIMIT_2 = 1000   # تعداد کانفیگ برای فایل configs2.txt
+ROTATION_LIMIT = 65      
+ROTATION_LIMIT_2 = 1000   
 # =============================================================
+
+def get_only_flag(text):
+    """فقط استخراج ایموجی پرچم"""
+    if not text: return NOT_FOUND_FLAG
+    flag_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
+    flags = flag_pattern.findall(text)
+    return flags[0] if flags else NOT_FOUND_FLAG
+
+def analyze_and_rename(config, channel_name):
+    """فرآیند تغییر نام کانفیگ خام (فراخوانی هنگام ساخت فایل خروجی)"""
+    try:
+        clean_channel = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
+        if not clean_channel.startswith("@"): clean_channel = f"@{clean_channel}"
+
+        transport = "TCP"
+        security = "None"
+        flag = NOT_FOUND_FLAG
+
+        if config.startswith("vmess://"):
+            b64_data = config[8:]
+            b64_data += "=" * (-len(b64_data) % 4)
+            data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
+            flag = get_only_flag(data.get('ps', ''))
+            net = data.get('net', 'tcp').lower()
+            t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
+            transport = t_map.get(net, 'TCP')
+            if data.get('tls') == 'tls': security = 'TLS'
+            data['ps'] = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
+            return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
+        else:
+            parsed = urllib.parse.urlparse(config)
+            query = urllib.parse.parse_qs(parsed.query)
+            remark = urllib.parse.unquote(parsed.fragment)
+            flag = get_only_flag(remark)
+            if config.startswith(('hysteria2://', 'hy2://')):
+                transport, security = "Hysteria", "TLS"
+            else:
+                t_type = query.get('type', ['tcp'])[0].lower()
+                t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP', 'h2': 'H2', 'quic': 'QUIC'}
+                transport = t_map.get(t_type, 'TCP')
+                sec = query.get('security', ['none'])[0].lower()
+                if sec == 'tls': security = 'TLS'
+                elif sec == 'reality': security = 'Reality'
+            new_name = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
+            return urllib.parse.urlunparse(parsed._replace(fragment=urllib.parse.quote(new_name)))
+    except:
+        return config
 
 def extract_configs_logic(msg_div):
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'):
             img.replace_with(img['alt'])
-    
-    for br in msg_div.find_all("br"):
-        br.replace_with("\n")
-    
+    for br in msg_div.find_all("br"): br.replace_with("\n")
     full_text = html.unescape(msg_div.get_text())
-    # لیست پروتکل‌ها (قابل ویرایش توسط شما)
-    protocols = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
     extracted = []
-    
-    lines = full_text.split('\n')
-    for line in lines:
+    for line in full_text.split('\n'):
         starts = []
-        for proto in protocols:
-            for m in re.finditer(re.escape(proto), line):
-                starts.append((m.start(), proto))
-        
+        for proto in SUPPORTED_PROTOCOLS:
+            for m in re.finditer(re.escape(proto), line): starts.append((m.start(), proto))
         starts.sort(key=lambda x: x[0])
-        
         for i in range(len(starts)):
-            start_pos, current_proto = starts[i]
-            
-            if i + 1 < len(starts):
-                end_pos = starts[i+1][0]
-                candidate = line[start_pos:end_pos]
-            else:
-                candidate = line[start_pos:]
-            
-            if '   ' in candidate:
-                candidate = candidate.split('   ')[0]
-            
+            start_pos = starts[i][0]
+            candidate = line[start_pos:starts[i+1][0]] if i+1 < len(starts) else line[start_pos:]
             final_cfg = candidate.strip()
-            if any(final_cfg.startswith(p) for p in protocols) and len(final_cfg) > 10:
+            if any(final_cfg.startswith(p) for p in SUPPORTED_PROTOCOLS) and len(final_cfg) > 10:
                 extracted.append(final_cfg)
     return extracted
-
-def get_messages_within_limit(channel_username):
-    url = f"https://t.me/s/{channel_username}"
-    try:
-        response = requests.get(url, timeout=15)
-        if response.status_code != 200: return []
-        soup = BeautifulSoup(response.text, 'html.parser')
-        message_wraps = soup.find_all('div', class_='tgme_widget_message_wrap')
-        valid_configs = []
-        now_utc = datetime.now(timezone.utc)
-        
-        for wrap in message_wraps:
-            try:
-                time_tag = wrap.find('time')
-                if not time_tag: continue
-                msg_time = datetime.fromisoformat(time_tag['datetime'])
-                if (now_utc - msg_time).total_seconds() > (SEARCH_LIMIT_HOURS * 3600):
-                    continue
-                msg_text_div = wrap.find('div', class_='tgme_widget_message_text')
-                if not msg_text_div: continue
-                configs = extract_configs_logic(msg_text_div)
-                for c in configs:
-                    if c not in valid_configs:
-                        valid_configs.append(c)
-            except: continue
-        return valid_configs
-    except: return []
 
 def run():
     if not os.path.exists('channels.txt'): return
     with open('channels.txt', 'r') as f:
         channels = [line.strip() for line in f if line.strip()]
 
-    existing_data = []
+    # دیتابیس: [timestamp, channel_name, raw_config]
+    db_data = []
     if os.path.exists('data.temp'):
-        with open('data.temp', 'r') as f:
+        with open('data.temp', 'r', encoding='utf-8') as f:
             for line in f:
                 parts = line.strip().split('|')
-                if len(parts) == 2: existing_data.append(parts)
+                if len(parts) == 3: db_data.append(parts)
 
-    all_known_configs = [d[1] for d in existing_data]
-    new_entries = []
+    all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
 
+    # استخراج موارد جدید (ذخیره به صورت خام)
     for ch in channels:
-        found = get_messages_within_limit(ch)
-        for c in found:
-            if c not in all_known_configs and c not in PINNED_CONFIGS:
-                new_entries.append([str(now), c])
-                all_known_configs.append(c)
+        url = f"https://t.me/s/{ch}"
+        try:
+            resp = requests.get(url, timeout=15)
+            if resp.status_code != 200: continue
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            for wrap in soup.find_all('div', class_='tgme_widget_message_wrap'):
+                time_tag = wrap.find('time')
+                if not time_tag: continue
+                msg_time = datetime.fromisoformat(time_tag['datetime'])
+                if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SEARCH_LIMIT_HOURS * 3600): continue
+                
+                msg_text = wrap.find('div', class_='tgme_widget_message_text')
+                if not msg_text: continue
+                
+                raw_found = extract_configs_logic(msg_text)
+                for c in raw_found:
+                    if c not in all_raw_configs and c not in PINNED_CONFIGS:
+                        db_data.append([str(now), ch, c])
+                        all_raw_configs.append(c)
+        except: continue
 
-    combined = existing_data + new_entries
-    valid_db_data = [item for item in combined if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    # پاکسازی موارد منقضی شده
+    valid_db = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
+    # مدیریت پوینتر
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
-            with open('pointer.txt', 'r') as f:
-                current_index = int(f.read().strip())
+            with open('pointer.txt', 'r') as f: current_index = int(f.read().strip())
         except: current_index = 0
+    if current_index >= len(valid_db): current_index = 0
 
-    total_configs = len(valid_db_data)
-    
-    # منطق استخراج برای فایل اول (configs.txt)
-    selected_1 = []
-    next_index = 0
-    if total_configs > 0:
-        if current_index >= total_configs: current_index = 0
-        end_index = current_index + ROTATION_LIMIT
-        if end_index <= total_configs:
-            selected_1 = [item[1] for item in valid_db_data[current_index : end_index]]
-            next_index = end_index
-        else:
-            selected_1 = [item[1] for item in valid_db_data[current_index:] + valid_db_data[:ROTATION_LIMIT - (total_configs - current_index)]]
-            next_index = ROTATION_LIMIT - (total_configs - current_index)
+    # انتخاب برای چرخش
+    def get_rotated_batch(size):
+        if not valid_db: return []
+        if current_index + size <= len(valid_db):
+            return valid_db[current_index : current_index + size]
+        return valid_db[current_index:] + valid_db[:size - (len(valid_db) - current_index)]
 
-    # منطق استخراج برای فایل دوم (configs2.txt) - دقیقاً از همان مکان شروع
-    selected_2 = []
-    if total_configs > 0:
-        end_index_2 = current_index + ROTATION_LIMIT_2
-        if end_index_2 <= total_configs:
-            selected_2 = [item[1] for item in valid_db_data[current_index : end_index_2]]
-        else:
-            selected_2 = [item[1] for item in valid_db_data[current_index:] + valid_db_data[:ROTATION_LIMIT_2 - (total_configs - current_index)]]
+    batch1 = get_rotated_batch(ROTATION_LIMIT)
+    batch2 = get_rotated_batch(ROTATION_LIMIT_2)
 
-    # تابع داخلی برای حذف تکراری و نوشتن فایل
-    def save_file(filename, config_list):
-        final_list = []
+    # تابع ذخیره‌سازی فایل خروجی (با اعمال تغییر نام لحظه‌ای)
+    def save_output(filename, batch):
         seen = set(PINNED_CONFIGS)
-        for cfg in config_list:
-            if cfg not in seen:
-                final_list.append(cfg)
-                seen.add(cfg)
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
-            for cfg in final_list: f.write(cfg + "\n\n")
+            for ts, ch, raw_cfg in batch:
+                renamed = analyze_and_rename(raw_cfg, ch)
+                if renamed not in seen:
+                    f.write(renamed + "\n\n")
+                    seen.add(renamed)
 
-    # ذخیره هر دو فایل
-    save_file('configs.txt', selected_1)
-    save_file('configs2.txt', selected_2)
+    save_output('configs.txt', batch1)
+    save_output('configs2.txt', batch2)
 
-    # ذخیره دیتابیس و پوینتر (پوینتر بر اساس فایل اول حرکت می‌کند تا هماهنگی حفظ شود)
+    # بروزرسانی دیتابیس و پوینتر
     with open('data.temp', 'w', encoding='utf-8') as f:
-        for ts, cfg in valid_db_data:
-            if cfg not in PINNED_CONFIGS: f.write(f"{ts}|{cfg}\n")
+        for item in valid_db: f.write("|".join(item) + "\n")
     with open('pointer.txt', 'w', encoding='utf-8') as f:
-        f.write(str(next_index))
+        f.write(str((current_index + ROTATION_LIMIT) % len(valid_db) if valid_db else 0))
 
 if __name__ == "__main__":
     run()
