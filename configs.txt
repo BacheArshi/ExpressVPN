@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
+vless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vless://2e82cda5-e020-4c63-8271-e58a00831447@hk4.miyazono-kaori.com:443?security=reality&encryption=none&pbk=6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ikea.com.hk&sid=de392136#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
 trojan://BxceQaOe@218.250.156.130:443?allowInsecure=1#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 trojan://2ce584a8-9960-4e1f-a820-30e54822c839@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -125,8 +129,4 @@ vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?encryption=
 vless://7e27729e-1602-4b6d-9c6f-1d36b0910724@91.107.244.16:15149?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
 
 vless://6c3767fd-523c-49ab-b725-0d6b9d7b579d@85.9.105.114:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.248.186.10:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40DailyV2RY
-
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
