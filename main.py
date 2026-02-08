@@ -9,17 +9,17 @@ import urllib.parse
 from datetime import datetime, timezone
 
 # =============================================================
-#  بخش تنظیمات (Settings) - هر تغییری اینجا بدهید، دفعه بعد اعمال می‌شود
+#  بخش تنظیمات (Settings)
 # =============================================================
 PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
 ]
 
-# ۱. آیکون‌ها و علائم ظاهری
+# ۱. آیکون‌ها و علائم ظاهری (قابل تغییر)
 SOURCE_ICON = "📁" 
 NOT_FOUND_FLAG = "🌐"
 
-# ۲. لیست پروتکل‌های مورد حمایت (قابل تغییر)
+# ۲. لیست پروتکل‌های مورد حمایت
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
 # ۳. تنظیمات چرخش و انقضا
@@ -30,14 +30,14 @@ ROTATION_LIMIT_2 = 1000
 # =============================================================
 
 def get_only_flag(text):
-    """فقط استخراج ایموجی پرچم"""
+    """استخراج دقیق ایموجی پرچم"""
     if not text: return NOT_FOUND_FLAG
     flag_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
     flags = flag_pattern.findall(text)
     return flags[0] if flags else NOT_FOUND_FLAG
 
 def analyze_and_rename(config, channel_name):
-    """فرآیند تغییر نام کانفیگ خام (فراخوانی هنگام ساخت فایل خروجی)"""
+    """تحلیل فنی پیشرفته و تغییر نام لحظه‌ای"""
     try:
         clean_channel = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
         if not clean_channel.startswith("@"): clean_channel = f"@{clean_channel}"
@@ -46,31 +46,53 @@ def analyze_and_rename(config, channel_name):
         security = "None"
         flag = NOT_FOUND_FLAG
 
+        # --- پردازش VMess ---
         if config.startswith("vmess://"):
             b64_data = config[8:]
             b64_data += "=" * (-len(b64_data) % 4)
             data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
             flag = get_only_flag(data.get('ps', ''))
             net = data.get('net', 'tcp').lower()
-            t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
+            t_map = {
+                'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 
+                'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'
+            }
             transport = t_map.get(net, 'TCP')
             if data.get('tls') == 'tls': security = 'TLS'
             data['ps'] = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
             return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
+
+        # --- پردازش VLESS, Trojan, Hysteria ---
         else:
             parsed = urllib.parse.urlparse(config)
             query = urllib.parse.parse_qs(parsed.query)
             remark = urllib.parse.unquote(parsed.fragment)
             flag = get_only_flag(remark)
+
             if config.startswith(('hysteria2://', 'hy2://')):
                 transport, security = "Hysteria", "TLS"
             else:
+                # تشخیص Transport
                 t_type = query.get('type', ['tcp'])[0].lower()
-                t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP', 'h2': 'H2', 'quic': 'QUIC'}
+                t_map = {
+                    'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 
+                    'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP', 'h2': 'H2', 'quic': 'QUIC'
+                }
                 transport = t_map.get(t_type, 'TCP')
-                sec = query.get('security', ['none'])[0].lower()
-                if sec == 'tls': security = 'TLS'
-                elif sec == 'reality': security = 'Reality'
+
+                # تشخیص Security (بهبود یافته برای تروجان و ریالیتی)
+                # بررسی پارامترهای مختلف امنیتی که ممکن است در لینک باشد
+                sec_param = query.get('security', [''])[0].lower()
+                
+                if sec_param == 'tls' or sec_param == 'xtls':
+                    security = 'TLS'
+                elif sec_param == 'reality':
+                    security = 'Reality'
+                elif not sec_param:
+                    # در برخی کانفیگ‌های قدیمی تروجان، اگر پارامتر نبود ولی پورت 443 بود، معمولا TLS است
+                    # اما برای دقت بیشتر، فقط اگر صراحتاً ذکر شده باشد عمل می‌کنیم
+                    security = "None"
+
             new_name = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
             return urllib.parse.urlunparse(parsed._replace(fragment=urllib.parse.quote(new_name)))
     except:
@@ -101,7 +123,6 @@ def run():
     with open('channels.txt', 'r') as f:
         channels = [line.strip() for line in f if line.strip()]
 
-    # دیتابیس: [timestamp, channel_name, raw_config]
     db_data = []
     if os.path.exists('data.temp'):
         with open('data.temp', 'r', encoding='utf-8') as f:
@@ -112,7 +133,6 @@ def run():
     all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
 
-    # استخراج موارد جدید (ذخیره به صورت خام)
     for ch in channels:
         url = f"https://t.me/s/{ch}"
         try:
@@ -135,10 +155,8 @@ def run():
                         all_raw_configs.append(c)
         except: continue
 
-    # پاکسازی موارد منقضی شده
     valid_db = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # مدیریت پوینتر
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -146,7 +164,6 @@ def run():
         except: current_index = 0
     if current_index >= len(valid_db): current_index = 0
 
-    # انتخاب برای چرخش
     def get_rotated_batch(size):
         if not valid_db: return []
         if current_index + size <= len(valid_db):
@@ -156,7 +173,6 @@ def run():
     batch1 = get_rotated_batch(ROTATION_LIMIT)
     batch2 = get_rotated_batch(ROTATION_LIMIT_2)
 
-    # تابع ذخیره‌سازی فایل خروجی (با اعمال تغییر نام لحظه‌ای)
     def save_output(filename, batch):
         seen = set(PINNED_CONFIGS)
         with open(filename, 'w', encoding='utf-8') as f:
@@ -170,7 +186,6 @@ def run():
     save_output('configs.txt', batch1)
     save_output('configs2.txt', batch2)
 
-    # بروزرسانی دیتابیس و پوینتر
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_db: f.write("|".join(item) + "\n")
     with open('pointer.txt', 'w', encoding='utf-8') as f:
