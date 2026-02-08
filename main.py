@@ -15,14 +15,10 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
 ]
 
-# ۱. آیکون جداکننده (هر چی دوست داشتی اینجا بذار)
 SOURCE_ICON = "📁" 
 NOT_FOUND_FLAG = "🌐"
-
-# ۲. لیست پروتکل‌های مورد حمایت
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
-# ۳. تنظیمات زمان و چرخش
 EXPIRY_HOURS = 12       
 SEARCH_LIMIT_HOURS = 1  
 ROTATION_LIMIT = 65      
@@ -30,78 +26,93 @@ ROTATION_LIMIT_2 = 1000
 # =============================================================
 
 def get_only_flag(text):
-    """استخراج دقیق فقط ایموجی پرچم کشورها"""
+    """استخراج دقیق ایموجی پرچم با پاک‌سازی متن"""
     if not text: return NOT_FOUND_FLAG
-    # فقط دنبال جفت کاراکترهای پرچم می‌گرده
+    # ابتدا متن را از حالت کدگذاری خارج می‌کنیم (مثل %F0%9F)
+    try:
+        text = urllib.parse.unquote(str(text))
+    except: pass
+    
     flag_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
     flags = flag_pattern.findall(text)
     return flags[0] if flags else NOT_FOUND_FLAG
 
-def get_param(url, param_name):
-    """استخراج دقیق مقدار یک پارامتر از لینک با استفاده از ریجکس (بسیار دقیق)"""
-    pattern = re.compile(rf'[?&]{param_name}=([^&#\s]+)', re.I)
-    match = pattern.search(url)
-    return match.group(1).lower() if match else None
-
 def analyze_and_rename(config, channel_name):
-    """تحلیل فنی فوق‌دقیق و تغییر نام بدون خطا"""
+    """تحلیل فنی عمیق با تمرکز بر جداسازی Reality از TLS"""
     try:
+        config = config.strip()
         clean_channel = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
         if not clean_channel.startswith("@"): clean_channel = f"@{clean_channel}"
 
         transport = "TCP"
         security = "None"
-        
+
         # --- ۱. پردازش VMess ---
         if config.startswith("vmess://"):
             try:
-                b64_data = config[8:]
-                b64_data += "=" * (-len(b64_data) % 4)
-                data = json.loads(base64.b64decode(b64_data).decode('utf-8'))
+                b64_str = config[8:]
+                b64_str += "=" * (-len(b64_str) % 4)
+                data = json.loads(base64.b64decode(b64_str).decode('utf-8'))
+                
+                # پاک‌سازی نام برای استخراج پرچم
                 flag = get_only_flag(data.get('ps', ''))
                 
                 net = data.get('net', 'tcp').lower()
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(net, 'TCP')
-                if data.get('tls') == 'tls': security = 'TLS'
+                
+                # در وی‌مس ریالیتی نداریم، فقط TLS یا None
+                if str(data.get('tls')).lower() == 'tls': security = 'TLS'
                 
                 data['ps'] = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
             except: return config
 
-        # --- ۲. پردازش بقیه (VLESS, Trojan, Hy2) ---
+        # --- ۲. پردازش VLESS, Trojan, Hy2 ---
         else:
-            # استخراج امنیت (Security)
-            sec_val = get_param(config, 'security')
-            if sec_val in ['tls', 'xtls', 'ssl']: security = 'TLS'
-            elif sec_val == 'reality': security = 'Reality'
-            elif 'sni=' in config.lower(): security = 'TLS' # ترفند شناسایی تروجان‌های بدون تگ سکیوریتی
+            # جداسازی بخش اصلی از نام (Fragment) و پاک‌سازی هر دو بخش
+            if '#' in config:
+                base_part, remark = config.split('#', 1)
+                remark = urllib.parse.unquote(remark)
+            else:
+                base_part, remark = config, ""
+            
+            flag = get_only_flag(remark)
 
-            # استخراج ترنسپورت (Transport)
-            type_val = get_param(config, 'type')
+            # استخراج و پاک‌سازی پارامترها (Query String)
+            parsed_url = urllib.parse.urlparse(base_part)
+            # استفاده از parse_qsl برای هندل کردن کاراکترهای عجیب در پارامترها
+            params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed_url.query)}
+            
+            # --- منطق تشخیص امنیت (دقیق و بدون وابستگی به پورت) ---
+            sec_val = params.get('security', '')
+            
+            # الف) بررسی Reality (اولیت اول)
+            # اگر کلمه reality ذکر شده باشد یا پارامترهای مخصوص آن (مثل pbk) موجود باشد
+            if sec_val == 'reality' or 'pbk' in params or 'sid' in params:
+                security = 'Reality'
+            # ب) بررسی TLS
+            elif sec_val in ['tls', 'xtls', 'ssl'] or 'sni' in params:
+                security = 'TLS'
+
+            # --- تشخیص ترنسپورت ---
+            t_val = params.get('type', 'tcp')
             t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP', 'h2': 'H2', 'quic': 'QUIC'}
-            if type_val: transport = t_map.get(type_val, 'TCP')
+            transport = t_map.get(t_val, 'TCP')
 
             # حالت خاص Hysteria
             if config.startswith(('hysteria2://', 'hy2://')):
                 transport, security = "Hysteria", "TLS"
 
-            # استخراج پرچم از انتهای لینک (بعد از #)
-            remark = ""
-            if '#' in config:
-                remark = urllib.parse.unquote(config.split('#')[-1])
-            flag = get_only_flag(remark)
-
-            # ساخت لینک نهایی
+            # ساخت لینک نهایی با نام استاندارد شده
             new_name = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
-            base_part = config.split('#')[0]
             return f"{base_part}#{urllib.parse.quote(new_name)}"
 
-    except:
+    except Exception:
         return config
 
 def extract_configs_logic(msg_div):
-    """استخراج کانفیگ‌های خام از دل پیام‌ها"""
+    """استخراج کانفیگ‌های خام با هندل کردن اموجی‌های تلگرام"""
     for img in msg_div.find_all("img"):
         if 'emoji' in img.get('class', []) and img.get('alt'):
             img.replace_with(img['alt'])
@@ -127,6 +138,7 @@ def run():
     with open('channels.txt', 'r') as f:
         channels = [line.strip() for line in f if line.strip()]
 
+    # دیتابیس (خام): [زمان|کانال|کانفیگ]
     db_data = []
     if os.path.exists('data.temp'):
         with open('data.temp', 'r', encoding='utf-8') as f:
