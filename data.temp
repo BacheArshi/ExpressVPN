@@ -814,3 +814,4 @@
 1770636323.894246|meliproxyy|vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@meliproxyy
 1770636323.894246|meliproxyy|vless://bac628dc-cd64-460c-8657-8128c9d6d7b7@108.162.193.173:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=api-ch.nping.ir#@meliproxyy
 1770636323.894246|meliproxyy|vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@199.232.196.193:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=Begaiiii.global.ssl.fastly.net&type=xhttp#@meliproxyy
+1770636628.366138|v2nodes|trojan://telegram-id-directvpn@63.181.22.229:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
