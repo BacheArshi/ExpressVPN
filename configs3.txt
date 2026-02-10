@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://jina@20.79.162.37:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=jina-207916237-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=powered-by-surena.user68f797c2f3e1b.workers.dev&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://80d9c03e-2167-4c51-9719-d2129928e20d@chatgpt.com:443?security=tls&type=ws&path=%2FeyJqdW5rIjoiSWtXcXp6V3MyeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=bpbazadnet.sobhanupmm.workers.dev&sni=bpBAzadNEt.SObhANuPMM.woRKeRs.DEV&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%BF%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?security=tls&type=ws&path=%2Fws&host=netv.amirshee9090.workers.dev&sni=netv.amirshee9090.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://jina@20.79.160.49:443?security=tls&type=tcp&alpn=http%2F1.1&sni=jina-207916049-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFdTLVRMUyBcdWQ4M2RcdWRjYzEgQERlYW1OZXRfcHJveHkiLCAiYWRkIjogIjU3LjEyOC4xODkuMjExIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ5aWNodWVuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAiaW5zZWN1cmUiOiAiMSJ9
-
-vless://f291de93-b084-40b3-b4da-af90cd99de46@68.183.228.227:443?encryption=none&security=tls&sni=zoom.com&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&path=%2FSG%2F#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://b74bbaca-8bbe-41e1-9af9-18d467836282@017.electrocellco-cf-017.workers.dev:443?encryption=none&security=tls&sni=017.EleCTRoCelLCo-CF-017.Workers.dEv&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&host=017.electrocellco-cf-017.workers.dev&path=%2FeyJqdW5rIjoibnhUbllUVXY1OWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
 vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@l4z7x1c3v9b2.the-scary-deep-forest-of-my-mind.top:7288?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
 
 vless://1dcc368f-07b8-4a9a-b694-d19179d5484a@5.160.35.18:7288?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
@@ -114,9 +98,15 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?security=tls&typ
 
 vless://ef594e2f-1a55-468c-8a0f-b0887d06f6e5@91.99.127.122:4655?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
+vless://jina@20.79.162.37:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=jina-207916237-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&path=%2F&host=blog.zanborak-shop.ir&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICJhMS5wZXJzcG9saXNnYW1lYm9vc3Rlci5pciIsICJwb3J0IjogIjU4MjIzIiwgImlkIjogIjkwMTIyMTFjLTliYmItNDVjYy05OTJjLWZkODdiNzAwZDkwOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInBhdGgiOiAiLyIsICJob3N0IjogInp1bGEuaXIifQ==
+
+vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?security=tls&type=ws&path=%2Fws&host=netv.amirshee9090.workers.dev&sni=netv.amirshee9090.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://jina@20.79.160.49:443?security=tls&type=tcp&alpn=http%2F1.1&sni=jina-207916049-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443?encryption=none&security=tls&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&insecure=1&type=ws&host=aged-sun-9128.danicng13.workers.dev&path=%2Ftrv9lthtdhp1hvnyc0%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
 
@@ -147,6 +137,8 @@ vless://42c90a40-be6b-4f5c-a293-63c7d639739c@172.67.192.28:2083?security=tls&sni
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.51.52:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.86.138:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
+vless://80d9c03e-2167-4c51-9719-d2129928e20d@chatgpt.com:443?security=tls&type=ws&path=%2FeyJqdW5rIjoiSWtXcXp6V3MyeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&host=bpbazadnet.sobhanupmm.workers.dev&sni=bpBAzadNEt.SObhANuPMM.woRKeRs.DEV&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%BF%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICI5NC4xODQuMTAuNDIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiZTJiNjU3MjMtYjdlMy00ZGQ4LTkyMzEtMTk5ODdjMzI2MDQwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
 
