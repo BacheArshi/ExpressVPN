@@ -2158,3 +2158,5 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?path=%2F&securit
 
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=randomized&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
+
