@@ -2100,3 +2100,9 @@ vless://0300ec0c-e731-4ae4-b4b0-3407bb292162@81.12.34.247:1010?security=none&enc
 
 vless://ed6dd416-1339-4dbe-8562-c9786d41041b@43.250.54.175:443?security=reality&encryption=none&pbk=DbZWMfQTZQQrOJDgnWetu1ChTlXISZWKt4Kn_G0YyUI&headerType=none&fp=chrome&type=tcp&sni=fonts.gstatic.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
+
+vless://2fa7f6dc-1367-4b1e-bf59-865b90959ce8@tun1-norbert.norbertvip-conf.site:9900?security=&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
+
