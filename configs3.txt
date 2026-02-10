@@ -2092,3 +2092,5 @@ trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&ho
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
+vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@chatgpt.com:443?encryption=none&security=tls&sni=fin.moell13.org&fp=chrome&insecure=1&type=xhttp&mode=auto#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
