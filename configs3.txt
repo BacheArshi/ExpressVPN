@@ -1110,3 +1110,5 @@ vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none
 
 trojan://telegram-id-privatevpns@51.45.54.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40express_alaki
 
+vless://cf1b548b-4ab0-43fe-b000-330d42ec2a95@62.60.159.133:13179?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
+
