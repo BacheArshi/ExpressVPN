@@ -2116,3 +2116,5 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.214.36.241:443?security=reality&
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40proxymaann
 
+vless://494b4aaa-9292-4475-ad04-1acc13955044@77.237.90.165:6556?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadiiivpn
+
