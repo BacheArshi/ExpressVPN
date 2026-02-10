@@ -1768,3 +1768,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSVIgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVT
 
 vless://9f846e5c-56f9-4670-8be2-5b00d2a107c0@192.200.160.228:2083?fp=chrome&host=de.elterido.ir&path=%2Fapi03&security=tls&sni=de.elterido.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
 
+vless://6e3d0d72-61d5-42c7-bb01-da2baee6540b@185.208.79.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://b3b8a57d-87af-4228-9577-d38628e8bf94@94.182.128.221:5280?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
