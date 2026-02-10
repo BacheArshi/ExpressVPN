@@ -2334,3 +2334,5 @@ vless://21cc0396-c482-4f29-b1bf-90a9e60f1599@37.139.34.145:443?security=reality&
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F&security=tls&encryption=none&host=ca.adobe-connect.top&type=ws&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
 
+vless://d9917a89-14f6-4485-e8c5-1a2465a5996b@3.72.87.185:41676?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vmess_ir
+
