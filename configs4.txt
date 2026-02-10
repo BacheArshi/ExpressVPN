@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---MTMVPN%2F---MTMVPN%2F---MTMVPN%2F---MTMVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
-
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
-
-vless://b03585ff-1e74-4767-b2a5-72107f127088@82.25.145.95:26446?type=ws&encryption=none&path=%2F&host=&security=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%F0%9F%93%81%20%40v2nodes
-
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
@@ -1455,4 +1449,6 @@ trojan://telegram-id-privatevpns@52.28.55.17:22222?security=tls&alpn=http/1.1&he
 vless://7e48c1bf-d016-4856-8466-671f1e3816b3@94.183.163.130:17346?mode=auto&path=%2F&security=reality&encryption=none&pbk=fg8UAa45-192GgZXTGOJ6tarpMZr0Y_QtaK_rmPK9WU&fp=chrome&spx=%2Fpost&type=xhttp&sni=www.varzesh3.com&sid=bc#%F0%9F%8C%90%20XHTTP-Reality%20%F0%9F%93%81%20%40V2rayNg_madam
 
 vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
+
+trojan://telegram-id-privatevpns@51.45.54.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
 
