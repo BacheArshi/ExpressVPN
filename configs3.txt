@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vmess_ir
-
 vless://b8c7a054-3c13-4b71-879c-4f4cbf5bf808@tbt.bernhard-rau.de:10002?mode=packet-up&path=%2Fapi&security=none&encryption=none&host=play.google.com&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40Spotify_Porteghali
 
 vless://c909cd0f-7a45-49ff-a22f-0446ab4d7743@108.162.192.188:8443?security=tls&sni=gosht.asve.ir&type=ws&host=gosht.asve.ir&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Hope_Net
@@ -2131,4 +2129,8 @@ vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=real
 vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Outline_Vpn
 
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40Outline_Vpn
+
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40G0Dv2ray
 
