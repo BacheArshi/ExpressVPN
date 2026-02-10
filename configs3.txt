@@ -2136,3 +2136,5 @@ vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@vip-80.f-sub.cfd:1517?security=none
 
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@vip-80.f-sub.cfd:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
 
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
