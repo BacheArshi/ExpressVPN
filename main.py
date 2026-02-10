@@ -27,7 +27,7 @@ EXPIRY_HOURS = 12
 SEARCH_LIMIT_HOURS = 1  
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
-ROTATION_LIMIT_3 = 3000   # ظرفیت فایل سوم
+ROTATION_LIMIT_3 = 3000   # ظرفیت فایل ۳ و ۴
 # =============================================================
 
 def get_only_flag(text):
@@ -82,7 +82,6 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
                 
-                # ساخت نام
                 new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
@@ -96,20 +95,17 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
         flag = get_only_flag(raw_fragment)
         params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(urllib.parse.urlparse(base_url).query)}
         
-        # تشخیص Security
         if 'security' in params:
             if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
             elif params['security'] == 'reality': security = 'Reality'
         elif 'sni' in params or 'pbk' in params: security = 'Reality' if 'pbk' in params else 'TLS'
 
-        # تشخیص Transport
         t_val = params.get('type', params.get('net', 'tcp'))
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
 
         if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
 
-        # ساخت نام نهایی
         final_name = f"{flag} {transport}-{security} {separator} {final_label}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
 
@@ -185,25 +181,31 @@ def run():
     batch1 = get_rotated(ROTATION_LIMIT)
     batch2 = get_rotated(ROTATION_LIMIT_2)
     
-    # --- منطق ثابت برای فایل ۳ ---
-    batch3 = valid_db[-ROTATION_LIMIT_3:]
+    # --- منطق ثابت (زمانی) برای فایل ۳ و ۴ ---
+    batch_chronological = valid_db[-ROTATION_LIMIT_3:]
 
-    # تابع ذخیره‌سازی با قابلیت انتخاب برندینگ
+    # تابع ذخیره‌سازی
     def save_output(filename, batch, use_custom_branding=False):
         seen = set(PINNED_CONFIGS)
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
-                # اینجا تعیین می‌کنیم که از کدام نوع نام‌گذاری استفاده شود
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
                 if renamed not in seen:
                     f.write(renamed + "\n\n")
                     seen.add(renamed)
 
-    # ذخیره فایل‌ها با تنظیمات متفاوت
-    save_output('configs.txt', batch1, use_custom_branding=False)   # نام منبع
-    save_output('configs2.txt', batch2, use_custom_branding=False)  # نام منبع
-    save_output('configs3.txt', batch3, use_custom_branding=True)   # نام کانال شما (@express_alaki)
+    # 1. فایل چرخشی کوچک (با نام منبع)
+    save_output('configs.txt', batch1, use_custom_branding=False)
+    
+    # 2. فایل چرخشی بزرگ (با نام منبع)
+    save_output('configs2.txt', batch2, use_custom_branding=False)
+    
+    # 3. فایل زمانی ثابت (با نام شما @express_alaki)
+    save_output('configs3.txt', batch_chronological, use_custom_branding=True)
+    
+    # 4. فایل زمانی ثابت (با نام منبع - کپی محتوای 3)
+    save_output('configs4.txt', batch_chronological, use_custom_branding=False)
 
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_db: f.write("|".join(item) + "\n")
