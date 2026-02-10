@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&sni=foucse1.goooooooozoooo.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
-
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.64.178.32:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
 
 vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
@@ -367,6 +365,8 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.213:443?security=tls&sni=
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@chatgpt.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?security=reality&encryption=none&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=5fe811ec9283ce51#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
+
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&sni=foucse1.goooooooozoooo.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.ibm.com&sid=4a5b6c7d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
 
@@ -1097,4 +1097,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFr
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.162.81:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40express_alaki
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBleHByZXNzX2FsYWtpIiwgImFkZCI6ICIxNS4yMzUuNTAuMTcyIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJiYXJhZGloYS5jb20iLCAiaW5zZWN1cmUiOiAiMSJ9
+
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.calmlunch.com&insecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40express_alaki
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFraSIsICJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJwb3J0IjogIjQzMDYzIiwgImlkIjogImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4In0=
 
