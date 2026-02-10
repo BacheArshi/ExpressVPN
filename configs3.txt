@@ -2310,3 +2310,5 @@ vless://035fc20e-04ce-43df-ac4d-65f9f6b2834d@istai-zo.izumii.ir:2091?security=&e
 
 vless://8c06ed2a-5b7c-4d8a-8d5b-c2a7fa4a2e65@104.248.242.98:41541?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Free_World2
 
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.250.243.98:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=f69d7af2d5fc5e0c#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
