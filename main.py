@@ -15,15 +15,19 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
 ]
 
+# تنظیمات نام‌گذاری
+MY_CHANNEL_ID = "@express_alaki"
 SOURCE_ICON = "📁" 
+CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
+
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
 EXPIRY_HOURS = 12       
 SEARCH_LIMIT_HOURS = 1  
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
-ROTATION_LIMIT_3 = 3000   # سقف ظرفیت فایل سوم
+ROTATION_LIMIT_3 = 3000   # ظرفیت فایل سوم
 # =============================================================
 
 def get_only_flag(text):
@@ -49,14 +53,27 @@ def parse_vmess_uri(config):
     except:
         return None, "", "TCP", "None", False
 
-def analyze_and_rename(config, channel_name):
+def analyze_and_rename(config, channel_name, use_my_branding=False):
+    """
+    use_my_branding=True  -> قالب: Flag Trans-Sec | @express_alaki
+    use_my_branding=False -> قالب: Flag Trans-Sec 📁 @SourceChannel
+    """
     try:
         config = config.strip()
-        clean_channel = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
-        if not clean_channel.startswith("@"): clean_channel = f"@{clean_channel}"
+        
+        # تعیین نام و جداکننده بر اساس حالت درخواستی
+        if use_my_branding:
+            final_label = MY_CHANNEL_ID
+            separator = CUSTOM_SEPARATOR
+        else:
+            clean_channel = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
+            if not clean_channel.startswith("@"): clean_channel = f"@{clean_channel}"
+            final_label = clean_channel
+            separator = SOURCE_ICON
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
+        # --- استراتژی ۱: VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -64,10 +81,13 @@ def analyze_and_rename(config, channel_name):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
-                new_ps = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
+                
+                # ساخت نام
+                new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
+        # --- استراتژی ۲: سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
@@ -76,19 +96,23 @@ def analyze_and_rename(config, channel_name):
         flag = get_only_flag(raw_fragment)
         params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(urllib.parse.urlparse(base_url).query)}
         
+        # تشخیص Security
         if 'security' in params:
             if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
             elif params['security'] == 'reality': security = 'Reality'
         elif 'sni' in params or 'pbk' in params: security = 'Reality' if 'pbk' in params else 'TLS'
 
+        # تشخیص Transport
         t_val = params.get('type', params.get('net', 'tcp'))
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
 
         if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
 
-        final_name = f"{flag} {transport}-{security} {SOURCE_ICON} {clean_channel}"
+        # ساخت نام نهایی
+        final_name = f"{flag} {transport}-{security} {separator} {final_label}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
+
     except:
         return config
 
@@ -161,23 +185,25 @@ def run():
     batch1 = get_rotated(ROTATION_LIMIT)
     batch2 = get_rotated(ROTATION_LIMIT_2)
     
-    # --- منطق ثابت برای فایل ۳ (۳۰۰۰ تای آخر بر اساس زمان دریافت) ---
-    # چون ما کانفیگ‌های جدید را append می‌کنیم، انتهای لیست جدیدترین‌ها هستند.
+    # --- منطق ثابت برای فایل ۳ ---
     batch3 = valid_db[-ROTATION_LIMIT_3:]
 
-    def save_output(filename, batch):
+    # تابع ذخیره‌سازی با قابلیت انتخاب برندینگ
+    def save_output(filename, batch, use_custom_branding=False):
         seen = set(PINNED_CONFIGS)
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
-                renamed = analyze_and_rename(raw_cfg, source_ch)
+                # اینجا تعیین می‌کنیم که از کدام نوع نام‌گذاری استفاده شود
+                renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
                 if renamed not in seen:
                     f.write(renamed + "\n\n")
                     seen.add(renamed)
 
-    save_output('configs.txt', batch1)
-    save_output('configs2.txt', batch2)
-    save_output('configs3.txt', batch3)
+    # ذخیره فایل‌ها با تنظیمات متفاوت
+    save_output('configs.txt', batch1, use_custom_branding=False)   # نام منبع
+    save_output('configs2.txt', batch2, use_custom_branding=False)  # نام منبع
+    save_output('configs3.txt', batch3, use_custom_branding=True)   # نام کانال شما (@express_alaki)
 
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_db: f.write("|".join(item) + "\n")
