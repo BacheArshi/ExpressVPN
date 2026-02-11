@@ -1178,3 +1178,5 @@ vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.67.71.181:443?security=tls&sni=
 
 vless://2a89a714-3b5b-40c0-b60d-c5f98d271c14@198.41.202.5:2087?security=tls&sni=LiV2ry.lightning1.ir&type=ws&host=LiV2ry.lightning1.ir&path=%2F%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-%40LiV2ray%3Fed%3D2048&fp=ios&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Hope_Net
 
+vless://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
+
