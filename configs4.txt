@@ -1098,10 +1098,6 @@ vless://8522177a-de08-4e28-8d79-3302ad89b335@gm.xv98.ir:2585?mode=gun&security=r
 
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@185.215.228.194:4220?path=%2F&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20WS-None%20%F0%9F%93%81%20%40V2rayng_Fast
 
-vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40BigSmoke_Config
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%F0%9F%93%81%20%40BigSmoke_Config
-
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
 vmess://eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgImlkIjogIm5hc25ldCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgV1MtTm9uZSBcdWQ4M2RcdWRjYzEgQEZyZWFrQ29uZmlnIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
@@ -1111,4 +1107,20 @@ vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-TLS%20%F0%9F%93%81%20%40FreakConfig
+
+vless://a2b35cb9-fcc5-419b-84eb-8efde59e498a@199.232.242.127:80?mode=auto&path=%2Fmgvpnir%3Fed%3D2560&security=none&encryption=none&host=mgvpniryour-name.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40flyv2ray
+
+vless://2b24d886-ef95-46e1-9c70-3fcbb8c7b283@deu60.worldunlocker.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40flyv2ray
+
+vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40BigSmoke_Config
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%F0%9F%93%81%20%40BigSmoke_Config
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJub2RlcyIsICJhZGQiOiAiMTU2LjIzMy4yMzIuMTkyIiwgInBvcnQiOiAiMjQwMDQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNTgyZmNiMzUtMjBhMC00NTJjLWUxNzktNGM3NTljNjJjNDk0IiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vless://6c40b315-d567-4461-ba90-e49ab24533f4@37.202.226.200:3070?path=%2F&security=none&encryption=none&host=rubika.ir&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Spotify_Porteghali
+
+vless://6c40b315-d567-4461-ba90-e49ab24533f4@62.60.218.252:3073?path=%2F&security=none&encryption=none&host=divar.ir&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Spotify_Porteghali
+
+vless://6c40b315-d567-4461-ba90-e49ab24…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Spotify_Porteghali
 
