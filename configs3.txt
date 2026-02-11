@@ -1090,11 +1090,21 @@ vmess://eyJhZGQiOiAiOTEuMjA2LjE3MS4xNjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40express_alaki
 
-vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40express_alaki
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%7C%20%40express_alaki
-
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
 
 vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@185.86.144.32:443?encryption=none&fp=chrome&pbk=4NjqiB_FliKff9bP2ASI3WWuhfuyviPeKoz1DyZJQDE&security=reality&serviceName=grpc&sid=574aa52c&sni=www.vk.com&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40express_alaki
+
+vless://8522177a-de08-4e28-8d79-3302ad89b335@139.162.176.129:2056?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
+
+vless://8522177a-de08-4e28-8d79-3302ad89b335@140.248.129.68:443?path=%2Fwst%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=parsianmobilebank.ir&fp=chrome&type=ws&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B2%20WS-TLS%20%7C%20%40express_alaki
+
+vless://8522177a-de08-4e28-8d79-3302ad89b335@140.248.128.40:443?path=%2Fwst%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=parsianmobilebank.ir&fp=chrome&type=ws&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B2%20WS-TLS%20%7C%20%40express_alaki
+
+vless://8522177a-de08-4e28-8d79-3302ad89b335@gm.xv98.ir:2585?mode=gun&security=reality&encryption=none&pbk=mrK0nObWl76JSWva9DTmJQGzCRmHwg37R4lOqWiS2EY&fp=chrome&type=grpc&serviceName=services&sni=www.google.com&sid=0d95572a6f#%F0%9F%87%B1%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40express_alaki
+
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@185.215.228.194:4220?path=%2F&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20WS-None%20%7C%20%40express_alaki
+
+vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@78.159.131.5:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=c643c0d6e9222005#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40express_alaki
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%7C%20%40express_alaki
 
