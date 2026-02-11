@@ -990,3 +990,7 @@ vless://2ab91962-16ba-4e7d-bc23-75fa02a8aa21@172.67.171.49:443?security=tls&sni=
 
 hy2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40express_alaki
 
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://af01651f-0058-492f-a614-7f9c316a0551@77.110.118.9:57463?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40express_alaki
+
