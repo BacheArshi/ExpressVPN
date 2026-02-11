@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-trojan://telegram-id-directvpn@51.45.54.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40express_alaki
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.54.119:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40express_alaki
-
-trojan://telegram-id-privatevpns@51.45.54.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40express_alaki
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIHwgQGV4cHJlc3NfYWxha2kiLCAiYWRkIjogIjQ1LjIwNy4xNTcuMjkiLCAicG9ydCI6ICIxMzg1MiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI4NDU3NjRkZi1lY2IzLTRiMTMtYmVkMi1iZjE1NTFiNjhlOWEiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-
-trojan://hSA6YXe15O@104.11.86.252:443?allowInsecure=1&sni=104.11.86.252#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40express_alaki
-
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
 
 vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.221.132:51102?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=8f222b3475800821#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
@@ -245,6 +235,8 @@ trojan://telegram-id-privatevpns@52.28.55.17:22222?security=tls&alpn=http/1.1&he
 vless://7e48c1bf-d016-4856-8466-671f1e3816b3@94.183.163.130:17346?mode=auto&path=%2F&security=reality&encryption=none&pbk=fg8UAa45-192GgZXTGOJ6tarpMZr0Y_QtaK_rmPK9WU&fp=chrome&spx=%2Fpost&type=xhttp&sni=www.varzesh3.com&sid=bc#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40express_alaki
 
 vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
+
+trojan://telegram-id-privatevpns@51.45.54.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40express_alaki
 
 vless://cf1b548b-4ab0-43fe-b000-330d42ec2a95@62.60.159.133:13179?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
 
