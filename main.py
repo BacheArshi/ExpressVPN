@@ -61,7 +61,6 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
     try:
         config = config.strip()
         
-        # تعیین نام و جداکننده بر اساس حالت درخواستی
         if use_my_branding:
             final_label = MY_CHANNEL_ID
             separator = CUSTOM_SEPARATOR
@@ -73,7 +72,6 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
-        # --- استراتژی ۱: VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -81,12 +79,10 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
-                
                 new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        # --- استراتژی ۲: سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
@@ -165,7 +161,7 @@ def run():
 
     valid_db = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # --- منطق چرخش برای فایل ۱ و ۲ ---
+    # --- منطق چرخش ---
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -180,32 +176,31 @@ def run():
 
     batch1 = get_rotated(ROTATION_LIMIT)
     batch2 = get_rotated(ROTATION_LIMIT_2)
-    
-    # --- منطق ثابت (زمانی) برای فایل ۳ و ۴ ---
     batch_chronological = valid_db[-ROTATION_LIMIT_3:]
 
-    # تابع ذخیره‌سازی
+    # تابع ذخیره‌سازی اصلاح شده (مهم: حذف شرط تکراری بودن اسم)
     def save_output(filename, batch, use_custom_branding=False):
-        seen = set(PINNED_CONFIGS)
+        # اینجا به جای اینکه اسم نهایی رو چک کنیم، خود لینک کانفیگ رو چک میکنیم
+        seen_raw = set(PINNED_CONFIGS) 
+        
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
+            
             for ts, source_ch, raw_cfg in batch:
+                # اگر خود لینک قبلا وجود داشت، ردش کن (نه اسمش)
+                if raw_cfg in seen_raw: continue
+                
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
-                if renamed not in seen:
-                    f.write(renamed + "\n\n")
-                    seen.add(renamed)
+                f.write(renamed + "\n\n")
+                
+                # لینک خام رو به لیست دیده شده‌ها اضافه کن
+                seen_raw.add(raw_cfg)
 
-    # 1. فایل چرخشی کوچک (با نام منبع)
+    # ذخیره فایل‌ها
     save_output('configs.txt', batch1, use_custom_branding=False)
-    
-    # 2. فایل چرخشی بزرگ (با نام منبع)
     save_output('configs2.txt', batch2, use_custom_branding=False)
-    
-    # 3. فایل زمانی ثابت (با نام شما @express_alaki)
-    save_output('configs3.txt', batch_chronological, use_custom_branding=True)
-    
-    # 4. فایل زمانی ثابت (با نام منبع - کپی محتوای 3)
-    save_output('configs4.txt', batch_chronological, use_custom_branding=False)
+    save_output('configs3.txt', batch_chronological, use_custom_branding=True)  # اسم شما
+    save_output('configs4.txt', batch_chronological, use_custom_branding=False) # اسم منبع
 
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_db: f.write("|".join(item) + "\n")
