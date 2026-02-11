@@ -1022,3 +1022,5 @@ vless://bfab1a74-d055-4c01-ae4d-709060a3420b@de.mobileemdad.top:42542?security=n
 
 vless://bfab1a74-d055-4c01-ae4d-709060a3420b@27.50.48.155:443?mode=auto&path=%2Fcloudapi&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&fp=chrome&type=xhttp&sni=dl.mobileemdad.top#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40express_alaki
 
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=%2F&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40express_alaki
+
