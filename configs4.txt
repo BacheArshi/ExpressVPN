@@ -996,3 +996,9 @@ vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@172.64.155.209:443?path=%2Fs55dLF15
 
 vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@188.114.96.6:443?path=%2Fs55dLF15ddokB1leJ%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fic.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=fic.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
 
+trojan://telegram-id-directvpn@3.68.128.188:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.128.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.68.128.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
