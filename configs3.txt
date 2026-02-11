@@ -1052,3 +1052,5 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&s
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBleHByZXNzX2FsYWtpIiwgImFkZCI6ICI1Ny4xMjkuNTkuMTk5IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAia2FtcG9uZy5vcmciLCAiaW5zZWN1cmUiOiAiMSJ9
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.208:443?encryption=none&security=tls&sni=pqh29v2.domforhid.shop&alpn=h2&insecure=1&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40express_alaki
+

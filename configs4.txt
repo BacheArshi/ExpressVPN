@@ -1052,3 +1052,5 @@ vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&s
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQERlYW1OZXRfcHJveHkiLCAiYWRkIjogIjU3LjEyOS41OS4xOTkiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJrYW1wb25nLm9yZyIsICJpbnNlY3VyZSI6ICIxIn0=
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.208:443?encryption=none&security=tls&sni=pqh29v2.domforhid.shop&alpn=h2&insecure=1&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
