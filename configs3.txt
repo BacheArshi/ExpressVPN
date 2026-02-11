@@ -974,3 +974,5 @@ vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.135:2083?security=tls&sni
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.171.242.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
+vless://3399d431-ddd5-4207-bbae-0a9452fa6c61@fonken.izumii.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
