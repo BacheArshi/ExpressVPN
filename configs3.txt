@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
-
 vless://85a33a63-4cd8-41fe-8e36-7495946f1e61@95.38.242.222:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&spx=%2FGozargahAzadi&type=tcp&sni=yahoo.com&sid=df8611c07d#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40express_alaki
@@ -169,6 +167,8 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.7
 vless://e9e389d2-49d0-40a3-9a5e-02444aae5d8a@138.124.61.108:28877?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBleHByZXNzX2FsYWtpIiwgImFkZCI6ICJmcmFua2Z1cnQwMS56Z2pvay5jb20iLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiYjcxNTc5YjEtNjU5My00MjZkLTkwYWMtZjAwMmZhOTZhZGUxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImZyYW5rZnVydDAxLnpnam9rLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJpbnNlY3VyZSI6ICIxIn0=
+
+vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40express_alaki
 
