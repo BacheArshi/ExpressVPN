@@ -1142,3 +1142,9 @@ vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.112:2083?security=tls&sni
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.209.142:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40express_alaki
 
+vless://2158fe7e-fd29-4ea7-a81e-362f3591022a@ip.hamrahto.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://2158fe7e-fd29-4ea7-a81e-362f3591022a@104.18.31.168:443?path=%2F&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://2158fe7e-fd29-4ea7-a81e-362f3591022a@45.130.125.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=craftedrpg.ir&type=ws&allowInsecure=0&sni=craftedrpg.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
