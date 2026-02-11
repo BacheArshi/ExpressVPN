@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@77.239.125.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
-vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=e0ef3d5c0aacb615&sni=tradingview.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
-trojan://BxceQaOe@43.198.233.56:381?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
-
-vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
-
-vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
-
 vless://d5c895c8-e64c-5bc3-b56a-be9f760f8250@5.35.36.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Dp29aPPjPglX26NOlqnfbKLCZ6id2OQCiO-SVo76BI&security=reality&sid=9ce128ed0237&sni=eh.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBIb3BlX05ldCIsICJhZGQiOiAiMTI5LjE1MC42MS4xNzAiLCAicG9ydCI6ICIyOTQ5MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYWMwZDAwNzYtOTNkMi00OGFkLWJhNmUtZWE1YzhkN2IwMTMyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMjkuMTUwLjYxLjE3MCIsICJ0bHMiOiAiIn0=
@@ -35,6 +25,8 @@ vless://1332320d-7153-4bb1-9e87-6a57c661a576@u.takspeed.shop:2086?type=ws&securi
 vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@104.17.147.22:443?path=%2Fsy5RZsmo3iYVIROnda%23Telegram-VIP1v2rayNG%20-Telegram-VIP1v2rayNG-Telegram-VIP1v2rayNG-Telegram-VIP1v2rayNG-Telegram-VIP1v2rayNG-Telegram-VIP1v2rayNG-Telegram-VIP1v2rayNG-Telegram&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dec.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=dec.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
 
 vless://b0191eca-a681-44a3-ceab-70560d5ca1a8@sh.shahab--web.com:2083?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sh.shahab--web.com&fp=chrome&type=ws&allowInsecure=0&sni=sh.shahab--web.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
+
+vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40Capoit
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40Capoit
 
@@ -487,6 +479,8 @@ vless://9fd700f5-62a7-4762-9c64-5aa954c2681a@blog.techemg.ir:8080?path=%2F&secur
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@89.169.128.105:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=2715592069f36fe7#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40netshekan99
 
 vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40netshekan99
+
+vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40netshekan99
 
 vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
 
@@ -1029,4 +1023,14 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyBcdWQ4
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFdTLVRMUyBcdWQ4M2RcdWRjYzEgQERlYW1OZXRfcHJveHkiLCAiYWRkIjogIjE0MS45NC4xNTUuMjI5IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJwZWxhbmcub3JnIiwgImluc2VjdXJlIjogIjEifQ==
 
 vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87&type=raw&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%F0%9F%93%81%20%40DeamNet_proxy
+
+trojan://humanity@www.multiplydose.com:443?encryption=none&security=tls&sni=www.multiplydose.com&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=random&insecure=1&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40EmKavpn
+
+vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40EmKavpn
 
