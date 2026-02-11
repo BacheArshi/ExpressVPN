@@ -15,7 +15,6 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
 ]
 
-# تنظیمات نام‌گذاری
 MY_CHANNEL_ID = "@express_alaki"
 SOURCE_ICON = "📁" 
 CUSTOM_SEPARATOR = "|"
@@ -54,31 +53,22 @@ def parse_vmess_uri(config):
         return None, "", "TCP", "None", False
 
 def get_config_core(config):
-    """
-    این تابع هسته اصلی کانفیگ (بدون نام و توضیحات) را استخراج می‌کند
-    تا برای تشخیص تکراری‌ها استفاده شود.
-    """
+    """ استخراج هسته کانفیگ برای تشخیص تکراری بودن سرور """
     try:
+        config = config.strip()
         if config.startswith("vmess://"):
-            # برای VMess، دیکد می‌کنیم و آدرس+پورت+آیدی را چک می‌کنیم
             data, _, _, _, is_json = parse_vmess_uri(config)
             if is_json:
-                return f"{data.get('add')}:{data.get('port')}:{data.get('id')}"
-            return config # اگر نشد، کل کانفیگ
+                return f"vmess-{data.get('add')}:{data.get('port')}:{data.get('id')}"
         else:
-            # برای بقیه، قسمت قبل از # را برمی‌گردانیم
+            # حذف اسم (Fragment) برای مقایسه آدرس سرور
             return config.split('#')[0]
     except:
         return config
 
 def analyze_and_rename(config, channel_name, use_my_branding=False):
-    """
-    تغییر نام کانفیگ. اگر خطا داد، سعی می‌کند همچنان برندینگ شما را حفظ کند.
-    """
     try:
         config = config.strip()
-        
-        # تعیین نام و جداکننده
         if use_my_branding:
             final_label = MY_CHANNEL_ID
             separator = CUSTOM_SEPARATOR
@@ -90,7 +80,6 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
-        # --- استراتژی ۱: VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -98,33 +87,26 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
-                
                 new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        # --- استراتژی ۲: سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
             base_url, raw_fragment = config, ""
 
         flag = get_only_flag(raw_fragment)
-        
-        # تلاش برای استخراج پارامترها
         try:
             parsed = urllib.parse.urlparse(base_url)
             params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed.query)}
-        except:
-            params = {}
+        except: params = {}
 
-        # تشخیص Security
         if 'security' in params:
             if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
             elif params['security'] == 'reality': security = 'Reality'
         elif 'sni' in params or 'pbk' in params: security = 'Reality' if 'pbk' in params else 'TLS'
 
-        # تشخیص Transport
         t_val = params.get('type', params.get('net', 'tcp'))
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
@@ -133,15 +115,7 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
 
         final_name = f"{flag} {transport}-{security} {separator} {final_label}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
-
     except:
-        # اگر هر خطایی در تحلیل رخ داد، باز هم سعی کن برندینگ شما را بزند (فقط برای فایل ۳)
-        if use_my_branding:
-            try:
-                base = config.split('#')[0]
-                return f"{base}#{urllib.parse.quote(f'{NOT_FOUND_FLAG} Generic {separator} {final_label}')}"
-            except:
-                return config
         return config
 
 def extract_configs_logic(msg_div):
@@ -177,6 +151,7 @@ def run():
     all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
 
+    # جمع‌آوری جدیدها
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -195,62 +170,67 @@ def run():
                         all_raw_configs.append(c)
         except: continue
 
-    valid_db = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    # فیلتر زمان انقضا
+    valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
+    # ==========================================
+    # مرحله کلیدی: ایجاد لیست یکتا (Deduplication)
+    # ==========================================
+    unique_pool = []
+    seen_cores = set()
+    
+    # هسته پین‌شده‌ها را ثبت کن تا در لیست اصلی نیایند
+    for pin in PINNED_CONFIGS:
+        seen_cores.add(get_config_core(pin))
+
+    for item in valid_items:
+        core = get_config_core(item[2])
+        if core not in seen_cores:
+            unique_pool.append(item)
+            seen_cores.add(core)
+
+    # --- مدیریت چرخش روی لیست یکتا ---
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
             with open('pointer.txt', 'r') as f: current_index = int(f.read().strip())
         except: current_index = 0
-    if current_index >= len(valid_db): current_index = 0
+    
+    pool_size = len(unique_pool)
+    if current_index >= pool_size: current_index = 0
 
-    def get_rotated(size):
-        if not valid_db: return []
-        if current_index + size <= len(valid_db): return valid_db[current_index : current_index + size]
-        return valid_db[current_index:] + valid_db[:size - (len(valid_db) - current_index)]
+    def get_rotated_batch(size):
+        if pool_size == 0: return []
+        if current_index + size <= pool_size:
+            return unique_pool[current_index : current_index + size]
+        else:
+            return unique_pool[current_index:] + unique_pool[:size - (pool_size - current_index)]
 
-    batch1 = get_rotated(ROTATION_LIMIT)
-    batch2 = get_rotated(ROTATION_LIMIT_2)
-    batch_chronological = valid_db[-ROTATION_LIMIT_3:]
+    batch1 = get_rotated_batch(ROTATION_LIMIT)
+    batch2 = get_rotated_batch(ROTATION_LIMIT_2)
+    batch_chronological = unique_pool[-ROTATION_LIMIT_3:]
 
-    # ==========================================
-    # تابع ذخیره‌سازی با سیستم حذف تکراری هوشمند
-    # ==========================================
+    # --- تابع ذخیره‌سازی نهایی (بدون فیلتر اضافی) ---
     def save_output(filename, batch, use_custom_branding=False):
-        # این ست برای نگهداری "هسته" کانفیگ‌هاست (بدون توجه به اسم)
-        seen_cores = set() 
-        
-        # پین‌شده‌ها را اضافه کن تا بعدا تکرار نشوند
-        for pin in PINNED_CONFIGS:
-            seen_cores.add(get_config_core(pin.strip()))
-
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS:
                 f.write(pin + "\n\n")
-
             for ts, source_ch, raw_cfg in batch:
-                raw_cfg = raw_cfg.strip()
-                
-                # استخراج هسته کانفیگ برای چک کردن تکراری
-                core = get_config_core(raw_cfg)
-                
-                if core in seen_cores:
-                    continue # اگر این سرور قبلا (با هر اسمی) ثبت شده، ردش کن
-                
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
-                
                 f.write(renamed + "\n\n")
-                seen_cores.add(core)
 
     save_output('configs.txt', batch1, use_custom_branding=False)
     save_output('configs2.txt', batch2, use_custom_branding=False)
-    save_output('configs3.txt', batch_chronological, use_custom_branding=True)  # اسم شما
-    save_output('configs4.txt', batch_chronological, use_custom_branding=False) # اسم منبع
+    save_output('configs3.txt', batch_chronological, use_custom_branding=True)
+    save_output('configs4.txt', batch_chronological, use_custom_branding=False)
 
+    # آپدیت دیتابیس و پوینتر
     with open('data.temp', 'w', encoding='utf-8') as f:
-        for item in valid_db: f.write("|".join(item) + "\n")
+        for item in valid_items: f.write("|".join(item) + "\n")
+    
     with open('pointer.txt', 'w', encoding='utf-8') as f:
-        f.write(str((current_index + ROTATION_LIMIT) % len(valid_db) if valid_db else 0))
+        new_ptr = (current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0
+        f.write(str(new_ptr))
 
 if __name__ == "__main__":
     run()
