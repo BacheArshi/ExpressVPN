@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40express_alaki
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFraSIsICJhZGQiOiAiMTg4LjExNC45Ni4yMjEiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiOWFjOTQ3YWEtZGU4Ni00MWMzLTlhNjAtNGMwNjFjN2M5NWYwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJob3N0IjogImRsMy5wbG90LmNcdTA0NDZcdTA0MzVcdTA0M2RcdTA0MzBcdTA0NDBcdTA0MzhcdTA0MzkuXHU1Mjg3XHU2MGM1XHUwNDMzXHUwNDNlXHUwNDNiXHUwNDNlXHUwNDMyMFx1MDQ0MFx1MDQzNVx1MDQzNy5maXIzYnJhbmQuXHU3MTdkXHU1MmQ1XHU4MDA1XHU4ZmZkXHU5MDEwXHU5NmY3XHU2MDY5Llx1MDQzZlx1MDQzZVx1MDQzM1x1MDQzZVx1MDQzZFx1MDQzNVx1MDQzN1x1MDQzMHBcdTA0MzVcdTA0MzlcdTA0M2Qud29ua2FjYXBpdGFuby5idXp6LiIsICJ0bHMiOiAiIn0=
@@ -1087,4 +1085,14 @@ vless://95c59a66-fed4-4833-894a-b00c7595e0b4@fasty.hamrahx.ir:80?mode=auto&path=
 vless://95c59a66-fed4-4833-894a-b00c7595e0b4@fasty.hamrahx.ir:80?mode=auto&path=%2Fdownload&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=lashi-nabash-koskash.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40express_alaki
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://8fba6073-b989-47ad-bb2b-a2dca22bfca2@H6.FASTSPEEDS.IR:2083?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-locz2.ip-venzo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=filimo.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40express_alaki
+
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?path=%2Fsite%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dariush-kharabkar.global.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://0f7794ff-c024-4968-a6c7-6e44c7d188c7@dariush-kharabkar.global.ssl.fastly.net:443?path=site&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dariush-kharabkar.global.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://8fba6073-b989-47ad-bb2b-a2dca22bfca2@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-ukp1.ip-venzo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
