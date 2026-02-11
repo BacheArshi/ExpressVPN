@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://c612fc5e-6c02-4693-9f19-0f2ea8d136c5@46.225.12.88:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
-
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://9a717e62-bb4e-59c6-a458-95b18873a6c0@pristytools.com.pristytools.com:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://32c5b858-ea45-4bb7-b474-042ea949241c@85.133.195.132:199?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://9a717e62-bb4e-59c6-a458-95b18873a6c0@pr…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Spotify_Porteghali
-
 vless://d4c244cd-fb79-478a-be50-7ea889491270@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40mtmvpn
 
 vless://ee8cef03-b03a-412f-9b61-05c5df3e0e2c@37.152.190.255:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
@@ -25,6 +15,8 @@ vless://420f263b-b01e-4f12-bb43-fe34a4d54ced@cloud.infomusicirani.ir:2053?path=%
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#%F0%9F%8C%90%20XHTTP-Reality%20%F0%9F%93%81%20%40netmelli15
 
 vless://251dafad-fae3-4ba2-b3cf-ef5eab796851@partners.dissertationhelpspecialist.com:443?mode=gun&security=reality&encryption=none&pbk=ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo&fp=firefox&spx=%2F&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&sni=tgju.org&sid=611f53cf893b#%F0%9F%8C%90%20GRPC-Reality%20%F0%9F%93%81%20%40netmelli15
+
+vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.68.94.66:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40netmelli15
 
 vless://4583d428-8ff9-4000-bcbd-953fe8c8df17@realmadrid2italy1seriea.q.aparat-archive.ir:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=firefox&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40netmelli15
 
@@ -75,6 +67,8 @@ vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&en
 vless://c4b3fb2b-6ea0-4825-82d0-e315a0898f46@172.67.213.180:443?path=%2Fsy5RZsmo3iYVIROnda&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dec.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=dec.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40mtmvpn
+
+vless://9a717e62-bb4e-59c6-a458-95b18873a6c0@pristytools.com.pristytools.com:2087?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
 
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?encryption=none&security=tls&sni=DiprOX.pages.DEV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=diprox.pages.dev&path=%2Fassets#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DailyV2RY
 
@@ -1243,4 +1237,16 @@ vless://e65aace3-ae58-4ff8-9d92-5e934985cf63@63.35.87.40:24880?security=none&enc
 vless://aa0def0e-b9cf-4d96-956d-ae8354f7753e@snow.fobix.shop:49930?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40prrofile_purple
 
 vless://c8f75ee8-eb79-4693-a88c-2f07220811ce@snow.fobix.shop:49930?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40prrofile_purple
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mehrosaboran
 
