@@ -1116,3 +1116,11 @@ vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?security=none&
 
 vless://d5c895c8-e64c-5bc3-b56a-be9f760f8250@5.35.36.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0Dp29aPPjPglX26NOlqnfbKLCZ6id2OQCiO-SVo76BI&security=reality&sid=9ce128ed0237&sni=eh.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40express_alaki
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFraSIsICJhZGQiOiAiMTI5LjE1MC42MS4xNzAiLCAicG9ydCI6ICIyOTQ5MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYWMwZDAwNzYtOTNkMi00OGFkLWJhNmUtZWE1YzhkN2IwMTMyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMjkuMTUwLjYxLjE3MCIsICJ0bHMiOiAiIn0=
+
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.19.110.50:443?path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://bea4ddd0-a014-434e-9eb4-f9c8822bf19e@104.16.60.8:443?security=tls&sni=usa.freesdns.info&type=ws&host=usa.freesdns.info&path=/&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFraSIsICJhZGQiOiAiMTI5LjE1OS4zMy4xOTkiLCAicG9ydCI6ICI0NTMyOCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiODQyYzMzZmYtMzFiNS00MTBjLWE5NmUtMGNiNTJhOTlhNmRhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMjkuMTU5LjMzLjE5OSIsICJ0bHMiOiAiIn0=
+
