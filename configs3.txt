@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://193c75c1-1af1-484a-84ec-14de4828d209@us.griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=ebay.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40express_alaki
-
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40express_alaki
-
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@172.64.152.23:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&insecure=1&type=ws&host=dev.twistsparrow.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40express_alaki
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyB8IEBleHByZXNzX2FsYWtpIiwgImFkZCI6ICI0MC4xNjAuMTYuMjE5IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJzZXJrYXQub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJzZXJrYXQub3JnIiwgImluc2VjdXJlIjogIjEifQ==
@@ -41,6 +37,8 @@ vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182/?encryption=non
 vless://193c75c1-1af1-484a-84ec-14de4828d209@ca.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
 
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&security=reality&sni=www.amazon.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
+
+vless://193c75c1-1af1-484a-84ec-14de4828d209@us.griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=ebay.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
 
 vless://193c75c1-1af1-484a-84ec-14de4828d209@lv.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
 
@@ -1253,4 +1251,10 @@ vless://488fb450-0ebf-4a82-9765-5eb23f337352@servergad.serversiran.top:18215?sec
 vless://c870584f-a0c3-47f6-8b8e-09eef67b3d01@a15.api-tel.ir:54697?type=tcp&encryption=none&path=%2F&host=divarcdn.com&headerType=http&security=reality&pbk=SE18-hr9HPPosy_BCLK4bh8fwNJdrJrNtkTBcsOqBGk&fp=chrome&sni=ea.com&sid=d128bc&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40express_alaki
 
 vless://c0a65cf6-5e82-4994-ba28-14bfc7a5eaa5@193.151.146.227:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://7423956a-eed9-4977-81e9-6b3d4b29802c@94.184.10.7:689?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://7423956a-eed9-4977-81e9-6b3d4b29802c@a4.aurqx.com:2095?security=none&encryption=none&host=sfggff.fhffg.cbgfd.silentbreath.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40express_alaki
 
