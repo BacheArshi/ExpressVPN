@@ -1020,3 +1020,7 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?encryption=none
 
 vless://cbaa6e41-8194-487a-9e2e-bbc0ab4c40bd@185.206.69.25:1422?security=reality&encryption=none&pbk=q-AEsvnN41Jb8KjFqGEBuSOYjFWXGGhpP9SuS9sBNXg&headerType=none&fp=chrome&spx=/example&type=tcp&sni=yahoo.com&sid=3143dc53998d9689#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://076e61a5-8095-4e6c-90c1-60cd0fa962d7@H3.FASTSPEEDS.IR:2053?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-locz.ip-venzo.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
+
