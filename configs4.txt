@@ -1106,3 +1106,5 @@ vless://d9dc0172-2bb6-4ada-8d5a-f182297be5b9@78.159.131.5:443?security=reality&e
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%F0%9F%93%81%20%40BigSmoke_Config
 
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2nodes
+
