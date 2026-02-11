@@ -178,23 +178,31 @@ def run():
     batch2 = get_rotated(ROTATION_LIMIT_2)
     batch_chronological = valid_db[-ROTATION_LIMIT_3:]
 
-    # تابع ذخیره‌سازی اصلاح شده (مهم: حذف شرط تکراری بودن اسم)
+    # ==========================================
+    # تابع ذخیره‌سازی اصلاح شده (Fix شده)
+    # ==========================================
     def save_output(filename, batch, use_custom_branding=False):
-        # اینجا به جای اینکه اسم نهایی رو چک کنیم، خود لینک کانفیگ رو چک میکنیم
-        seen_raw = set(PINNED_CONFIGS) 
-        
+        seen_raw_in_this_file = set() # متغیر برای جلوگیری از تکرار در همین فایل
+
         with open(filename, 'w', encoding='utf-8') as f:
-            for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
-            
+            # ۱. نوشتن پین‌شده‌ها
+            for pin in PINNED_CONFIGS:
+                f.write(pin + "\n\n")
+                seen_raw_in_this_file.add(pin.strip())
+
+            # ۲. نوشتن کانفیگ‌های بچ
             for ts, source_ch, raw_cfg in batch:
-                # اگر خود لینک قبلا وجود داشت، ردش کن (نه اسمش)
-                if raw_cfg in seen_raw: continue
+                raw_cfg = raw_cfg.strip()
                 
+                # نکته مهم: چک کردن خودِ لینک خام، نه اسم نهایی
+                if raw_cfg in seen_raw_in_this_file:
+                    continue
+                
+                # تغییر نام
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
-                f.write(renamed + "\n\n")
                 
-                # لینک خام رو به لیست دیده شده‌ها اضافه کن
-                seen_raw.add(raw_cfg)
+                f.write(renamed + "\n\n")
+                seen_raw_in_this_file.add(raw_cfg)
 
     # ذخیره فایل‌ها
     save_output('configs.txt', batch1, use_custom_branding=False)
