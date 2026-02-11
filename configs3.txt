@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@185.18.250.252:443?path=%2F&security=tls&encryption=none&insecure=1&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=1&sni=dev.twistsparrow.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
-
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=randomized&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40express_alaki
-
 vless://83c786f4-545e-4d79-b3e8-ebea76b36e38@104.18.26.90:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://85a33a63-4cd8-41fe-8e36-7495946f1e61@95.38.242.222:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
@@ -987,4 +983,16 @@ vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?alpn=h3&encryptio
 vless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?alpn=h3&encryption=none&fp=chrome&host=q.dioxv007.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=q.dioxv007.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=&encryption=none&host=check-host.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@45.81.58.159:443?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=nimbus.gozarino.com&type=ws&allowInsecure=0&sni=nimbus.gozarino.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o2.tun.vortextun.com:1717?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o5.tun.vortextun.com:1717?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://5cda258c-4413-499c-96bc-689bb3bfe1bc@o3.tun.vortextun.com:1717?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40express_alaki
+
+vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@172.64.155.209:443?path=%2Fs55dLF15ddokB1leJ%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fic.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=fic.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
+
+vless://b52370db-a4af-43e3-9e4c-a7e7115fcecb@188.114.96.6:443?path=%2Fs55dLF15ddokB1leJ%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fic.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=fic.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
