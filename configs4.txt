@@ -1054,3 +1054,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.208:443?encryption=none&s
 
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%F0%9F%93%81%20%40DeamNet_proxy
 
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@vnn.vpnfreedom.tech:443?type=tcp&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&fp=chrome&sni=google.com&sid=81&spx=/&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
