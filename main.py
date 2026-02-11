@@ -53,14 +53,32 @@ def parse_vmess_uri(config):
     except:
         return None, "", "TCP", "None", False
 
+def get_config_core(config):
+    """
+    این تابع هسته اصلی کانفیگ (بدون نام و توضیحات) را استخراج می‌کند
+    تا برای تشخیص تکراری‌ها استفاده شود.
+    """
+    try:
+        if config.startswith("vmess://"):
+            # برای VMess، دیکد می‌کنیم و آدرس+پورت+آیدی را چک می‌کنیم
+            data, _, _, _, is_json = parse_vmess_uri(config)
+            if is_json:
+                return f"{data.get('add')}:{data.get('port')}:{data.get('id')}"
+            return config # اگر نشد، کل کانفیگ
+        else:
+            # برای بقیه، قسمت قبل از # را برمی‌گردانیم
+            return config.split('#')[0]
+    except:
+        return config
+
 def analyze_and_rename(config, channel_name, use_my_branding=False):
     """
-    use_my_branding=True  -> قالب: Flag Trans-Sec | @express_alaki
-    use_my_branding=False -> قالب: Flag Trans-Sec 📁 @SourceChannel
+    تغییر نام کانفیگ. اگر خطا داد، سعی می‌کند همچنان برندینگ شما را حفظ کند.
     """
     try:
         config = config.strip()
         
+        # تعیین نام و جداکننده
         if use_my_branding:
             final_label = MY_CHANNEL_ID
             separator = CUSTOM_SEPARATOR
@@ -72,6 +90,7 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
+        # --- استراتژی ۱: VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -79,23 +98,33 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
+                
                 new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
+        # --- استراتژی ۲: سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
             base_url, raw_fragment = config, ""
 
         flag = get_only_flag(raw_fragment)
-        params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(urllib.parse.urlparse(base_url).query)}
         
+        # تلاش برای استخراج پارامترها
+        try:
+            parsed = urllib.parse.urlparse(base_url)
+            params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed.query)}
+        except:
+            params = {}
+
+        # تشخیص Security
         if 'security' in params:
             if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
             elif params['security'] == 'reality': security = 'Reality'
         elif 'sni' in params or 'pbk' in params: security = 'Reality' if 'pbk' in params else 'TLS'
 
+        # تشخیص Transport
         t_val = params.get('type', params.get('net', 'tcp'))
         t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
         transport = t_map.get(t_val, 'TCP')
@@ -106,6 +135,13 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
         return f"{base_url}#{urllib.parse.quote(final_name)}"
 
     except:
+        # اگر هر خطایی در تحلیل رخ داد، باز هم سعی کن برندینگ شما را بزند (فقط برای فایل ۳)
+        if use_my_branding:
+            try:
+                base = config.split('#')[0]
+                return f"{base}#{urllib.parse.quote(f'{NOT_FOUND_FLAG} Generic {separator} {final_label}')}"
+            except:
+                return config
         return config
 
 def extract_configs_logic(msg_div):
@@ -161,7 +197,6 @@ def run():
 
     valid_db = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # --- منطق چرخش ---
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -179,32 +214,34 @@ def run():
     batch_chronological = valid_db[-ROTATION_LIMIT_3:]
 
     # ==========================================
-    # تابع ذخیره‌سازی اصلاح شده (Fix شده)
+    # تابع ذخیره‌سازی با سیستم حذف تکراری هوشمند
     # ==========================================
     def save_output(filename, batch, use_custom_branding=False):
-        seen_raw_in_this_file = set() # متغیر برای جلوگیری از تکرار در همین فایل
+        # این ست برای نگهداری "هسته" کانفیگ‌هاست (بدون توجه به اسم)
+        seen_cores = set() 
+        
+        # پین‌شده‌ها را اضافه کن تا بعدا تکرار نشوند
+        for pin in PINNED_CONFIGS:
+            seen_cores.add(get_config_core(pin.strip()))
 
         with open(filename, 'w', encoding='utf-8') as f:
-            # ۱. نوشتن پین‌شده‌ها
             for pin in PINNED_CONFIGS:
                 f.write(pin + "\n\n")
-                seen_raw_in_this_file.add(pin.strip())
 
-            # ۲. نوشتن کانفیگ‌های بچ
             for ts, source_ch, raw_cfg in batch:
                 raw_cfg = raw_cfg.strip()
                 
-                # نکته مهم: چک کردن خودِ لینک خام، نه اسم نهایی
-                if raw_cfg in seen_raw_in_this_file:
-                    continue
+                # استخراج هسته کانفیگ برای چک کردن تکراری
+                core = get_config_core(raw_cfg)
                 
-                # تغییر نام
+                if core in seen_cores:
+                    continue # اگر این سرور قبلا (با هر اسمی) ثبت شده، ردش کن
+                
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
                 
                 f.write(renamed + "\n\n")
-                seen_raw_in_this_file.add(raw_cfg)
+                seen_cores.add(core)
 
-    # ذخیره فایل‌ها
     save_output('configs.txt', batch1, use_custom_branding=False)
     save_output('configs2.txt', batch2, use_custom_branding=False)
     save_output('configs3.txt', batch_chronological, use_custom_branding=True)  # اسم شما
