@@ -27,10 +27,10 @@ jobs:
     - name: Run script
       run: python main.py
 
-    - name: Commit and Push changes
+    - name: Commit and Push
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add configs.txt configs2.txt configs3.txt configs4.txt data.temp pointer.txt
-        git commit -m "Auto-update configs" || echo "No changes to commit"
-        git push
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add configs.txt configs2.txt configs3.txt configs4.txt configs5.txt data.temp pointer.txt
+          git commit -m "Update all configs including configs5" || exit 0
+          git push
