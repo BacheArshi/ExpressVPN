@@ -1144,3 +1144,7 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&f
 
 vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6ICI1NTE4NSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSBcdWQ4M2RcdWRjYzEgQGZseXYycmF5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 
+vless://57b9f20e-3f82-421e-9234-64333bfc07c8@46.38.142.57:8081?security=none&encryption=none&host=h.iran-ahwaz.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
+
