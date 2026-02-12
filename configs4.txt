@@ -1328,3 +1328,5 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=
 
 vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@chatgpt.com:443?mode=auto&security=tls&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=fin.moell13.org#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
 
+vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb06.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
