@@ -1164,3 +1164,5 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@8.219.198.139:443?security=tls&sni=
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.231.97:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
+vless://f5b63288-12cb-4a16-937a-f8ec4d60fb9a@utube.fluxorvpn.net:443?security=reality&encryption=none&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=d7e1a2bb#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
