@@ -12,7 +12,8 @@ from datetime import datetime, timezone
 #  بخش تنظیمات (Settings)
 # =============================================================
 PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki",]
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki",
+]
 
 MY_CHANNEL_ID = "@Express_alaki"
 SOURCE_ICON = "📁" 
@@ -25,7 +26,7 @@ EXPIRY_HOURS = 12
 SEARCH_LIMIT_HOURS = 1  
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
-ROTATION_LIMIT_3 = 3000   # ظرفیت فایل ۳ و ۴
+ROTATION_LIMIT_3 = 3000   
 # =============================================================
 
 def get_only_flag(text):
@@ -52,7 +53,6 @@ def parse_vmess_uri(config):
         return None, "", "TCP", "None", False
 
 def get_config_core(config):
-    """ استخراج هسته کانفیگ برای تشخیص تکراری بودن سرور """
     try:
         config = config.strip()
         if config.startswith("vmess://"):
@@ -67,24 +67,18 @@ def get_config_core(config):
 def analyze_and_rename(config, channel_name, use_my_branding=False):
     try:
         config = config.strip()
-        
-        # ۱. ابتدا نام کانال منبع را تمیز می‌کنیم (چون در هر دو حالت نیاز داریم)
         clean_source = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
         if not clean_source.startswith("@"): clean_source = f"@{clean_source}"
 
-        # ۲. تعیین فرمت خروجی بر اساس درخواست شما
         if use_my_branding:
-            # فرمت: 🌐 TCP-TLS | @express_alaki | src @source
             final_label = f"{MY_CHANNEL_ID} {CUSTOM_SEPARATOR} src {clean_source}"
             separator = CUSTOM_SEPARATOR
         else:
-            # فرمت: 🌐 TCP-TLS 📁 @source
             final_label = clean_source
             separator = SOURCE_ICON
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
-        # --- پردازش VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -92,13 +86,10 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
-                
-                # ساخت نام نهایی
                 new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        # --- پردازش سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
@@ -121,7 +112,6 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
 
         if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
 
-        # ساخت نام نهایی برای لینک‌های غیر VMess
         final_name = f"{flag} {transport}-{security} {separator} {final_label}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
     except:
@@ -154,13 +144,13 @@ def run():
     if os.path.exists('data.temp'):
         with open('data.temp', 'r', encoding='utf-8') as f:
             for line in f:
-                parts = line.strip().split('|')
+                # اصلاح split برای جلوگیری از ValueError
+                parts = line.strip().split('|', 2)
                 if len(parts) == 3: db_data.append(parts)
 
     all_raw_configs = [d[2] for d in db_data]
     now = datetime.now().timestamp()
 
-    # جمع‌آوری
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -179,14 +169,11 @@ def run():
                         all_raw_configs.append(c)
         except: continue
 
-    # فیلتر زمانی
     valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
-    # حذف تکراری (Deduplication)
     unique_pool = []
     seen_cores = set()
-    for pin in PINNED_CONFIGS:
-        seen_cores.add(get_config_core(pin))
+    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
 
     for item in valid_items:
         core = get_config_core(item[2])
@@ -194,7 +181,6 @@ def run():
             unique_pool.append(item)
             seen_cores.add(core)
 
-    # چرخش
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -206,20 +192,23 @@ def run():
 
     def get_rotated_batch(size):
         if pool_size == 0: return []
-        if current_index + size <= pool_size:
-            return unique_pool[current_index : current_index + size]
+        actual_size = min(size, pool_size) # جلوگیری از تکرار بیهوده
+        if current_index + actual_size <= pool_size:
+            return unique_pool[current_index : current_index + actual_size]
         else:
-            return unique_pool[current_index:] + unique_pool[:size - (pool_size - current_index)]
+            return unique_pool[current_index:] + unique_pool[:actual_size - (pool_size - current_index)]
 
     batch1 = get_rotated_batch(ROTATION_LIMIT)
     batch2 = get_rotated_batch(ROTATION_LIMIT_2)
     batch_chronological = unique_pool[-ROTATION_LIMIT_3:]
 
-    # ذخیره‌سازی
+    # --- بخش جدید: فیلتر ۲ ساعت برای فایل ۵ ---
+    # 7200 ثانیه = ۲ ساعت
+    batch_5 = [item for item in unique_pool if now - float(item[0]) < 7200]
+
     def save_output(filename, batch, use_custom_branding=False):
         with open(filename, 'w', encoding='utf-8') as f:
-            for pin in PINNED_CONFIGS:
-                f.write(pin + "\n\n")
+            for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
             for ts, source_ch, raw_cfg in batch:
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
                 f.write(renamed + "\n\n")
@@ -228,6 +217,8 @@ def run():
     save_output('configs2.txt', batch2, use_custom_branding=False)
     save_output('configs3.txt', batch_chronological, use_custom_branding=True)
     save_output('configs4.txt', batch_chronological, use_custom_branding=False)
+    # ذخیره فایل ۵ با برندینگ (مشابه ۳)
+    save_output('configs5.txt', batch_5, use_custom_branding=True)
 
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
