@@ -1136,3 +1136,9 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.24:8080?path=%2FIVApi%2FU
 
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@45.130.125.160:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
 
+vless://d035704c-fe9c-4ed8-8106-effd398a7e87@91.107.249.108:49749?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://ce57efba-b4b0-4e1f-9190-0dbb0d90f2a5@iran.jafarzadeh.ru:50190?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://75afff14-dad5-43d2-bd47-207b15978630@172.66.44.54:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=abolcinfig1.pages.dev&fp=chrome&type=ws&sni=abOLCInFIG1.PagES.dEv#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
