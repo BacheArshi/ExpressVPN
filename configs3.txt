@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://e559a909-fe6d-4019-be8d-ee79bfb21f00@royale.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&type=tcp&sni=d-assets.2gis.ru&sid=78523b486884cc4d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
 trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICI1Ny4xMjkuMjQuMTMyIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJzZXJrYXQub3JnIiwgInBhdGgiOiAibGlua3Z3cyNUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpVE0gKEBBWkFSQkFZSkFCMSkiLCAidGxzIjogInRscyIsICJzbmkiOiAic2Vya2F0Lm9yZyIsICJpbnNlY3VyZSI6ICIxIn0=
@@ -153,6 +151,8 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
 trojan://telegram-id-directvpn@13.39.0.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://e559a909-fe6d-4019-be8d-ee79bfb21f00@royale.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&type=tcp&sni=d-assets.2gis.ru&sid=78523b486884cc4d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
 
 vless://8fba6073-b989-47ad-bb2b-a2dca22bfca2@H6.FASTSPEEDS.IR:2083?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-locz2.ip-venzo.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
 
@@ -1199,4 +1199,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.21.22.146:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.13.122:80?type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.48.92:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
+
+vless://aee46a49-c99e-4c58-b443-4fff31f10ff4@vb08.sibitc.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
