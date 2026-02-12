@@ -1084,3 +1084,7 @@ vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.200:443?security=tls&sni=
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.10.182:2096?security=tls&sni=kkg.ylks.link&type=ws&path=/blue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
+vless://33b1a00b-85be-448d-bc3a-1089f1f25425@104.17.151.166:80?path=%2F%3Fed%3D2048&security=&encryption=none&host=23bahman.alij47649.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
+
+vless://33b1a00b-85be-448d-bc3a-1089f1f25425@104.17.26.129:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=23bahman.alij47649.workers.dev&fp=randomized&type=ws&sni=23bahman.alij47649.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
+
