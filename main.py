@@ -15,7 +15,7 @@ PINNED_CONFIGS = [
     "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki",
 ]
 
-MY_CHANNEL_ID = "@express_alaki"
+MY_CHANNEL_ID = "@Express_alaki"
 SOURCE_ICON = "📁" 
 CUSTOM_SEPARATOR = "|"
 NOT_FOUND_FLAG = "🌐"
