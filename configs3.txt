@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBleHByZXNzX2FsYWtpIiwgImFkZCI6ICI1Ny4xMjkuMjUuMjAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiNTcuMTI5LjI1LjIwIiwgImluc2VjdXJlIjogIjEifQ==
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGZmIFdTLU5vbmUgfCBAZXhwcmVzc19hbGFraSIsICJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJwb3J0IjogIjgwIiwgImlkIjogIjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIn0=
-
-trojan://telegram-id-directvpn@35.157.55.39:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40express_alaki
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.55.39:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40express_alaki
-
-trojan://telegram-id-privatevpns@35.157.55.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40express_alaki
-
 vless://ce8a9967-0b9e-4291-8231-56ec18311820@curt235.cvbesty.ir:2376?type=grpc&mode=gun&serviceName=&security=tls&sni=filimo.com&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40express_alaki
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
@@ -714,6 +704,8 @@ vless://6867f208-1e50-48cb-9baf-e3ce539f90f5@deu435.unlocknet.org:443?security=r
 
 vless://d4e6cdff-91c8-49f5-b211-f6b349617c49@172.64.155.209:443?path=%2FuqBYRQhpA2NzSIhejwuqjz%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-anotherme_night%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box---%23TELEGRAM-turbov2box&security=tls&alpn=http%2F1.1&encryption=none&host=de001c.ketabv.ir&fp=chrome&type=ws&sni=de001c.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
+trojan://telegram-id-privatevpns@35.157.55.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40express_alaki
+
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40express_alaki
@@ -1299,4 +1291,6 @@ vless://d4e6cdff-91c8-49f5-b211-f6b349617c49@de001c.ketabv.ir:443?path=%2FuqBYRQ
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=pqh30v1.carwashipdir.shop#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40express_alaki
+
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#%F0%9F%87%B8%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40express_alaki
 
