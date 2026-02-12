@@ -1114,3 +1114,15 @@ vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security
 
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn
 
+vless://9937887e-7f94-417a-8d64-91f442c21bdc@104.128.134.181:34816?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?encryption=none&security=none&type=ws&path=%2Fws%2Fapps%2Fzoomit#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+trojan://humanity@chatgpt.com:443?encryption=none&security=tls&sni=www.gossipglove.com&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&spx=%2F@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=raw&headertype=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICIxNS4yMzUuODUuMTU2IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MjVE0gKEBBWkFSQkFZSkFCMSlUTSAoQEFaQVJCQVlKQUIxKVRNIChAQVpBUkJBWUpBQjEpIiwgInRscyI6ICJ0bHMiLCAic25pIjogImthbXBvbmcub3JnIiwgImluc2VjdXJlIjogIjEifQ==
+
+vless://f291de93-b084-40b3-b4da-af90cd99de46@free.cloakzone.org:443?encryption=none&security=tls&sni=tiktok.com&fp=chrome&insecure=1&type=ws&path=%2FSG%2F#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
