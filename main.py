@@ -2,228 +2,181 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import os
-import html
 import json
 import base64
 import urllib.parse
 from datetime import datetime, timezone
 
 # =============================================================
-#  بخش تنظیمات (Settings)
+#  بخش تنظیمات
 # =============================================================
 PINNED_CONFIGS = [
-    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki",
+    "ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki",
 ]
 
-MY_CHANNEL_ID = "@express_alaki"
-SOURCE_ICON = "📁" 
-CUSTOM_SEPARATOR = "|"
-NOT_FOUND_FLAG = "🌐"
+MY_CHANNEL_ID = "@Express_alaki"
+# لیست کانال‌ها
+CHANNELS = [
+    'HajmVPN_Config', 'DailyV2RY', 'V2ray_Extractor', 'v2nodes', 'V2ray20261', 'Hope_Net',
+    'SafeNet_Server', 'L_I_N_E_V_P_N', 'v2rayNG_VPNN'
+]
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
-EXPIRY_HOURS = 12       
-SEARCH_LIMIT_HOURS = 1  
+# تنظیمات زمانی
+EXPIRY_HOURS = 12       # انقضای کلی دیتابیس
+STRICT_LIMIT_HOURS = 2  # انقضای فایل ۵
+
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
 ROTATION_LIMIT_3 = 3000   
 # =============================================================
 
 def get_only_flag(text):
-    if not text: return NOT_FOUND_FLAG
+    if not text: return "🌐"
     try:
         text = urllib.parse.unquote(urllib.parse.unquote(str(text)))
-    except: pass
-    flag_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
-    flags = flag_pattern.findall(text)
-    return flags[0] if flags else NOT_FOUND_FLAG
+        flag_pattern = re.compile(r'[\U0001F1E6-\U0001F1FF]{2}')
+        match = flag_pattern.search(text)
+        return match.group(0) if match else "🌐"
+    except: return "🌐"
 
-def parse_vmess_uri(config):
+def analyze_and_rename(raw_config, source_ch, use_my_branding=False):
     try:
-        b64_str = config[8:]
-        b64_str += "=" * (-len(b64_str) % 4)
-        data = json.loads(base64.b64decode(b64_str).decode('utf-8'))
-        raw_name = data.get('ps', '')
-        net = data.get('net', 'tcp').lower()
-        tls = data.get('tls', '').lower()
-        transport = net
-        security = 'TLS' if tls == 'tls' else 'None'
-        return data, raw_name, transport, security, True
-    except:
-        return None, "", "TCP", "None", False
-
-def get_config_core(config):
-    try:
-        config = config.strip()
-        if config.startswith("vmess://"):
-            data, _, _, _, is_json = parse_vmess_uri(config)
-            if is_json:
-                return f"vmess-{data.get('add')}:{data.get('port')}:{data.get('id')}"
-        else:
-            return config.split('#')[0]
-    except:
-        return config
-
-def analyze_and_rename(config, channel_name, use_my_branding=False):
-    try:
-        config = config.strip()
-        clean_source = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
+        clean_source = source_ch.replace("https://t.me/", "@").replace("t.me/", "@")
         if not clean_source.startswith("@"): clean_source = f"@{clean_source}"
 
         if use_my_branding:
-            final_label = f"{MY_CHANNEL_ID} {CUSTOM_SEPARATOR} src {clean_source}"
-            separator = CUSTOM_SEPARATOR
+            suffix = f" | {MY_CHANNEL_ID} | src {clean_source}"
         else:
-            final_label = clean_source
-            separator = SOURCE_ICON
+            suffix = f" | {clean_source}"
 
-        transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
-        
-        if config.startswith("vmess://"):
-            data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
-            if is_json:
-                flag = get_only_flag(raw_name)
-                t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
-                transport = t_map.get(v_trans.lower(), 'TCP')
-                security = v_sec
-                new_ps = f"{flag} {transport}-{security} {separator} {final_label}"
-                data['ps'] = new_ps
-                return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
-
-        if '#' in config:
-            base_url, raw_fragment = config.split('#', 1)
+        if raw_config.startswith('vmess://'):
+            b64 = raw_config[8:]
+            b64 += "=" * (-len(b64) % 4)
+            v_data = json.loads(base64.b64decode(b64).decode('utf-8'))
+            flag = get_only_flag(v_data.get('ps', ''))
+            v_data['ps'] = f"{flag}{suffix}"
+            return "vmess://" + base64.b64encode(json.dumps(v_data).encode('utf-8')).decode('utf-8')
         else:
-            base_url, raw_fragment = config, ""
-
-        flag = get_only_flag(raw_fragment)
-        try:
-            parsed = urllib.parse.urlparse(base_url)
-            params = {k.lower(): v.lower() for k, v in urllib.parse.parse_qsl(parsed.query)}
-        except: params = {}
-
-        if 'security' in params:
-            if params['security'] in ['tls', 'xtls', 'ssl']: security = 'TLS'
-            elif params['security'] == 'reality': security = 'Reality'
-        elif 'sni' in params or 'pbk' in params: security = 'Reality' if 'pbk' in params else 'TLS'
-
-        t_val = params.get('type', params.get('net', 'tcp'))
-        t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
-        transport = t_map.get(t_val, 'TCP')
-
-        if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
-
-        final_name = f"{flag} {transport}-{security} {separator} {final_label}"
-        return f"{base_url}#{urllib.parse.quote(final_name)}"
+            base_part, old_name = raw_config.split('#', 1) if '#' in raw_config else (raw_config, "")
+            flag = get_only_flag(old_name)
+            final_name = f"{flag}{suffix}"
+            return f"{base_part}#{urllib.parse.quote(final_name)}"
     except:
-        return config
-
-def extract_configs_logic(msg_div):
-    for img in msg_div.find_all("img"):
-        if 'emoji' in img.get('class', []) and img.get('alt'): img.replace_with(img['alt'])
-    for br in msg_div.find_all("br"): br.replace_with("\n")
-    full_text = html.unescape(msg_div.get_text())
-    extracted = []
-    for line in full_text.split('\n'):
-        line = line.strip()
-        starts = []
-        for proto in SUPPORTED_PROTOCOLS:
-            for m in re.finditer(re.escape(proto), line): starts.append((m.start(), proto))
-        starts.sort(key=lambda x: x[0])
-        for i in range(len(starts)):
-            start_pos = starts[i][0]
-            candidate = line[start_pos:starts[i+1][0]] if i+1 < len(starts) else line[start_pos:]
-            if len(candidate.strip()) > 15: extracted.append(candidate.strip())
-    return extracted
+        return raw_config
 
 def run():
-    if not os.path.exists('channels.txt'): return
-    with open('channels.txt', 'r') as f:
-        channels = [line.strip() for line in f if line.strip()]
-
+    print("--- STARTING SCRIPT ---")
+    
+    # 1. لود دیتابیس
     db_data = []
     if os.path.exists('data.temp'):
-        with open('data.temp', 'r', encoding='utf-8') as f:
-            for line in f:
-                parts = line.strip().split('|')
-                if len(parts) == 3: db_data.append(parts)
-
-    all_raw_configs = [d[2] for d in db_data]
-    now = datetime.now().timestamp()
-
-    for ch in channels:
         try:
-            resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
+            with open('data.temp', 'r', encoding='utf-8') as f:
+                for line in f:
+                    parts = line.strip().split(',', 2)
+                    if len(parts) == 3:
+                        db_data.append(tuple(parts))
+            print(f"Loaded {len(db_data)} configs from database.")
+        except Exception as e:
+            print(f"Error loading DB: {e}")
+
+    # 2. اسکرپ کانال‌ها
+    new_found_count = 0
+    for ch in CHANNELS:
+        try:
+            url = f"https://t.me/s/{ch}"
+            resp = requests.get(url, timeout=10)
             if resp.status_code != 200: continue
+            
             soup = BeautifulSoup(resp.text, 'html.parser')
-            for wrap in soup.find_all('div', class_='tgme_widget_message_wrap'):
-                time_tag = wrap.find('time')
-                if not time_tag: continue
-                msg_time = datetime.fromisoformat(time_tag['datetime'])
-                if (datetime.now(timezone.utc) - msg_time).total_seconds() > (SEARCH_LIMIT_HOURS * 3600): continue
-                msg_text = wrap.find('div', class_='tgme_widget_message_text')
-                if not msg_text: continue
-                for c in extract_configs_logic(msg_text):
-                    if c not in all_raw_configs and c not in PINNED_CONFIGS:
-                        db_data.append([str(now), ch, c])
-                        all_raw_configs.append(c)
-        except: continue
+            msgs = soup.find_all('div', class_='tgme_widget_message_text')
+            
+            for msg in msgs:
+                raw_text = msg.get_text('\n')
+                for line in raw_text.split('\n'):
+                    line = line.strip()
+                    if any(line.startswith(p) for p in SUPPORTED_PROTOCOLS):
+                        # اگر تکراری نبود اضافه کن
+                        if not any(x[2] == line for x in db_data):
+                            db_data.append((str(datetime.now().timestamp()), ch, line))
+                            new_found_count += 1
+        except Exception as e:
+            print(f"Error scraping {ch}: {e}")
+            continue
+            
+    print(f"Scraping finished. Found {new_found_count} NEW configs.")
 
-    valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    # 3. حذف منقضی‌های کلی (۱۲ ساعت)
+    now_ts = datetime.now().timestamp()
+    valid_db = [item for item in db_data if now_ts - float(item[0]) < (EXPIRY_HOURS * 3600)]
+    print(f"Total valid configs (last 12h): {len(valid_db)}")
 
-    unique_pool = []
-    seen_cores = set()
-    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
-    for item in valid_items:
-        core = get_config_core(item[2])
-        if core not in seen_cores:
-            unique_pool.append(item)
-            seen_cores.add(core)
-
-    pool_size = len(unique_pool)
-    current_index = 0
-    if os.path.exists('pointer.txt'):
-        try:
-            with open('pointer.txt', 'r') as f: current_index = int(f.read().strip())
-        except: current_index = 0
-    if current_index >= pool_size: current_index = 0
-
-    # --- اصلاح تابع چرخش برای جلوگیری از تکرار ---
-    def get_rotated_batch(size):
-        if pool_size == 0: return []
-        # اگر کل دیتابیس کمتر از حد درخواستی بود، فقط کل دیتابیس را برگردان (بدون تکرار)
-        if pool_size <= size:
-            return unique_pool
-        
-        # اگر دیتابیس بزرگتر بود، عملیات چرخش را انجام بده
-        if current_index + size <= pool_size:
-            return unique_pool[current_index : current_index + size]
-        else:
-            return unique_pool[current_index:] + unique_pool[:size - (pool_size - current_index)]
-
-    batch1 = get_rotated_batch(ROTATION_LIMIT)
-    batch2 = get_rotated_batch(ROTATION_LIMIT_2)
-    # برای فایل ۳ و ۴ همیشه جدیدترین‌ها را می‌خواهیم (بدون چرخش)
-    batch_newest = unique_pool[-ROTATION_LIMIT_3:]
-
-    def save_output(filename, batch, use_custom_branding=False):
-        with open(filename, 'w', encoding='utf-8') as f:
-            for pin in PINNED_CONFIGS:
-                f.write(pin + "\n\n")
-            for ts, source_ch, raw_cfg in batch:
-                renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
-                f.write(renamed + "\n\n")
-
-    save_output('configs.txt', batch1, use_custom_branding=False)
-    save_output('configs2.txt', batch2, use_custom_branding=False)
-    save_output('configs3.txt', batch_newest, use_custom_branding=True)
-    save_output('configs4.txt', batch_newest, use_custom_branding=False)
-
-    with open('data.temp', 'w', encoding='utf-8') as f:
-        for item in valid_items: f.write("|".join(item) + "\n")
+    # 4. آماده‌سازی دسته‌ها
     
-    with open('pointer.txt', 'w', encoding='utf-8') as f:
-        new_ptr = (current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0
+    # --- منطق فایل ۵ (فقط ۲ ساعت اخیر) ---
+    # شرط: زمان فعلی - زمان ثبت < ۷۲۰۰ ثانیه
+    batch_5 = [item for item in valid_db if now_ts - float(item[0]) < (STRICT_LIMIT_HOURS * 3600)]
+    print(f"Configs for configs5.txt (Last 2 hours): {len(batch_5)}")
+
+    batch_3 = valid_db[-ROTATION_LIMIT_3:]
+
+    # منطق چرخشی
+    pointer = 0
+    if os.path.exists('pointer.txt'):
+        try: pointer = int(open('pointer.txt', 'r').read().strip())
+        except: pointer = 0
+    
+    pool_size = len(valid_db)
+    if pointer >= pool_size: pointer = 0
+    
+    def get_rotated(size):
+        if not valid_db: return []
+        if pool_size <= size: return valid_db
+        if pointer + size <= pool_size:
+            return valid_db[pointer : pointer + size]
+        else:
+            return valid_db[pointer:] + valid_db[:size - (pool_size - pointer)]
+
+    batch_1 = get_rotated(ROTATION_LIMIT)
+    batch_2 = get_rotated(ROTATION_LIMIT_2)
+
+    # 5. تابع ذخیره‌سازی تضمینی
+    def save(filename, batch, branded=False):
+        try:
+            with open(filename, 'w', encoding='utf-8') as f:
+                # اول پین شده‌ها را بنویس
+                for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
+                
+                # اگر لیستی وجود دارد بنویس
+                if batch:
+                    for _, ch, cfg in batch:
+                        renamed = analyze_and_rename(cfg, ch, use_my_branding=branded)
+                        f.write(renamed + "\n\n")
+            print(f"Successfully saved {filename}")
+        except Exception as e:
+            print(f"Error saving {filename}: {e}")
+
+    # ذخیره تمام فایل‌ها
+    save('configs.txt', batch_1, branded=False)
+    save('configs2.txt', batch_2, branded=False)
+    save('configs3.txt', batch_3, branded=True)
+    save('configs4.txt', batch_3, branded=False)
+    
+    # فایل ۵ حتما ساخته می‌شود حتی اگر batch_5 خالی باشد
+    save('configs5.txt', batch_5, branded=True)
+
+    # 6. آپدیت سیستم
+    with open('pointer.txt', 'w') as f:
+        new_ptr = (pointer + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0
         f.write(str(new_ptr))
+    
+    with open('data.temp', 'w', encoding='utf-8') as f:
+        for item in valid_db:
+            f.write(f"{item[0]},{item[1]},{item[2]}\n")
+            
+    print("--- SCRIPT FINISHED ---")
 
 if __name__ == "__main__":
     run()
