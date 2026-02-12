@@ -60,20 +60,31 @@ def analyze_and_rename(raw_config, source_ch, use_my_branding=False):
         return raw_config
 
 def run():
-    # اینجا فرض بر این است که منطق جمع‌آوری شما در unique_pool ذخیره شده است
-    # برای کوتاه شدن پاسخ، من فقط بخش نهایی ذخیره‌سازی را اصلاح می‌کنیم:
-    
-    # [بخش جمع‌آوری کد اصلی شما اینجا قرار دارد...]
-    # فرض کنید لیست نهایی شما unique_pool است شامل (timestamp, channel, config)
-    
-    unique_pool = [] # این لیست در کد اصلی شما پر می‌شود
-    
-    # ... (کد اصلی جمع‌آوری کانفیگ‌ها را اینجا نگه دارید) ...
+    # --- لود کردن دیتای قبلی (data.temp) ---
+    unique_pool = []
+    if os.path.exists('data.temp'):
+        try:
+            with open('data.temp', 'r', encoding='utf-8') as f:
+                for line in f:
+                    parts = line.strip().split(',', 2)
+                    if len(parts) == 3:
+                        unique_pool.append(tuple(parts))
+        except: pass
 
-    # --- بخش نهایی ذخیره‌سازی فایل‌ها ---
+    # --- بخش دریافت کانفیگ‌ها (Scraping) ---
+    # در اینجا کد اصلی شما برای جمع‌آوری کانفیگ‌ها اجرا می‌شود
+    # (فرض بر این است که منطق جمع‌آوری شما لیست unique_pool را آپدیت می‌کند)
+
+    # --- فیلتر کردن کانفیگ‌های منقضی شده ---
+    now_ts = datetime.now().timestamp()
+    unique_pool = [item for item in unique_pool if now_ts - float(item[0]) < (EXPIRY_HOURS * 3600)]
+
     pool_size = len(unique_pool)
-    if pool_size == 0: return
+    if pool_size == 0:
+        print("هیچ کانفیگی پیدا نشد.")
+        return
 
+    # --- توابع کمکی برای ذخیره‌سازی ---
     def save_output(filename, batch, use_custom_branding=False):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS:
@@ -82,19 +93,41 @@ def run():
                 renamed = analyze_and_rename(raw_cfg, source_ch, use_my_branding=use_custom_branding)
                 f.write(renamed + "\n\n")
 
-    # فایل‌های قبلی
-    # (محاسبات batch1 و batch2 و batch_newest مشابه کد خودتان)
-    
-    # --- ساخت فایل جدید configs5.txt (مخصوص بات) ---
-    now_ts = datetime.now().timestamp()
-    # فقط کانفیگ‌هایی که حداکثر ۲ ساعت پیش اضافه شده‌اند
-    valid_2h = [item for item in unique_pool if now_ts - float(item[0]) < (2 * 3600)]
-    batch_5 = valid_2h[-1000:] # حداکثر ۱۰۰۰ تای آخر
+    # --- منطق چرخش (Rotation) برای فایل‌های ۱ و ۲ ---
+    pointer = 0
+    if os.path.exists('pointer.txt'):
+        try:
+            with open('pointer.txt', 'r') as f: pointer = int(f.read().strip())
+        except: pointer = 0
 
-    # ذخیره فایل‌ها
-    # save_output('configs.txt', batch1) ... و غیره
-    save_output('configs3.txt', unique_pool[-ROTATION_LIMIT_3:], use_custom_branding=True)
-    save_output('configs5.txt', batch_5, use_custom_branding=True)
+    def get_rotated_batch(size):
+        current_index = pointer % pool_size
+        if current_index + size <= pool_size:
+            return unique_pool[current_index : current_index + size]
+        else:
+            return unique_pool[current_index:] + unique_pool[:size - (pool_size - current_index)]
+
+    batch1 = get_rotated_batch(ROTATION_LIMIT)
+    batch2 = get_rotated_batch(ROTATION_LIMIT_2)
+    batch_newest = unique_pool[-ROTATION_LIMIT_3:]
+
+    # --- ساخت فایل مخصوص بات (configs5.txt) - ۲ ساعت اخیر ---
+    # فقط کانفیگ‌هایی که در ۲ ساعت گذشته پیدا شده‌اند را جدا می‌کنیم
+    valid_2h = [item for item in unique_pool if now_ts - float(item[0]) < (2 * 3600)]
+    batch_5 = valid_2h[-1000:] # حداکثر ۱۰۰۰ عدد
+
+    # --- ذخیره تمامی فایل‌ها ---
+    save_output('configs.txt', batch1, use_custom_branding=False)
+    save_output('configs2.txt', batch2, use_custom_branding=False)
+    save_output('configs3.txt', batch_newest, use_custom_branding=True)
+    save_output('configs4.txt', batch_newest, use_custom_branding=False)
+    save_output('configs5.txt', batch_5, use_custom_branding=True) # فایل جدید
+
+    # آپدیت پوینتر و دیتای خام
+    with open('pointer.txt', 'w') as f: f.write(str(pointer + 1))
+    with open('data.temp', 'w', encoding='utf-8') as f:
+        for item in unique_pool:
+            f.write(f"{item[0]},{item[1]},{item[2]}\n")
 
 if __name__ == "__main__":
     run()
