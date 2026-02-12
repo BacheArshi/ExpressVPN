@@ -1122,3 +1122,5 @@ vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@104.17.147.22:2082?path=%2F%3Fed%3D
 
 vless://b95a5e81-dc9e-4704-b57c-ef4ff5b541ac@cdn2.aiserver.pro:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=cdn2.aiserver.pro#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40V2rayNg_madam
 
+vmess://eyJhZGQiOiAiZGlnaXRhbG9jZWFuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwgImlkIjogImU4YjE1MDBiLWU5ZTgtNTQ5Mi04MzEyLWY0ZWFkZjdkMDc2NyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9OQVNORVQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSBcdWQ4M2RcdWRjYzEgQHZtZXNjIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
