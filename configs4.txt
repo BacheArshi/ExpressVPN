@@ -1276,3 +1276,5 @@ vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=no
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.42.89.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40DailyV2RY
 
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40vmess_ir
+
