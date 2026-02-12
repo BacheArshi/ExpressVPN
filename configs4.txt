@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40express_alaki
 
-vless://7423956a-eed9-4977-81e9-6b3d4b29802c@94.184.10.7:689?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40flyv2ray
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40flyv2ray
-
-vless://7423956a-eed9-4977-81e9-6b3d4b29802c@a4.aurqx.com:2095?security=none&encryption=none&host=sfggff.fhffg.cbgfd.silentbreath.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40flyv2ray
-
 vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.19:8080?path=%2FIVApi%2FNL%2F3&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40vmesc
 
 hysteria2://freehomesvpnchannel3@channel1.saghetalaie.homes:46914?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK!5t%23U&sni=www.google.com%23Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -295,6 +289,8 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encrypti
 trojan://humanity@104.18.32.47:443?encryption=none&security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
 
 vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40EmKavpn
+
+vless://7423956a-eed9-4977-81e9-6b3d4b29802c@a4.aurqx.com:2095?security=none&encryption=none&host=sfggff.fhffg.cbgfd.silentbreath.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40EmKavpn
 
 vless://e9000d6b-2cb8-46b0-96c8-751a7abd54f2@md-alex-01.com:8443?security=reality&encryption=none&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=58a6be9762c769f2#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40EmKavpn
 
