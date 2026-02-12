@@ -15,7 +15,7 @@ MY_CHANNEL_ID = "@Express_alaki"
 CHANNELS = ['HajmVPN_Config', 'DailyV2RY', 'V2ray_Extractor', 'v2nodes', 'V2ray20261', 'Hope_Net', 'SafeNet_Server', 'L_I_N_E_V_P_N', 'v2rayNG_VPNN']
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 EXPIRY_HOURS = 12
-STRICT_LIMIT_HOURS = 2
+STRICT_LIMIT_HOURS = 1
 ROTATION_LIMIT, ROTATION_LIMIT_2, ROTATION_LIMIT_3 = 65, 1000, 3000
 
 def get_only_flag(text):
