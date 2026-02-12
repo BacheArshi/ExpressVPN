@@ -1088,3 +1088,23 @@ vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&sec
 
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.c…#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
 
+trojan://telegram-id-directvpn@35.181.228.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.228.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.228.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
+vless://d37303d1-e7c0-45dc-8128-1e17d3db31d4@srv56.towersflowerss.com:443?security=reality&encryption=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=srv56.towersflowerss.com#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@sad24.ahg6k.1k3dv.carvan3.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://f47d81b2-27a2-4b99-9999-3bc82373bdee@FASTLY1.FASTSPEEDS.IR:80?mode=auto&path=%2FCloudFlare%3Fed%3D2048&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=mrpkuks.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20XHTTP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://f47d81b2-27a2-4b99-9999-3bc82373bdee@FASTLY1.FASTSPEEDS.IR:80?mode=auto&path=%2FCloudFlare%3Fed%3D2048&security=&encryption=none&host=mrpkusa.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://2d471762-78e0-4a2a-a940-c0e606aff04b@104.17.147.22:443?path=%2F1y8oCJrlAPmz4Vo4TdtKSwFGZO0m%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy---%23TELEGRAM-ConfigV2rayy&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de002c.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=de002c.ketabv.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
