@@ -31,8 +31,6 @@ jobs:
       run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # استفاده از -A برای اضافه کردن همه فایل‌های جدید و تغییر یافته (از جمله configs5)
-          git add -A 
-          # جلوگیری از ارور در صورتی که تغییری برای کامیت وجود نداشته باشد
-          git commit -m "Update configs and configs5" || echo "No changes to commit"
-          git push
+          git add -A
+          # اضافه کردن این شرط برای جلوگیری از ارور وقتی تغییری نیست
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update configs" && git push)
