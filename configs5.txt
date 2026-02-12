@@ -244,3 +244,11 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.185.98:80?security=none&type
 
 vless://35c68c9f-583a-4312-d23a-28d73eb4b67b@3.72.9.102:47929?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
 
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh29v4.carwashipdir.shop&alpn=h2&insecure=1&type=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICI1Ny4xMjkuMjUuMjMiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInlpY2h1ZW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAieWljaHVlbmcub3JnIiwgImluc2VjdXJlIjogIjEifQ==
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICI1Ny4xMjguMTg5LjIyMiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAibGFtbWFsYW5kLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAibGFtbWFsYW5kLm9yZyIsICJpbnNlY3VyZSI6ICIxIn0=
+
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.1…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
+
