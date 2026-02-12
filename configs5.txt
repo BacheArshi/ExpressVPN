@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47043?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2ray20261
-
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47041?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2ray20261
-
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?mode=auto&path=%2Fapi&security=none&encryption=none&host=play.google.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2ray20261
-
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2ray20261
-
-vmess://eyJhZGQiOiAiOTUuMjE3LjI1LjY5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDIxNTIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-
 vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.218.146.204:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@211.72.156.12:23555?security=tls&sni=dns68.putata.eu.org&type=ws&host=dns68.putata.eu.org&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
@@ -233,4 +223,16 @@ vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.193.109.3:443?security=none&encr
 vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
 vless://a56d76c1-02b9-4919-90f0-3ec7afa49a2a@45.138.25.84:17399?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--V2rayBaaz&mode=stream-up#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+trojan://telegram-id-directvpn@52.57.198.97:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.198.97:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.57.198.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
+vless://5ce3dcf0-582f-4ce5-e226-e0fa6281a504@128.241.229.14:443?path=%2F6f1cf7bd&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?encryption=none&security=none&type=ws&host=65.109.203.5&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
