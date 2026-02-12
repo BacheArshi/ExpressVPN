@@ -982,3 +982,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.188.159:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@3.72.188.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
 
+vless://7fac426b-77aa-4366-960e-933d0c778b5b@104.17.74.206:8080?path=%2Fwp-admin.php%3Fed%3D2052&security=none&encryption=none&host=kernal02.ivy-net.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40netshekan99
+
