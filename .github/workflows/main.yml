@@ -1,36 +1,33 @@
 name: Update Configs
 
 on:
-  workflow_dispatch:      # اجرای دستی
+  workflow_dispatch:
 
 permissions:
-  contents: write         # اجازه ایجاد تغییرات در فایل‌ها
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.9'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
 
-    - name: Run script
-      run: python main.py
+      - name: Run Script
+        run: python main.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add configs.txt configs2.txt configs3.txt configs4.txt data.temp pointer.txt
-        git commit -m "Auto-update configs" || echo "No changes to commit"
-        git push
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update configs including configs5" || exit 0
+          git push
