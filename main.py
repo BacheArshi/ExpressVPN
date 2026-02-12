@@ -203,8 +203,8 @@ def run():
     batch_chronological = unique_pool[-ROTATION_LIMIT_3:]
 
     # --- بخش جدید: فیلتر ۲ ساعت برای فایل ۵ ---
-    # 7200 ثانیه = ۲ ساعت
-    batch_5 = [item for item in unique_pool if now - float(item[0]) < 7200]
+    # 3600 ثانیه = ۲ ساعت
+    batch_5 = [item for item in unique_pool if now - float(item[0]) < 3600]
 
     def save_output(filename, batch, use_custom_branding=False):
         with open(filename, 'w', encoding='utf-8') as f:
