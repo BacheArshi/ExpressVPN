@@ -1244,3 +1244,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@47.236.202.91:8443?security=tls&sni
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.90.141.204:443?security=tls&sni=vf.ylks.link&type=ws&path=%2Fpkms9hrhvbpq1ikg%3Fed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40express_alaki
 
+vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.18.32.47:443?path=/prv&security=tls&encryption=none&insecure=0&host=nl.prvprt.com&type=ws&allowInsecure=0&sni=nl.prvprt.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40express_alaki
+
