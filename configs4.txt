@@ -1288,3 +1288,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.251:443?security=tls&sni
 
 vless://cbd0bb00-295e-448f-b07f-47164e8e8196@104.22.25.209:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D8080#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
+vless://8abf7fb8-1591-48fd-8db0-d9c751e5e435@curt236.curtvbest.ir:2377?mode=gun&security=tls&encryption=none&type=grpc&sni=speedtest.net#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40v2raba
+
+hysteria2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056?security=tls&insecure=1&sni=mlxy2.xiaoliyu.us#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40vmesc
+
