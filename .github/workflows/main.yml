@@ -31,6 +31,8 @@ jobs:
       run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add configs.txt configs2.txt configs3.txt configs4.txt configs5.txt data.temp pointer.txt
-          git commit -m "Update all configs including configs5" || exit 0
+          # استفاده از -A برای اضافه کردن همه فایل‌های جدید و تغییر یافته (از جمله configs5)
+          git add -A 
+          # جلوگیری از ارور در صورتی که تغییری برای کامیت وجود نداشته باشد
+          git commit -m "Update configs and configs5" || echo "No changes to commit"
           git push
