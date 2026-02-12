@@ -1228,3 +1228,5 @@ hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&o
 
 vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox1.ping-box.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40express_alaki
 
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40express_alaki
+
