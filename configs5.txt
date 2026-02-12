@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@15.188.241.30:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.241.30:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.188.241.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
-vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.21.89.76:443?path=%2Fprv&security=tls&encryption=none&insecure=0&host=nl.prvprt.com&type=ws&allowInsecure=0&sni=nsdjl.prvprt.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://5e0c0c2a-d600-4dc8-9621-d293e935048d@192.200.160.20:443?path=%2Fhuwmciws%3Fed&security=tls&alpn=http%2F1.1&encryption=none&host=639065083958163454.corolla-perma.info&type=ws&sni=639065083958163454.corolla-perma.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
 vmess://eyJhZGQiOiAiMjEzLjE4My41NC4yNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQ3ZjU2Njg4LTU2YTAtNDQ4Yy1iYzA0LWZkODNjNmFjMTdkMCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8jVEVMRUdSQU0tUFVMQVZQTi0tLSNURUxFR1JBTS1QVUxBVlBOLS0tI1RFTEVHUkFNLVBVTEFWUE4tLS0jVEVMRUdSQU0tUFVMQVZQTi0tLSNURUxFR1JBTS1QVUxBVlBOI1RFTEVHUkFNLVBVTEFWUE4tLS0jVEVMRUdSQU0tUFVMQVZQTi0tLSNURUxFR1JBTS1QVUxBVlBOLS0tI1RFTEVHUkFNLVBVTEFWUE4tLS0jVEVMRUdSQU0tUFVMQVZQTiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBORVRNZWxsaUFudGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://f0a44f8f-c01f-490c-a6eb-29106a2509a4@3.143.235.221:32252?encryption=none&security=tls&insecure=1&type=grpc&serviceName=www.bing.com&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
