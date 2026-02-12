@@ -1162,3 +1162,5 @@ vless://9dbe1401-8466-48b0-81f1-575bd74018ba@tu1.bing-net.com:3051?security=none
 
 vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40express_alaki%20%7C%20src%20%40v2nodes
 
+vless://f7d33985-dfa7-45a1-8649-26235a90c810@104.19.58.118:443?&security=tls&fp=chrome&sni=us1-us1.aiopen.sbs&type=ws&headerType=none&host=us1-us1.aiopen.sbs&path=%2Fkbjc%2Fus1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40express_alaki%20%7C%20src%20%40v2nodes
+
