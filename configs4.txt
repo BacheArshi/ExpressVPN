@@ -1310,3 +1310,15 @@ vless://33b1a00b-85be-448d-bc3a-1089f1f25425@104.17.226.246:80?path=%2F%3Fed%3D2
 
 vless://33b1a00b-85be-448d-bc3a-1089f1f25425@104.19.40.213:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=23bahman.alij47649.workers.dev&fp=randomized&type=ws&sni=23bahman.alij47649.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
 
+trojan://fjpqh7vf-zuzh-mgbt-aemi-cdyy4qxehche@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://68umpa7f-ush1-37ud-xg50-lgsloqn27bmy@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://zr28nl3w-mnk1-528h-l6om-lqy1q3rfb3g5@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&sid=6553e6d9#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://7ccaae6a-8903-46c0-8de1-2b7dd5f3c1fb@144.31.198.228:56328?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=ZXQHrp-dR_PEUhgjvfB3XhJU776SCjz5NPOezK-nvkk&sid=7cab038f#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
