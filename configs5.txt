@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ade4d1bd-bbcd-440f-a4cd-627fe15e3cb6@172.64.152.23:2087?path=%2F&security=tls&encryption=none&host=aza002.vaslbash.site&fp=chrome&type=ws&sni=aza002.vaslbash.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
-
-vless://66b439e6-00fa-4e36-995a-a06a9b4ae3f1@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
-
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
 vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va25.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
@@ -129,4 +125,8 @@ trojan://tu3i373q-pxcy-uw8b-w77i-871qxu68rzth@127.0.0.1:4080?security=tls&type=t
 vless://4a6330e2-da93-44a6-aca2-a0f533fe8921@157.230.97.64:2030?security=none&encryption=none&headerType=no…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Vpn_Midas
 
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://c175eeab-3bbd-eb23-28cf-5ddcf424b261@151.101.9.80:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27xPaddingBytes%27%3A%20%27100-1000%27%2C%20%27noGRPCHeader%27%3A%20False%2C%20%27xmux%27%3A%20%7B%7D%7D&host=lumiereproduction-cdn.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=beh1.salonemojallal.ir.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
