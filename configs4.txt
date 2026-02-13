@@ -1010,3 +1010,5 @@ vless://1bb672f3-1350-49ef-bba4-4e160b180ba7@vps.legionext.ru:443?type=tcp&secur
 
 vless://df176b95-8e71-4e5b-a24a-9715d284e24d@156.238.228.167:61777?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ebay.com&fp=chrome&pbk=89P7XLJ_E9kPUuWQjndIMz8qgq6xK03dqr0U7IS3WWg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://bb0830b5-acb5-47f9-9567-c0c7b7e803f9@193.151.146.227:1000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
