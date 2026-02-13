@@ -128,3 +128,5 @@ trojan://tu3i373q-pxcy-uw8b-w77i-871qxu68rzth@127.0.0.1:4080?security=tls&type=t
 
 vless://4a6330e2-da93-44a6-aca2-a0f533fe8921@157.230.97.64:2030?security=none&encryption=none&headerType=no…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Vpn_Midas
 
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%A6%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
