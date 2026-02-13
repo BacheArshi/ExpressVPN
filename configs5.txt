@@ -30,3 +30,19 @@ vless://1b0cb9ca-baf3-4721-835d-1dfa21807a65@85.133.195.202:26480?security=none&
 
 vless://9832f201-4057-47e5-b7fc-49831f2c7ef8@195.230.107.214:30170?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
 
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox1.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.startshopiran.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox7.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.karajcitykaui.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@146.75.85.8:443?mode=packet-up&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=takht-jamshid.com.#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox4.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.varminherter.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox3.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.varminherter.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox10.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama2.karajcitykaui.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@Fox5.Mehraban-store.ir:8443?mode=auto&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=nama.ubirnashop.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
+
