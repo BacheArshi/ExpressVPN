@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?encryption=none&security=tls&sni=dabaius2.sylu.net&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://TELEGRAM-NUFiLTER@z.ssl.fastly.net:80?path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=none&encryption=none&host=telegram-NUFiLTER.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
@@ -125,4 +119,8 @@ vless://049699a8-33fa-4153-b908-f78d1d653d02@85.133.195.195:26480?security=none&
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&spx=%2F@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-%3Fed%3D2560&type=raw&headertype=none#%F0%9F%87%AD%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.48.1:443?encryption=none&security=tls&sni=D2127a49-fLAt-wOoD-C4b5.milia-aKBaRPOOR.worKerS.dEv&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=%2FLcjhYS6G5V2zKFZM%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@104.21.73.233:443?encryption=none&security=tls&sni=stipulations.gelatin.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&insecure=1&type=ws&host=stipulations.gelatin.workers.dev&path=%2FeyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICI1Ny4xMjkuMjUuMjAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiNTcuMTI5LjI1LjIwIiwgImluc2VjdXJlIjogIjEifQ==
 
