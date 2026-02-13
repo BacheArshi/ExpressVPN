@@ -72,3 +72,5 @@ vless://8d5395b3-eb4a-45d3-93cf-d3da236e07ac@tr2node.lalash-server.click:8080?se
 
 vless://f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a@185.242.234.252:14201?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
+
