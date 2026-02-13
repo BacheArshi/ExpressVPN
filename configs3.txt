@@ -1104,3 +1104,9 @@ vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security
 
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?encryption=none&security=tls&sni=dabaius2.sylu.net&insecure=1&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://TELEGRAM-NUFiLTER@z.ssl.fastly.net:80?path=%2FTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%2CTELEGRAM-NUFiLTER%3Fed%3D2056&security=none&encryption=none&host=telegram-NUFiLTER.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://4a6330e2-da93-44a6-aca2-a0f533fe8921@157.230.97.64:2030?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
