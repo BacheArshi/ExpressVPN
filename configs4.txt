@@ -1260,3 +1260,11 @@ trojan://ce433528-39fa-4711-bc0d-25a5b1579574@sg-02.licom.ml:8443?allowInsecure=
 
 vless://f1ffb60d-07b6-4381-8ecf-c368f7c2762d@104.16.61.8:80?security=none&type=ws&host=mardi9.scorpion1.info&path=/DSDaswd22!11*fdfm55247.COM.#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
+vless://af54f086-e86c-49a2-9753-015b9c099ecd@78.157.39.125:25194?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@94.156.154.88:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40vmess_ir
+
+vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@84.54.48.238:443?security=reality&encryption=none&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=3cc8ceccd9de7f#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40vmesc
+
