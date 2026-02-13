@@ -1108,3 +1108,11 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray1_ng
 
+trojan://yftr2g3p-660l-af94-vu8g-0j774krznffb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://qgxlbuvg-fls8-j4gb-m9v9-qw7fidrrbev4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://kfn2hh2s-92dh-doii-sa24-81fivpkyuh5o@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://5001b8d8-76ce-474c-bc29-94e6caa61164@104.16.148.244:443?type=grpc&security=tls&sni=hkb.yunniao.org#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
