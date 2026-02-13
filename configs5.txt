@@ -38,3 +38,5 @@ vless://afbaeebd-0419-479a-9b91-4eb861e41dbf@154.64.232.99:34981?security=none&t
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@109.61.86.50:8880?security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
