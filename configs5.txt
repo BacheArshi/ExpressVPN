@@ -102,3 +102,11 @@ vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47041?security=n
 
 vless://QHOWJOgAKwvOWEvJ6+GmTTmjC+LeeaNuUbhb6c0nPRiL8ap8KaUZAmcRgSM1ehhD59aUN9RPpopwo8ync/6VAUfEe/kZatHQGUEW6LvuRerUUqtiyGUSBbuR26OjFqsHuVmgzO3ErQhiFUy2+z5xdR8aGBQoieJeU7J53gixitkEZqPR1VZL4Q0UCQLvCeHNJ9BitSoO1tLG9AbOSiuRlfdKH/w2Yp94yCkU24fd2v17IlIkDLH0sBSTY5EayZPuIRXVMfScoiP235DGLD3BXtpN9XMRk+gvNg266TsoXq2hKR/uTV6f1WvyRmcHxHN1ZKPYBstyy898APSy3CHsFUj1lBXaozmQxyb3MBs/jk3q70VGGLlWIElLrFsAwfWh#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadi_config
 
+vless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@K10.FASTSPEEDS.IR:8443?path=%2F&security=tls&encryption=none&insecure=0&host=uk-node-m1.jadobet1.store&fp=chrome&type=ws&allowInsecure=0&sni=uk-node-m1.jadobet1.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
+trojan://telegram-id-directvpn@52.47.88.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.88.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.47.88.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
