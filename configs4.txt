@@ -1228,3 +1228,11 @@ vless://3e991ef5-acab-483d-ac91-813d04cf0af9@104.16.166.72:443?path=%2F%3Fed%3D2
 
 vless://3e991ef5-acab-483d-ac91-813d04cf0af9@198.41.223.68:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=24bahman.aliaicode47649.workers.dev&fp=randomized&type=ws&allowInsecure=0&sni=24bahman.aliaicode47649.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
+vless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40bored_vpn
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBARGVhbU5ldF9wcm94eSIsICJhZGQiOiAiNDUuMTk2LjIzNS4xNzEiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiYWM2ZTE5ZjgtNDg1Mi00MWUxLWMxMjAtYzcyNjFlZThmNmU1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJyYXciLCAidHlwZSI6ICJodHRwIn0=
+
+vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
+
