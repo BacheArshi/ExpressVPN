@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40ConfigV2rayNG
-
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
-
-vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
-
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40ConfigV2rayNG
-
 vless://6b834683-242d-416e-b61b-2a002d492055@185.143.233.5:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=anten.ir.wnticacenise1.irmahanmap.com&fp=chrome&type=ws&allowInsecure=0&sni=anten.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://6b47700e-0784-4737-ab49-a47c6ad1425b@188.114.97.42:2053?path=%2FWioNjdhwowoHsiwow&security=tls&encryption=none&insecure=0&host=wt.v2sub.sbs&fp=chrome&type=ws&allowInsecure=0&sni=wt1.v2sub.sbs#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
@@ -424,6 +416,8 @@ vless://8aec4fca-4204-479e-99e3-02c71896f2bd@87.107.152.85:3333?security=none&en
 
 vless://c681efa5-681e-4107-955a-2720d78278f8@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40prrofile_purple
 
+vless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=randomized&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
+
 vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40prrofile_purple
 
 vless://96bc6b91-4fe0-4e6e-bf43-31d12f590cfd@ua.salar0938.in:12133?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40prrofile_purple
@@ -723,6 +717,8 @@ vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.37.10:993?security=reality&
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@at.jojack.ru:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=at.jojack.ru&sid=8dc4fccb2bcfc99d#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Outline_ir
 
 vless://ade4d1bd-bbcd-440f-a4cd-627fe15e3cb6@94.140.0.74:2087?path=%2F&security=tls&encryption=none&host=aza002.vaslbash.site&type=ws&sni=aza002.vaslbash.site#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40v2raba
+
+vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40V2rayng_Fast
 
 vless://8316df96-7564-4b81-b871-7e4aef9edd9f@pcmag.com:443?path=%2F%3Fed%3D2095&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=holand2.napsternetx.ir&fp=chrome&type=ws&allowInsecure=0&sni=holand2.napsternetx.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
 
