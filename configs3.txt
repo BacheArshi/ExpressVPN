@@ -1196,3 +1196,7 @@ vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@104.21.73.233:443?encryption=none&s
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBEZWFtTmV0X3Byb3h5IiwgImFkZCI6ICI1Ny4xMjkuMjUuMjAiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyIsICJzbmkiOiAiNTcuMTI5LjI1LjIwIiwgImluc2VjdXJlIjogIjEifQ==
 
+vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&sid=1a24af87&type=raw&headertype=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+trojan://humanity@188.114.98.0:443?encryption=none&security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
