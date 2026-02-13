@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&insecure=1&type=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#%F0%9F%87%B8%F0%9F%87%A6%20GRPC-Reality%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.220.209:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.144:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40Hope_Net
-
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?security=none&type=ws&host=WxVvVtZx22.hAmEdIgOlD.CoM&path=%2F#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.0:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-vless://f32a99e8-05dd-478a-82c0-7688848121bd@8.217.145.40:8080?type=ws&host=mkhy.daozhang.link&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.122:443?security=tls&sni=kkg.ylks.link&type=ws&path=/#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.20.58.169:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.63.247:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
-
-trojan://telegram-id-privatevpns@15.188.241.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBARGVhbU5ldF9wcm94eSIsICJhZGQiOiAiNDUuMTk2LjIzNS4xNzEiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI0N2VlZmFjMi05NzY3LTQ5ZTEtYzhlNi01MjRlMzlkODc2NWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogImh0dHAifQ==
 
 vless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
@@ -1269,4 +1247,8 @@ vless://9af577f2-0a7a-4448-ae0b-6985c53ea634@104.21.12.212:2083?security=tls&sni
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBASG9wZV9OZXQiLCAiYWRkIjogIjUxLjgxLjIyMy4xMyIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYzAxNTY0NTEtNGVmYi00NWUyLTg0ZmMtOGQzMTVjNDY1MGRiIiwgImFpZCI6ICIzMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3YxMjUyTjkzblplejZQeSIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBIb3BlX05ldCIsICJhZGQiOiAiMTA0LjE5LjQ2LjIzIiwgInBvcnQiOiAiMjA4MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzYwZTA1ZGEtMjMzMy00ZGI0LTlkZTQtMjkyNmNkM2M2NGNmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8/ZWQ9MjA0OCZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmMyBAV2FuZ0NhaV84IiwgImhvc3QiOiAiaG9uZ2tvbmcudGdxeWpjMjAyNC5xeWpjNjY2Lnh5eiIsICJ0bHMiOiAiIn0=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQERlYW1OZXRfcHJveHkiLCAiYWRkIjogIjE1LjIzNS44NS4xNTYiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgImluc2VjdXJlIjogIjEifQ==
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyBcdWQ4M2RcdWRjYzEgQERlYW1OZXRfcHJveHkiLCAiYWRkIjogIjE1LjIzNS44NS4xNDciLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInBlbGFuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogInBlbGFuZy5vcmciLCAiaW5zZWN1cmUiOiAiMSJ9
 
