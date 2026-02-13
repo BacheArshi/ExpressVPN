@@ -1188,3 +1188,7 @@ vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.32.1:443?encryption=none&sec
 
 vless://049699a8-33fa-4153-b908-f78d1d653d02@85.133.195.195:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&spx=%2F@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-%3Fed%3D2560&type=raw&headertype=none#%F0%9F%87%AD%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.48.1:443?encryption=none&security=tls&sni=D2127a49-fLAt-wOoD-C4b5.milia-aKBaRPOOR.worKerS.dEv&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=%2FLcjhYS6G5V2zKFZM%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
