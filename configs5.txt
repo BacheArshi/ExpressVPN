@@ -64,3 +64,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.144.4:22224?type=ws&security=
 
 trojan://telegram-id-privatevpns@52.59.144.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQEhvcGVfTmV0IiwgImFkZCI6ICJyZWxheTEud2wtbm9kZTEuY29tIiwgInBvcnQiOiAiMzkwMzEiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkzMjdmMjNhLTUxMjktNDc0MC05YzBiLTNiMWMyYjFhYTdhMyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInJlbGF5MS53bC1ub2RlMS5jb20iLCAidGxzIjogIiJ9
+
+vless://4692cfc1-8ae4-40f4-9b56-38280de488ee@91.107.145.93:8443?security=reality&flow=xtls-rprx-vision&sni=canva.com&type=tcp&fp=firefox&pbk=wgTq2PPfJyqHE1wbG7GOkkPfdq0bulCumEEm63nH_3Y&sid=4a367f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
+
