@@ -58,3 +58,7 @@ vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@38.150.114.98:443?security=reality&
 
 vless://cd9204cb-f87e-49e4-a600-ddaed9ae6d8a@nozhin_8610559.userid:1719?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
+
+vless://c81567a3-6fa4-4f7f-9658-34977f611fe8@best3.textile-shoping.ir:443?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dl.vsmdrn.ir&fp=chrome&type=ws&allowInsecure=1&sni=dl.vsmdrn.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
