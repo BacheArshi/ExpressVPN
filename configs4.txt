@@ -1360,3 +1360,5 @@ vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?security=reality
 
 vless://22c42cbd-efa7-495c-ba6d-5895e29f66f8@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
 
+vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?&security=tls&fp=chrome&sni=Tet.mehspeedtest.com&type=ws&headerType=none&host=Tet.mehspeedtest.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
+
