@@ -1436,3 +1436,19 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&se
 
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?encryption=none&security=tls&sni=iepl.jpz2.cat.bilibili.com&insecure=1&type=raw&headertype=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.243.46:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?encryption=none&security=none&type=ws&host=everlasting-offerc4s5mg1918.sportland.company.&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%F0%9F%93%81%20%40DeamNet_proxy
+
+trojan://humanity@172.67.180.92:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.138.227.121:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.9.145.87:13611?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://3712ef41-fd0b-43a0-b1c0-72e51043dfc8@138.124.72.123:11132?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%F0%9F%93%81%20%40DeamNet_proxy
+
