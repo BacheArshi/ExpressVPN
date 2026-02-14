@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://yftr2g3p-660l-af94-vu8g-0j774krznffb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
-
-trojan://qgxlbuvg-fls8-j4gb-m9v9-qw7fidrrbev4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
-
-trojan://kfn2hh2s-92dh-doii-sa24-81fivpkyuh5o@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
-
-vless://5001b8d8-76ce-474c-bc29-94e6caa61164@104.16.148.244:443?type=grpc&security=tls&sni=hkb.yunniao.org#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
-
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://2725479c-60b6-4da9-8903-57d8a3342f00@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
 trojan://telegram-id-directvpn@18.194.65.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
@@ -51,4 +41,14 @@ vless://3fe29f0d-f264-4ef9-a5d4-4dae2220e1bf@errand.sezarbook.ir:2096?mode=auto&
 vless://6827c2be-6681-4278-933c-b81909137ff8@5.75.243.13:40226?security=reality&encryption=none&pbk=mow21VAUml9fjZdgREGXkrMtitL3dKSLgtNwB5uFUyI&headerType=none&fp=safari&spx=%2F&type=tcp&sni=play.google.com&sid=a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
 vless://rRVIGlIP3NHLko8vjhnt5/YiwFNQfO1o84dTfr/GZJsJKNysYdjuydmqiVO6xoGTPlPRI3UuzrV0Pbmmu6Ig9Tj9BSwHkuVwRZkIzS/fH/WlsaC4Nsg/VoXY5e/SUB1Vt+ujoYV1zYDFIJ/9cWR7WePW25S1dzwONkHx+Vwph1uWOKUxL9bYW6CPOGrbjosLid5B4HIJtQKFLhq/cqp4gE5H43zZf7p3LXqfTu9kiypFdTprTUDjSKR+pv4d6ax8ZW8DQCGNRdMnEbnLLVkxaIwQqsjkQtz1qzgT2CIJLddEklO+O5kHz8RfJnyngpko#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadi_config
+
+vless://4a01b47b-74dc-44e3-a818-612cb16beaf4@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vless://6d673cd0-d996-4c57-b959-a70cc31c9560@87.121.105.100:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=c2a0b2d60a7fc300#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+trojan://telegram-id-privatevpns@52.47.88.193:22222?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
+
+vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
 
