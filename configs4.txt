@@ -1344,3 +1344,9 @@ vless://22c42cbd-efa7-495c-ba6d-5895e29f66f8@f1.springpaatogh8.store:8443?path=%
 
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?&security=tls&fp=chrome&sni=Tet.mehspeedtest.com&type=ws&headerType=none&host=Tet.mehspeedtest.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
 
+vless://24a653f5-7f02-4e2b-99d1-982e7580c7c3@Fast.test.pamelasli.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Operatorus.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://a10607f9-d637-47e2-eadb-ad394b57514a@Tun.newdigitalstore.ir:40229?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
