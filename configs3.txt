@@ -1276,3 +1276,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3
 
 vless://f84ab055-3ffe-4a90-aad3-30596550b03c@45.12.30.95:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=beh1.salonemojallal.ir.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
 
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
