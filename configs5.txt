@@ -136,3 +136,7 @@ trojan://telegram-id-privatevpns@63.181.161.254:22222?security=tls&alpn=http/1.1
 
 vless://a9e655a1-b3ec-4b6f-9a81-0b23c60154da@91.98.235.137:12265?type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://54c85e0d-2b86-4109-8cbc-41526c1e38a7@ip3.kakeroo.ir:80?note=---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---&type=ws&host=kemetall.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?note=---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---&type=grpc&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&serviceName=grpc#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
