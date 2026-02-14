@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@15.188.225.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.225.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.188.225.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBIb3BlX05ldCIsICJhZGQiOiAiMjMuMjI3LjM4LjEzIiwgInBvcnQiOiAiMjA1MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZDZiNmQ5ODItZDUyZi00NjVhLWI5ODgtODU2NzBiMjNmNjRhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgImhvc3QiOiAiY2RuMi5mcmVlZ3JhZGVseS54eXoiLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBIb3BlX05ldCIsICJhZGQiOiAiMTA0LjE5LjEyMy4xMSIsICJwb3J0IjogIjIwNTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImNkbjEuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==
@@ -981,4 +975,16 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.153.61.80:40874?path=/?ed=2560&T
 hy2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy1.xiaoliyu.us:2056/?insecure=1&sni=mlxy1.xiaoliyu.us#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
 
 hy2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056/?insecure=1&sni=mlxy2.xiaoliyu.us#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://6cb51615-d469-4303-8b7c-553b7e016ea2@proxy10.sevenproxy.xyz:48187?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBIb3BlX05ldCIsICJhZGQiOiAiMTA0LjE5LjQ2LjM2IiwgInBvcnQiOiAiMjA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@tw4.233235.xyz:670?allowInsecure=0#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQEhvcGVfTmV0IiwgImFkZCI6ICIxMDQuMTkuNDguMTYiLCAicG9ydCI6ICI4NDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIzOTEzNWEzOS1lNmNhLTQzZGYtYTM2MC1kODU5ZWVhNThkODYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImhrMDEubGlua2l0bm93Lm5ldCIsICJ0bHMiOiAidGxzIn0=
+
+vless://4a2c06b4-162a-4b57-941d-e8205ef9baff@www.speedtest.net:8080?path=SHHPROXY%3Fed%3D8080&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.joinTELEGRAM.net.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
+vless://SVNTEAMa@mtn.VPNPROSEC.com:80?type=ws&host=wWw.mObIlEtAk.cOm.ShOp2.qIsVn.iR.&path=/?ed=443&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
