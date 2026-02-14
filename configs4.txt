@@ -1730,3 +1730,21 @@ vless://09ef4c6e-fcb2-4e51-a5bd-bea6ef4f66aa@am.citymobileshop.top:24171?securit
 
 vless://069f2490-1ebc-46a2-8187-1053585e2685@85.9.125.0:28177?path=%2F&security=none&encryption=none&host=Bmw.com&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40confegraigan
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.47.225:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.223.89:15800?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+hy2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy1.xiaoliyu.us:2056/?insecure=1&sni=mlxy1.xiaoliyu.us#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+hy2://04c2a097-5ed8-49b6-9860-cb4667583745@mlxy2.xiaoliyu.us:2056/?insecure=1&sni=mlxy2.xiaoliyu.us#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://telegram-id-directvpn@13.37.147.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.147.199:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.37.147.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
+vless://5b81d780-dc5a-41b3-8b66-5ae70ca2f6ac@llzm.lunargnome.ir:443?path=%2F&security=tls&encryption=none&type=ws&sni=dlpkg.org#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%F0%9F%93%81%20%40confegraigan
+
