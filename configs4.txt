@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@52.59.144.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
-
 vless://c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6@safari.nabxcsjghjs2004.shop:24574?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
 vmess://eyJ2IjogIjIiLCAiYWRkIjogInp1bGEuaXIiLCAicG9ydCI6IDIwOTYsICJpZCI6ICIyZjg2ZTk3YS0xZWEwLTQyMjEtOTZjYy0xMjIxMDczMGUwYzkiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgInBhdGgiOiAiLyIsICJob3N0IjogImtpbmdvLmhpZ2h0ZWNoc2VydmljZS5pciIsICJzbmkiOiAia2luZ28uaGlnaHRlY2hzZXJ2aWNlLmlyIiwgImZwIjogImNocm9tZSIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgXHVkODNkXHVkY2MxIEBIb3BlX05ldCJ9
@@ -1779,4 +1777,12 @@ vless://713e0e8a-884d-42d2-8649-fdba1e1f669a@104.21.89.76:443?security=tls&type=
 vless://32778a17-0356-c04e-2935-bc77a8b3f4b2@fii.fisaqures.ir:4168?security=none&type=tcp%20&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://8aaa4ed2-0fca-48b7-bca6-5f692e278d5d@77.83.245.191:62391?security=reality&encryption=none&pbk=28C36ojKr0JugqCel9_zMI5YRzx2B2VG2TfziOhc_Qo&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=b57dc6123dbccf12#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://f17620d7-e79f-4640-92f2-b2278fa9bd4b@185.235.196.126:7788?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox1.ping-box.com#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
