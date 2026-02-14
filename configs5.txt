@@ -102,3 +102,5 @@ vless://5001b8d8-76ce-474c-bc29-94e6caa61164@104.16.148.244:443?type=grpc&securi
 
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://2725479c-60b6-4da9-8903-57d8a3342f00@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
