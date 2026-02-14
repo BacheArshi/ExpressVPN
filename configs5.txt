@@ -204,3 +204,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.245.221.138:2096?encryption=non
 
 vless://e35dd2de-7a4c-4af4-b671-1592e286a040@fi01.keyinvest.org:443?security=reality&alpn=networld_vpn-channel@&encryption=none&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY&fp=chrome&type=grpc&sni=keyinvest.org#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B2%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.19.143.106:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&insecure=1&type=ws&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&fp=chrome&insecure=1&type=ws&host=o00o.snip.qzz.io&path=%2Fproxyip#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
