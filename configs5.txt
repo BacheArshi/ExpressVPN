@@ -70,3 +70,5 @@ vless://e0201c16-97fa-46d8-92c9-a03d077e604c@62.50.146.13:9311?path=%2F&security
 
 vless://a468a55f-2ed0-422a-8a1c-313c0ab11fea@friends.lumanetwork.cloud:6666?security=reality&encryption=none&pbk=flBksZBLxDiHxdozcAhWHYnsYZNSXCLHpb24Rq1cmG8&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.intel.com&sid=5f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40confegraigan
 
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=backup.f-sub.cfd&fp=chrome&type=ws&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40confegraigan
+
