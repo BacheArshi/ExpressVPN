@@ -42,3 +42,7 @@ vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?encryption=none&s
 
 vless://4cea5089-fb93-311e-25f3-01a93031bcf8@nl.mobilezahra.lat:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=excoino.com&fp=firefox&pbk=10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA&sid=d9a8dad452a7644f&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
 
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10008?mode=auto&path=%2Fapi&security=none&encryption=none&host=play.google.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
