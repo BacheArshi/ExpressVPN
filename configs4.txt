@@ -1278,3 +1278,17 @@ vless://c81567a3-6fa4-4f7f-9658-34977f611fe8@nim.saas-clouding.ir:2046?security=
 
 vless://4571c9f9-3705-496a-947d-efad116e5c9f@main.vpsjc.sbs:2087?security=&encryption=none&host=adsl.tci.ir&headerType=http&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20TCP-None%20%F0%9F%93%81%20%40confegraigan
 
+vless://-DIGIV2RAY@www.Speedtest.Net:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
+trojan://telegram-id-privatevpns@51.44.63.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Hope_Net
+
+vless://TeL_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
+vless://6f42d454-ba41-4d87-943b-a21227b21a7a@188.114.98.224:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.46.224:443?security=tls&sni=t-netplus-4vx.pages.dev&type=ws&path=/&host=t-netplus-4vx.pages.dev&encryption=none#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Hope_Net
+
+trojan://telegram-id-directvpn@15.188.129.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Hope_Net
+
+vless://adef69de-dc26-467f-8b12-1b83873f016e@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
+
