@@ -1384,3 +1384,13 @@ vless://e550f63f-7975-455d-a5d8-e11a120a519d@s31588.asancall.cloud:8443?type=ws&
 
 vless://4604876a-0652-4835-88bd-4421ea5c40da@nl02-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&type=tcp&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:443?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=tls&sni=25bahman.alij47649.workers.dev&fp=randomized&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:80?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Free_World2
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@104.16.49.215:443?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=tls&sni=25bahman.alij47649.workers.dev&fp=randomized&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@104.16.49.215:80?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Free_World2
+
+vless://f6d382fa-3a53-4497-beb0-b285ac9bcf3a@fi.fasti.win:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fi.fasti.win&fp=chrome&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461&type=tcp&path=/#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
