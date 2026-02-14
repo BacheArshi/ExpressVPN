@@ -1272,3 +1272,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?path=%2F%3F
 
 vless://eebe51e4-6de6-449e-b013-cf6ccc5aed19@red.iran-ont.co.uk:2211?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2FERl
 
+vless://469d4a49-e0ea-469a-8999-ccd54d9991f5@curt237.cvcurt.ir:2378?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40confegraigan
+
