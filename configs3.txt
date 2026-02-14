@@ -1382,3 +1382,5 @@ vless://4a5d21c4-9172-466f-8ad7-9fe591a05807@194.61.3.100:17799?type=tcp&headerT
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?type=ws&host=hetz.x-smm.com&path=/45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
+
