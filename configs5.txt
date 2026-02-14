@@ -92,3 +92,13 @@ trojan://birn8fg3-mkby-6cdn-2rv6-icib53nffvr5@127.0.0.1:2080?security=tls&type=t
 
 trojan://rhcl13j8-q1t5-ym8c-ijzj-2mzf5eq4c457@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
 
+trojan://yftr2g3p-660l-af94-vu8g-0j774krznffb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://qgxlbuvg-fls8-j4gb-m9v9-qw7fidrrbev4@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://kfn2hh2s-92dh-doii-sa24-81fivpkyuh5o@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://5001b8d8-76ce-474c-bc29-94e6caa61164@104.16.148.244:443?type=grpc&security=tls&sni=hkb.yunniao.org#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
