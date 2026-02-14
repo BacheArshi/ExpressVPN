@@ -1434,3 +1434,9 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxh
 
 vless://6ff1d09f-b6f9-4d55-b3b2-7011b94c1cdf@tak-t0nl-s3.bitnetpro.com:1903?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
+
+vless://dfbb104b-120f-4a5a-b8c3-e0cfaadbbf93@mla.allonetworks.ru:443?mode=auto&path=%2Findex.html%2F&security=tls&encryption=none&insecure=0&host=mla.allonetworks.ru&fp=random&type=xhttp&allowInsecure=0&sni=mla.allonetworks.ru#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
+
+vless://38f448b9…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
+
