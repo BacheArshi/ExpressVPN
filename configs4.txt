@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@63.181.161.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.161.254:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.181.161.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
-
-vless://a9e655a1-b3ec-4b6f-9a81-0b23c60154da@91.98.235.137:12265?type=tcp&path=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
-
 vless://54c85e0d-2b86-4109-8cbc-41526c1e38a7@ip3.kakeroo.ir:80?note=---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---&type=ws&host=kemetall.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@91.108.250.245:4444?note=---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---Telegram---@vpnbaz---&type=grpc&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&serviceName=grpc#%F0%9F%8C%90%20GRPC-Reality%20%F0%9F%93%81%20%40V2rayBaaz
@@ -1375,4 +1367,30 @@ trojan://ue2sdub8-3rev-ar38-ijzr-3vizec7vmdbf@127.0.0.1:4080?security=tls&type=t
 trojan://telegram-id-directvpn@51.21.95.150:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
 
 vless://65f98bdd-b437-4d7e-8bba-8ab70cc8ff37@146.103.41.52:4443?type=tcp&security=reality&sni=github.com&fp=chrome&flow=xtls-rprx-vision&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://lau9w8f0-nos2-o6dn-xzt4-a7squ4wvl2pv@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://qcphnmy9-c2k8-8qe5-16b8-46osnmld8o5z@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://wb6xxspa-0z9h-jpeq-tgk5-tgz28x3k8cww@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://3518eb7c-9fb0-4690-a908-9034d7d98e28@171.22.114.155:8443?type=tcp&security=reality&sni=ign.dev&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@45.15.170.183:443?type=tcp&security=reality&sni=mirror.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&sid=916a#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://ksagouss-mpxx-8oxf-cqhp-ejr4jxahsjzl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://gi1kqnl9-bzwy-m85u-n3gf-slbxxl78sl4m@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+trojan://ig7ddugk-rwu3-6txo-cdly-gv8sl35eb8xt@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://SVNTEAM@cn.gisvn.ir:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://d2efa18a-9e8a-3057-91fe-90c8e620e49f@104.19.152.87:443?type=ws&security=tls&path=/db1024113a787392&sni=s6.oboob.cn#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?type=tcp&security=reality#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.235.105.146:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
 
