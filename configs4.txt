@@ -1332,3 +1332,5 @@ trojan://telegram-id-directvpn@52.49.157.3:22222?security=tls&alpn=http/1.1&head
 
 vless://---DIGIV2RAY--@185.146.173.68:2095?path=/DigiconnecT?ed=1024&security=none&encryption=none&host=QUENTIN--_--DiG.radiotehran.org.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Hope_Net
 
+vless://6caa7c5b-350c-4295-9008-7d00c0439ceb@212.33.198.201:2147?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
