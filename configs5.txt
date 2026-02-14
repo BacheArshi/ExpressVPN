@@ -64,3 +64,13 @@ trojan://telegram-id-directvpn@15.188.129.120:22222?security=tls&alpn=http/1.1&h
 
 vless://adef69de-dc26-467f-8b12-1b83873f016e@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.192.42.228:18694?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://00d71a81-6b32-4929-a9e6-dc812c0d6171@5.255.104.65:16057?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://2331eecc-ae6e-4513-81f0-2bee4b103bed@CF3.FASTSPEEDS.IR:2087?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de6.mehrsazi.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=25bahman.alij47649.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
