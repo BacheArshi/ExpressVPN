@@ -1408,3 +1408,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IFdTLU5vbmUgfCBA
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?security=tls&type=ws&path=/?ed=2560&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://1c233f33-f4ef-42cf-a310-248d0f58d87d@94.182.149.73:6655?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
+
