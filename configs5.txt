@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
-
-vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?encryption=none&security=tls&sni=rus3.worldunlocked.org&type=ws&host=rus3.worldunlocked.org&path=%2fws-vless%2f#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?encryption=none&security=tls&sni=hetz.x-smm.com&type=ws&host=hetz.x-smm.com&path=%2f45.76.183.217%3d49292#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@xn-de.onlinernet.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://18f72be7-0651-4037-928b-8a309d685796@nl3.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
-vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.208:8443?security=reality&encryption=none&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=83780413c2ad3eaa#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
 vless://9cb9e5c0-dbc1-4b94-a0b3-14f805e375e9@aafc22.lizard2shop.com:2095?path=%2Fmammadali&security=none&encryption=none&host=mza90.lizard2shop.com&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
@@ -77,4 +63,20 @@ trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@54.64.61.41:3373?sni=%F0%9F%94%92%20%5
 vless://c8f75ee8-eb79-4693-a88c-2f07220811ce@snow.fobix.shop:49930?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=none&allowInsecure=0&encryption=none&type=tcp&host=skyroom.online&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://ddf54c0e-29ae-4ce0-847d-ebdf71d1ca2c@135.125.139.219:2055?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://5e719867-bde6-46b4-a773-b129f80c928b@135.125.139.219:2055?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?encryption=none&security=tls&sni=b12a6eea4807ca4e.1323.world&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.rs.lopzo.ir:38967?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1005?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
