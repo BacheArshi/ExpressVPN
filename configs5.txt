@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiaXIyLmlob21heW9uLmlyIiwgInBvcnQiOiAiMTAwNCIsICJpZCI6ICI3YmNkOTMwNS05MGViLTRkNWMtODU2OS05NjQ3ZTBlNWIzNTEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAidGxzIjogIiIsICJhbHBuIjogIiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJteWtldC5pciJ9
-
-vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?encryption=none&security=tls&sni=xn-ch7.shakhle.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=xn-ch7.shakhle.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
 vless://a61c0bd6-6b25-4924-8f2e-756eca120cdf@vip.penhannet.ir:8443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
