@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=%2Fsite&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%F0%9F%93%81%20%40V2rayNG_SPDNet
-
-vless://69dbdd44-02de-47d9-94ef-75a53fe30fb4@F3.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=lp333.hamrahconfig.ir&type=httpupgrade#%F0%9F%87%B8%F0%9F%87%AC%20HTTPUpgrade-None%20%F0%9F%93%81%20%40V2rayNG_SPDNet
-
-vless://6a2cb1ed…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG_SPDNet
-
 trojan://telegram-id-directvpn@15.236.182.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.182.0:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
@@ -401,6 +395,8 @@ vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=real
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c1.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@asbs-osds.global.ssl.fastly.net:443?path=%2Fsite&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=asbs-osds.global.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
@@ -1425,4 +1421,6 @@ vless://476f651c-43dd-432a-9fdb-cf4cd65de9a9@snii2.totalwarseriesgameserver.ir:2
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vmess://eyJhZGQiOiAiMTY1LjE1NC4xOTUuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwMzQiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
