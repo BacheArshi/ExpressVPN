@@ -64,3 +64,9 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=Pulavpn11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
+
+vless://7c792ab6-44ae-4831-a085-3c310b5f5551@s2.plan-vpn.ru:443?security=reality&encryption=none&pbk=fT83pflGxRKuI01MxRCO7ODM8_UqAoHRC43lfpecLnk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s2.plan-vpn.ru&sid=571dbf1163c63dca#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
+
+vless://dd98ec41-bd36-4317-b8ab-29a14c5be29e@Tr1.saas-clouding.ir:2344?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
