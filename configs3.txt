@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
 
 vless://7b906ed2-a5a8-41d2-a9cf-8621ec6e90a9@afrcloud22.mmv.kr:443?path=%2F158.101.11.204%3D15805&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
@@ -1161,4 +1159,6 @@ vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?security=tls&type=
 vless://f625ba3b-93dc-4a87-9e69-f39a2f16ff98@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://64b5d863-81d6-48ea-9222-82030616fa63@es.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://39d5d64f-1d8a-4cc7-886c-7792ddaf650e@95.182.116.24:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
