@@ -24,3 +24,13 @@ vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=no
 
 vless://v2ray_fa3t@172.67.160.192:8880?path=%2F&security=none&encryption=none&host=tHt.BoUlvaRmOeIn.shoP.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_fa3t
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&type=tcp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://4de25158-61a9-4abf-a653-ef0db0ca99ac@andadeh.digi2020kala.website:39200?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
+
