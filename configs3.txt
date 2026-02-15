@@ -1216,3 +1216,5 @@ vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@51.250.23.190:443?type=tcp&security
 
 vless://56da6a1e-b5b6-476e-92ed-07ee3a09d4de@p1-sv1.hamrahgate.ir:2313?security=reality&encryption=none&pbk=1fhKlLHUSYEYVdi4ewnm7MSJjy9jhhZmS3Jbo96yqVc&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=24c76c704601a36e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2FERl
 
+vless://69b9d47e-59a9-4ba3-f8fe-4f581a624dfa@5.160.144.59:5087?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
