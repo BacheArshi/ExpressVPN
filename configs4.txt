@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://416d4cbc-16c4-46da-90bd-8ad173079da6@nzr.parogamers.com:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
-
-vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=/v2rayroad&security=tls&encryption=none&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&sni=hotchoclate.graphapp.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
-
 vless://d0a84b88-b4cc-456d-a9d7-af3a26272f06@CF10.FASTSPEEDS.IR:443?type=xhttp&host=&path=/&mode=auto&extra=%257B%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%25201000000,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522100-1000%2522%250A%257D&security=tls&sni=target2.followerarzon1.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40Free_World2
 
 vless://d0a84b88-b4cc-456d-a9d7-af3a26272f06@FASTLY4.FASTSPEEDS.IR:80?type=xhttp&host=tor1new.global.ssl.fastly.net&path=/&mode=auto&extra=%257B%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%25201000000,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522100-1000%2522%250A%257D&security=none#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40Free_World2
@@ -1183,4 +1179,6 @@ vless://31063d07-a322-49d9-c253-486d80a00201@46.38.138.221:2020?security=none&ty
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&type=tcp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICJpcjIuaWhvbWF5b24uaXIiLCAicG9ydCI6ICIxMDA0IiwgImlkIjogIjdiY2Q5MzA1LTkwZWItNGQ1Yy04NTY5LTk2NDdlMGU1YjM1MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm15a2V0LmlyIn0=
+
+vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
