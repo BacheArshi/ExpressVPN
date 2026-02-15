@@ -1246,3 +1246,5 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?security=reality
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.143:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40anty_filter
 
+vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vmess_ir
+
