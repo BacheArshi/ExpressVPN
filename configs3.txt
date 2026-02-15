@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.190.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.190.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.84.84:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@16.16.123.45:20096?security=reality&encryption=none&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=wikipedia.org&sid=50a3#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
@@ -525,6 +519,8 @@ vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.18.12.149:2052?mode=auto&path=%
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+trojan://telegram-id-directvpn@13.36.190.50:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
@@ -1293,4 +1289,6 @@ vless://6ab80df3…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src
 vless://9202d12b-42a9-42cd-b7c9-4ba844da635c@afrcloud22.mmv.kr:443?path=%2F44.208.64.96%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
 
 vless://99a5747a-106d-4f3c-b199-2e3ae09874fa@cx.tuurkderag.top:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
+
+vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@62.84.96.96:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
