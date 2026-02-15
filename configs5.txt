@@ -44,6 +44,8 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.ua.flicknet.ir:62306?security=
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.fia.fx2hub.ir:28643?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
 
+vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=%2Fdownload&security=none&encryption=none&host=diarasup2.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://2dc4330e-81dc-4f03-b639-c38417d37144@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
@@ -73,4 +75,8 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%
 vless://003ef206-46b6-3701-ab77-b03debe7511f@104.17.25.173:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://003ef206-46b6-3701-ab77-b03debe7511f@104.18.185.26:443?path=%2Fdb1024143bf11354&security=tls&alpn=h3%2Ch2&encryption=none&insecure=1&host=dabaihk.webn.cc&fp=chrome&type=ws&allowInsecure=1&sni=dabaihk.webn.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://2dc4330e-81dc-4f03-b639-c38417d37144@my.kiomars.shop:6664?security=reality&type=tcp&sni=play.google.com&fp=firefox&sid=c3b6ed4da7a983c7&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://e39b2db3-ad43-48d5-8d57-22e4998702b7@91.84.108.229:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&security=reality&sid=808e2d36726ee97e&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
