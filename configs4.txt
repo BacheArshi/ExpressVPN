@@ -1198,3 +1198,17 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.az.lopzo.ir:59350?encryption=n
 
 vless://416bf752-1181-4733-945a-3403d7ff54dc@85.133.250.174:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
 
+vless://416bf752-1181-4733-945a-3403d7ff54dc@85.133.250.174:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.az.lopzo.ir:59350?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://65d8bfbf-f625-4d35-9a1c-2b19a55e58e2@82.25.145.95:38666?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://6500156c-21ed-4a13-8b4a-f7b10c132c80@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://e531c515-ff2e-4a01-8928-5aaa49012a2a@ip.shakhle.ir:2083?path=%2F%3Fed%3D1024&security=tls&alpn=h3%2Ch2&encryption=none&host=xn-tr.shakhle.ir&fp=chrome&type=ws&sni=xn-tr.shakhle.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@185.117.0.111:3050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
