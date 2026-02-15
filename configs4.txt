@@ -1392,3 +1392,5 @@ vless://4cc68b81-e421-4d52-8017-589a84859529@dqf21.sdssd1.sadqwdw1.carvan1.mimki
 
 vless://a06e7fb0-432b-4917-a3e5-54a542ae08a4@91.99.61.240:9090?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
 
+vless://jina@20.79.160.49:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=jina-207916049-direct.yektanet.co#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40vmesc
+
