@@ -1194,3 +1194,5 @@ vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&sec
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.235.105.146:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40vmesc
+
