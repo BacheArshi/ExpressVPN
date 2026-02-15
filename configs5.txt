@@ -400,3 +400,7 @@ vless://d29a7cee-acd1-4821-adbf-517f8681040e@47.82.6.36:51164?security=&encrypti
 
 vless://8d5ebe3f-d0c5-45f2-9dde-21ee29fc0ee6@chatgpt.com:443?mode=auto&security=tls&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=fin.moell13.org#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
