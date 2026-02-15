@@ -1402,3 +1402,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@169.150.210.121:443?type=ws&securit
 
 vless://1133aa0c-46e4-132a-1ec2-35cfd4e88228@fi.zeepo.ir:443?type=tcp&security=reality&sni=refersion.com&fp=firefox&flow=xtls-rprx-vision&pbk=KkGxnE3A4EaG8C7JydHk46UMuCP-Hcpua6lna-TvIAI&sid=eae3d03b0083f7af#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40Trick_mobil
 
+vless://2d2a23d8-7d4d-7be5-e322-42e78a0faf92@srv-v0.netmaster.cam:3306?security=none&encryption=none&type=ws&sni=1#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40anty_filter
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40anty_filter
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40anty_filter
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40anty_filter
+
