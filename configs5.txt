@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
-
-vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
-
-vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%87%B2%F0%9F%87%AB%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
-
-vless://a7b278a4-5ed7…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
-
-vless://9819e556-b0e4-4e54-bebd-39ce61b264e5@s9.iblueweb.casa:8880?encryption=none&type=tcp&host=none&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
-
 vless://v2ray_fa3t@172.67.160.192:8880?path=%2F&security=none&encryption=none&host=tHt.BoUlvaRmOeIn.shoP.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_fa3t
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -49,4 +39,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBARXhwcmVzc19hbGFr
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBAYW5vdGhlcm1lX25pZ2h0IiwgImFkZCI6ICJndDY3LmFlMS51cy5jaSIsICJwb3J0IjogIjgwIiwgImlkIjogIjRjMjA1YzgxLTU2OTQtNDNmZS1hMjg3LWFmNTYzYTJlYmMwNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZ3Q2Ny5hZTEudXMuY2kiLCAicGF0aCI6ICIvZGpBMDdpVXNTcDBLMkZvNGdkczdjWHBEQjVuTzUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBAYW5vdGhlcm1lX25pZ2h0IiwgImFkZCI6ICJqdTguYWUxLnVzLmNpIiwgInBvcnQiOiAiODAiLCAiaWQiOiAiNGMyMDVjODEtNTY5NC00M2ZlLWEyODctYWY1NjNhMmViYzA1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJqdTguYWUxLnVzLmNpIiwgInBhdGgiOiAiL2RqQTA3aVVzU3AwSzJGbzRnZHM3Y1hwREI1bk81IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
+
+vless://2f57bb8d-674b-4170-9fd6-fc50cdb19812@81.12.91.183:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
