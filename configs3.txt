@@ -1172,3 +1172,9 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?encryptio
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=serverdl-lozm1.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
+
+vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=serverdl-uokm1.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
+
+vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=serverdl-torm1.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
+
