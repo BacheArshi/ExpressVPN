@@ -68,3 +68,5 @@ vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:8443?path=%2
 
 vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=serverdl-torm1.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
 
+vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?encryption=none&security=tls&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
