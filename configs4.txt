@@ -1164,3 +1164,15 @@ vless://3b73f642-a96f-4bd1-8051-2ec6771de36a@zeus.ns.cloudflare.com:2053?path=%2
 
 vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?encryption=none&security=tls&sni=ServerDL-ParsM2.NetSnap.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DailyV2RY
 
+trojan://telegram-id-directvpn@18.158.213.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.213.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.158.213.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?security=none&encryption=none&host=fast.com%234Sarina-5605&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.pt.lopzo.ir:33020?security=none&encryption=none&host=skyroom.online%23%F0%9F%87%B5%F0%9F%87%B9%2B%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A5&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.it.flicknet.ir:41426?security=none&encryption=none&host=skyroom.online%23%F0%9F%87%AE%F0%9F%87%B9%2B%F0%9D%90%88%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%B2&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
