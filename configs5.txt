@@ -76,3 +76,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?security=tls&type=
 
 vless://1c233f33-f4ef-42cf-a310-248d0f58d87d@94.182.149.73:6655?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
 
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?type=ws&security=tls&sni=ipv4.yasharteam.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
+
