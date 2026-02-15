@@ -1420,3 +1420,5 @@ vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&fl
 
 vless://0d57032d-f54e-49a4-8285-39840bbf329e@che01-plr-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&sni=hls-svod.itunes.apple.com#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://476f651c-43dd-432a-9fdb-cf4cd65de9a9@snii2.totalwarseriesgameserver.ir:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
