@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://d0a84b88-b4cc-456d-a9d7-af3a26272f06@CF10.FASTSPEEDS.IR:443?type=xhttp&host=&path=/&mode=auto&extra=%257B%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%25201000000,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522100-1000%2522%250A%257D&security=tls&sni=target2.followerarzon1.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40Free_World2
-
-vless://d0a84b88-b4cc-456d-a9d7-af3a26272f06@FASTLY4.FASTSPEEDS.IR:80?type=xhttp&host=tor1new.global.ssl.fastly.net&path=/&mode=auto&extra=%257B%250A%2520%2520%2522scMaxEachPostBytes%2522%2520:%25201000000,%250A%2520%2520%2522xPaddingBytes%2522%2520:%2520%2522100-1000%2522%250A%257D&security=none#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40Free_World2
-
-vless://d0a84b88-b4cc-456d-a9d7-af3a26272f06@CF1.FASTSPEEDS.IR:8443?type=grpc&mode=multi&serviceName=vless&security=tls&sni=de3.roshdadcollection.ir&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40Free_World2
-
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
@@ -1181,4 +1175,10 @@ vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&ty
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICJpcjIuaWhvbWF5b24uaXIiLCAicG9ydCI6ICIxMDA0IiwgImlkIjogIjdiY2Q5MzA1LTkwZWItNGQ1Yy04NTY5LTk2NDdlMGU1YjM1MSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm15a2V0LmlyIn0=
 
 vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?encryption=none&security=tls&sni=xn-ch7.shakhle.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=xn-ch7.shakhle.ir&path=%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40anotherme_night
+
+vless://a61c0bd6-6b25-4924-8f2e-756eca120cdf@vip.penhannet.ir:8443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBhbm90aGVybWVfbmlnaHQiLCAiYWRkIjogImhqdS5hZTFhdXR1bW4uY2MuY2QiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIxM2FkMzZlNi1jMDkxLTQzZjItODUwNS00N2Q4NjhkZDU0NGMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImhqdS5hZTFhdXR1bW4uY2MuY2QiLCAicGF0aCI6ICIvWXNtUm91QTlaYnhnVzQiLCAidGxzIjogIiIsICJzbmkiOiAiaGp1LmFlMWF1dHVtbi5jYy5jZCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
 
