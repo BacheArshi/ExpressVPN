@@ -42,3 +42,5 @@ vless://6ae155bc-ebf7-424a-b6df-77e2a760bf8d@top.best-cloud.ir:443?security=tls&
 
 vless://e6c99501-2522-47dd-9652-f0ef12d6f277@ru.vpnspacev.com:443?security=reality&type=tcp&sni=vpnspacev.com&fp=chrome&sid=06bf5b24acb9&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@104.18.26.90:2087?security=tls&encryption=none&insecure=0&host=aza002.vaslbash.site&type=ws&allowInsecure=0&sni=aza002.vaslbash.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
