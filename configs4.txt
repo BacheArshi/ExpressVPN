@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
-
-trojan://telegram-id-privatevpns@13.36.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Outline_ir
-
-vless://3780844c-8a38-4795-9bcf-7f00bd6b2bbc@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40V2rayNG_SPDNet
-
-vless://3780844c-8a38…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG_SPDNet
-
 vless://bbedba46-b4e6-4b0e-9e4a-3cdf75438be9@best4.textile-shoping.ir:80?path=%2FDL%3Fed%3D2095&security=none&encryption=none&host=Dl.hamepayeman.ir&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40V2rayng_Fast
 
 vless://bbedba46-b4e6-4b0e-9e4a-3cdf75438be9@dl.de.saas-clouding.ir:2056?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
@@ -227,6 +217,8 @@ vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?security=none&type=ws&
 vless://6a2cb1ed-83fa-4f31-999c-d51a6628ef69@sfmidorfeed.global.ssl.fastly.net:443?security=tls&type=ws&path=%2Fsite&alpn=http%2F1.1&sni=sfmidorfeed.global.ssl.fastly.net&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICI2NS4xMDkuMjU0LjkwIiwgInBvcnQiOiAiNDYwNjUiLCAiaWQiOiAiOGQ2ZDE2MDQtZjc3Ni00ZTE2LTgyNzYtNjI5MDkyZjAxYjVkIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgInRscyI6ICIiLCAiYWxwbiI6ICIiLCAicGF0aCI6ICIvIn0=
+
+vless://3780844c-8a38-4795-9bcf-7f00bd6b2bbc@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
 
 vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
 
@@ -1125,6 +1117,8 @@ vmess://eyJhZGQiOiAiZGlnaXRhbG9jZWFuLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJm
 vmess://eyJhZGQiOiAiMTkyLjIyNy4yNDkuMjI3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzYjEzNDI1Mi1lN2MyLTQzZGYtOThiNy1kYTIwNDEwNGFhNzkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NjQxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSBcdWQ4M2RcdWRjYzEgQHYycmF5X0V4dHJhY3RvciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
 
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
+
+hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
 
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
 
