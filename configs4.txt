@@ -1302,3 +1302,13 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.cal
 
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=vbox.ping-box.com#%F0%9F%8C%90%20GRPC-TLS%20%F0%9F%93%81%20%40ConfigX2ray
 
+vless://d38b08b7-9e89-4430-a478-0eecadb5b74e@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://0bdc721a-b6e8-4ed9-90bd-d4cf967fcd57@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://d38b08b7-9e89-4430-a478-0eecadb5b74e@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://d38b08b7-9e89-4430-a478-0eecadb5b74e@f1.springpaatogh8.store:2087?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://2e1cc3db-f65f-4bb3-a619-01847671f289@reza.alphanet01.com:51349?path=%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C&security=none&encryption=none&host=play.google.com&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40ConfigX2ray
+
