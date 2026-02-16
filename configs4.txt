@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://4603d1b6-160a-47f2-9472-9db538b3b96d@ir-joudian.aliacces.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ir-joudian.aliacces.ir#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40NETMelliAnti
-
-vless://3994b2e1-d52c-4536-9848-0b63d74560fa@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=071d2947bac1&sni=www.tradingview.com#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
-
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&security=none#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@64.188.104.168:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40meliproxyy
@@ -1473,4 +1467,12 @@ vless://77da92aa-12ad-4370-b9be-25a86bc58c39@fserv.zaubex.online:443?encryption=
 vless://e0a4cedb-7e31-435b-98b6-77312c615c43@ir12.ctcmain.site:443?encryption=none&security=tls&sni=ir12.ctcmain.site&insecure=0&allowInsecure=0&type=ws&host=ir12.ctcmain.site&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40anotherme_night
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAYW5vdGhlcm1lX25pZ2h0IiwgImFkZCI6ICIxODUuMjE1LjIzMS4xMTEiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNjgyYjVhOTEtYzc4NC00NjgwLWFhZWYtZDllNjA0ZjhjMWEwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:80?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Free_World2
+
+trojan://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:443?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=tls&sni=25bahman.alij47649.workers.dev&fp=chrome&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Free_World2
+
+trojan://bbd0a996-e631-47ff-9bb9-67fb219db866@25bahman.alij47649.workers.dev:80?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Free_World2
+
+vless://bbd0a996-e631-47ff-9bb9-67fb219db866@104.17.102.200:80?type=ws&host=25bahman.alij47649.workers.dev&path=/?ed%3D2048&security=none#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40Free_World2
 
