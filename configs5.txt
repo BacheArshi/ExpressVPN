@@ -80,3 +80,7 @@ vless://6eb4311c-e5cd-458f-a142-83417ac34245@afrcloud22.mmv.kr:443?encryption=no
 
 vless://4c205c81-5694-43fe-a287-af563a2ebc05@bfgt.ae1.us.ci:80?encryption=none&security=none&sni=bfgt.ae1.us.ci&type=ws&host=bfgt.ae1.us.ci&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn12.suio.me:443?type=tcp&security=tls&encryption=none&sni=decdn12.suio.me#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=&fp=chrome&spx=%2F&type=tcp&sni=ea.com&sid=02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG3
+
