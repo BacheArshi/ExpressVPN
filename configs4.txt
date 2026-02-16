@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICIyMTMuMTc2LjEuNDgiLCAicG9ydCI6ICIxMDA2IiwgImlkIjogIjQ1MmM4MDM3LTY4NzItNDdjMi1hMWE3LWRkZGUyMzVlMzRmNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJ0bHMiOiAiIiwgImFscG4iOiAiIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm15a2V0LmlyIn0=
-
-vless://e54e9c84-02e1-40a0-a7b4-6f35d87cae17@85.133.202.88:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40planB_net
-
 vless://f7331adc-8d7a-4a9a-8ade-37b2a0dcc608@78.47.233.113:54743?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 trojan://BxceQaOe@57.180.12.68:20539?sni=t.me%252Fripaojiedian&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -1331,4 +1327,12 @@ vless://cbe758ed-7eb0-4bd3-a49e-22e9a4effe75@mail.norton-v.cfd:1517?security=non
 vless://97fd9bd6-848f-4759-b200-b25bcca28dfc@F1.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=infra-sync-distributor-06-layer-7.hamrahconfig.ir.&fp=chrome&type=ws&allowInsecure=0&sni=infra-sync-distributor-06-layer-7.hamrahconfig.ir.#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40NETMelliAnti
 
 vless://54a41073-e798-488b-af16-28533e612ec1@id.fasti.win:91?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=id.fasti.win#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vless://9fdd70da-b710-48b7-945a-642fe8937861@ru02-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&sni=hls-svod.itunes.apple.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vmess://eyJhZGQiOiAiMTQxLjExLjE4Ny4xODAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZmFzdC5jb20iLCAiaWQiOiAiMmM3MmM2NjctMDkzYy00N2E1LWExMDgtNDkzYzkzMjgyYjU3IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDg1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSBcdWQ4M2RcdWRjYzEgQFYycmF5bmdTZXZlbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2053?security=tls&type=httpupgrade&headerType=&path=%2F&host=az.downloadgameiran.ir&sni=az.downloadgameiran.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%F0%9F%93%81%20%40V2rayngSeven
+
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?security=none&type=httpupgrade&headerType=&path=%2F%3Fed%3D2080&host=bio.mehrsazi.ir#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40V2rayngSeven
 
