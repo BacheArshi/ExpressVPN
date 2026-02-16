@@ -1260,3 +1260,11 @@ vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@78.153.155.68:47030?type=tcp&securi
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40NpvV2rayFilTer
 
+vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=nx4.sellink.ir&sni=nx4.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=dxg5.sellink.ir&sni=dxg5.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40Trick_mobil
+
+vless://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%F0%9F%93%81%20%40Parsashonam
+
