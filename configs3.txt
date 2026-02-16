@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type=ws&path=%2FIVApi%2FUS%2F3&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://f7331adc-8d7a-4a9a-8ade-37b2a0dcc608@78.47.233.113:54743?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiZmkuc3J2dG9nby5jb20iLCAicG9ydCI6ICI5OTcwIiwgImlkIjogIjcwNGRmYzY3LTI2ZmYtNGE1Yy05ZTM5LWMxZjYxNGM3YjNhMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
-
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&type=tcp%20&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://dcf03387-f831-42e8-9ad3-72158253399d@45.130.125.69:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=Erd.roshdadcollection.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
-
-vless://dcf03387-f831-42e8-9ad3-72158253399d@193.151.152.81:8013?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
-
 trojan://2v5zbyr6-zb6t-3q8i-zw30-q6op4ya0fh8s@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
 
 trojan://xazu5vpe-bhm9-xq7h-dony-rbsent94jym5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
@@ -209,6 +197,10 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp%20%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiZmkuc3J2dG9nby5jb20iLCAicG9ydCI6ICI5OTcwIiwgImlkIjogIjcwNGRmYzY3LTI2ZmYtNGE1Yy05ZTM5LWMxZjYxNGM3YjNhMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
+
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&type=tcp%20&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp%20&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
