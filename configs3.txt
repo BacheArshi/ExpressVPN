@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?encryption=none&security=tls&sni=rus3.worldunlocked.org&type=ws&host=rus3.worldunlocked.org&path=%2fws-vless%2f#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?encryption=none&security=tls&sni=hetz.x-smm.com&type=ws&host=hetz.x-smm.com&path=%2f45.76.183.217%3d49292#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@xn-de.onlinernet.ir:20018?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://ef9f91a0-54bc-4678-8b48-b2c648c74625@89.110.74.164:8443?security=reality&encryption=none&pbk=E2uPS0gxJLxxJODyLM582BY9ZueZdZepeJ2BaLHhG2Y&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=be77cd9bc9dd69#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://18f72be7-0651-4037-928b-8a309d685796@nl3.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
-vless://6432bbec-c4c0-4837-9aa3-82e79def5017@5.253.41.208:8443?security=reality&encryption=none&pbk=CwOLLTLuQN1SPzvenr_B_ErYYoOB_ScSvGvH-iYOtF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=83780413c2ad3eaa#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@xn-de.onlinernet.ir:20018?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
 vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
@@ -71,6 +57,8 @@ vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.77:8443?type=tcp&securit
 vless://c6977f74-e620-4748-a2d3-4351a588c659@203.10.96.138:443?type=tcp&security=reality&sni=cdn-dynmedia-1.microsoft.com&fp=ios&flow=xtls-rprx-vision&pbk=VFG2L-3i30fQZg3wd0DF6dEGdaT27S-PKpuYu7Hp8xU&sid=fd26d49a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
+
+vless://ef9f91a0-54bc-4678-8b48-b2c648c74625@89.110.74.164:8443?security=reality&encryption=none&pbk=E2uPS0gxJLxxJODyLM582BY9ZueZdZepeJ2BaLHhG2Y&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=be77cd9bc9dd69#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://24fd4c36-83ee-4655-9d9b-1a429773787d@ars.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=reality&alpn=http%2F1.1&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&pbk=xm1XNJSlX26n6eNLvj2GXjDT6bV51bcfkxXarMO0wAM&host=iranhost.com&fp=chrome&type=xhttp&sni=iranhost.com&sid=d87754b283#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
 
