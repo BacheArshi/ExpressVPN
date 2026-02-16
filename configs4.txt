@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://44e4d068-22ca-4a82-bc7b-774ea879abc5@45.138.157.25:8443?security=reality&encryption=none&pbk=ZwKaXjLLamsHDmkPmUwvfnmx-Om4Drtmz97Mi16z6R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.2gis.kz&sid=88f48f30271d#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
 vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%F0%9F%93%81%20%40FreakConfig
@@ -1233,4 +1231,8 @@ vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=real
 vless://9cfc46c5-e93e-41bd-9553-66230a45bfa3@adm.mykvpnspeeedplus.cfd:52016?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Spotify_Porteghali
 
 vless://9cfc46c5…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Spotify_Porteghali
+
+vless://e56caf6e-4663-4919-81b4-65d9dbd076f6@85.133.247.130:8880?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40flyv2ray
+
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Outline_ir
 
