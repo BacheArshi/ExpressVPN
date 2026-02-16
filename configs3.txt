@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s6.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -1529,4 +1527,20 @@ vless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?path=%2FeyJqd
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.60:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBARGFpbHlWMlJZIiwgImFkZCI6ICJqamtpLmFlMWF1dHVtbi51cy5jaSIsICJwb3J0IjogIjgwIiwgImlkIjogIjRjMjA1YzgxLTU2OTQtNDNmZS1hMjg3LWFmNTYzYTJlYmMwNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiampraS5hZTFhdXR1bW4udXMuY2kiLCAicGF0aCI6ICIvZGpBMDdpVXNTcDBLMkZvNGdkczdjWHBEQjVuTzUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
+
+vless://50f73677-030f-43e2-891c-4617eea72ea2@144.31.170.239:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&fp=chrome&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F118.91.78.76%3D50001%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://d4f94197-07fc-467c-84bc-3138ca3b5a4d@144.31.226.10:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=yW54ew9dv1sTMXld-wooLjdZ4KsF8SvDkiMAzqqUnmY&sid=7353add971c7f3b0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F107.174.121.122%3D443#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?encryption=none&security=tls&sni=hetz.x-smm.com&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
+
+vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F140.245.53.45%3D443#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
 
