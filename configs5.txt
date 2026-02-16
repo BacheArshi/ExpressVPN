@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
-
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type=ws&path=%2F&host=6.3pita.com&alpn=http%2F1.1&sni=6.3pita.com&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -85,4 +83,12 @@ vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?security=tls&ty
 hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
 
 vless://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
+
+vless://Parsashonam@104.21.14.158:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
+
+vless://Parsashonam@45.130.125.160:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
+
+vless://Parsashonam@104.21.14.158:2096…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
+
+vless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
