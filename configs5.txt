@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.191:1001?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vmess://eyJwYXRoIjogIi8iLCAiYWRkIjogIjUuNTcuMzguMTkxIiwgImhvc3QiOiAibXlrZXQuaXIiLCAiaWQiOiAiYzI3MmY0NTItMTFhOC00YzBlLWFkNWUtMzg5NTE0ZTE3YTJmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMDAyIiwgInNjeSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2bWVzc19pcmFuIiwgInR5cGUiOiAiaHR0cCJ9
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@81.12.33.164:1005?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.190:1013?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%A9%F0%9F%87%B0%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.188:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
 trojan://telegram-id-directvpn@3.77.249.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.249.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
@@ -135,4 +125,14 @@ trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&
 vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://9c8bb1f3-c261-4c4a-a97c-e0778dfb2772@daily.asperwild.com:443?security=reality&encryption=none&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=daily.asperwild.com&sid=9a461d450ab387b5#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
+
+vmess://eyJhZGQiOiAiMTk4LjYyLjYyLjE5OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJvdXMzLmRlYW41Mi50b3AiLCAiaWQiOiAiZjA4MzY5ZDEtNWVlNy00YjE2LWQ3ODYtMzBiY2UxMmZjMzNjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2YwODM2OWQxLTVlZTctNGIxNi1kNzg2LTMwYmNlMTJmYzMzYyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggV1MtVExTIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQEZyZWFrQ29uZmlnIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJvdXMzLmRlYW41Mi50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
+
+vmess://eyJhZGQiOiAidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFdTLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBARnJlYWtDb25maWciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
