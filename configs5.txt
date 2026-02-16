@@ -106,3 +106,7 @@ vless://665a891b-114e-435b-a083-1ab5b8adc6ac@1.iranazizm.com:2095?path=%2F&secur
 
 vless://665a891b-114e-435b-a083-1ab5b8adc6ac@delilah.ns.cloudflare.com:2095?path=%2F&security=none&encryption=none&host=Jokerv.Membergolabi.iR.&type=httpupgrade#%F0%9F%87%A6%F0%9F%87%B9%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40JKVPN
 
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type=ws&path=%2FIVApi%2FUS%2F3&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiZmkuc3J2dG9nby5jb20iLCAicG9ydCI6ICI5OTcwIiwgImlkIjogIjcwNGRmYzY3LTI2ZmYtNGE1Yy05ZTM5LWMxZjYxNGM3YjNhMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
+
