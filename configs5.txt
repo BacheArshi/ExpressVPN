@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
-
-vless://084dac85-a82a-4462-9c43-13f0dcf7467c@46.224.39.71:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
-
-vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
-
-vless://425ef0c5-4e79…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
-
 vless://b1d63fd8-a67c-441d-8566-4e00ae224d4b@mail.mizban-r.site:1517/?encryption=none&host=testspeed-foreign.tci.ir&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.lv.flicknet.ir:54233/?encryption=none&host=skyroom.online&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
@@ -63,4 +55,14 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=%
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
 
 vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
+vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.191:1001?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vmess://eyJwYXRoIjogIi8iLCAiYWRkIjogIjUuNTcuMzguMTkxIiwgImhvc3QiOiAibXlrZXQuaXIiLCAiaWQiOiAiYzI3MmY0NTItMTFhOC00YzBlLWFkNWUtMzg5NTE0ZTE3YTJmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMDAyIiwgInNjeSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2bWVzc19pcmFuIiwgInR5cGUiOiAiaHR0cCJ9
+
+vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@81.12.33.164:1005?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.190:1013?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%A9%F0%9F%87%B0%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.188:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
 
