@@ -1478,3 +1478,15 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&secu
 
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
+vless://99032f24-649d-47fe-91b4-1b2299abaea8@u.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=swedenjji.global.ssl.fastly.net&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://99032f24-649d-47fe-91b4-1b2299abaea8@p.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=frenchboijji.global.ssl.fastly.net&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://99032f24-649d-47fe-91b4-1b2299abaea8@d.ssl.fastly.net:80?security=none&type=ws&path=%2F&host=italyforme.global.ssl.fastly.net&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://665a891b-114e-435b-a083-1ab5b8adc6ac@ip.shakhle.ir:2095?path=%2F&security=none&encryption=none&host=Jokerv.Membergolabi.iR.&type=httpupgrade#%F0%9F%87%A6%F0%9F%87%B9%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40JKVPN
+
+vless://665a891b-114e-435b-a083-1ab5b8adc6ac@1.iranazizm.com:2095?path=%2F&security=none&encryption=none&host=Jokerv.Membergolabi.iR.&type=httpupgrade#%F0%9F%87%A6%F0%9F%87%B9%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40JKVPN
+
+vless://665a891b-114e-435b-a083-1ab5b8adc6ac@delilah.ns.cloudflare.com:2095?path=%2F&security=none&encryption=none&host=Jokerv.Membergolabi.iR.&type=httpupgrade#%F0%9F%87%A6%F0%9F%87%B9%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40JKVPN
+
