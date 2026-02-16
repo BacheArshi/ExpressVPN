@@ -1334,3 +1334,7 @@ vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?path=%2F&securi
 
 vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&host=dxg5.sellink.ir&fp=chrome&type=ws&sni=dxg5.sellink.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
 
+vless://v2ray_fa3t@172.67.160.192:8880?path=%2F&security=none&encryption=none&host=tHt.BoulVarmOein.ShoP.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40v2ray_fa3t
+
+vless://7c792ab6-44ae-4831-a085-3c310b5f5551@s2.plan-vpn.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=s2.plan-vpn.ru&pbk=fT83pflGxRKuI01MxRCO7ODM8_UqAoHRC43lfpecLnk&sid=571dbf1163c63dca#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
