@@ -34,3 +34,5 @@ vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&encrypt
 
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1005?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@37.221.125.34:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=175d#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
