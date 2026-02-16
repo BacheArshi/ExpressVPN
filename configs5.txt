@@ -84,3 +84,5 @@ vless://44e4d068-22ca-4a82-bc7b-774ea879abc5@45.138.157.25:8443?security=reality
 
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&type=tcp&alpn=h2&sni=b12a6eea4807ca4e.1323.world&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@uk.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=1323.world#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
