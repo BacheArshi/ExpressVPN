@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1005?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://ba77276e-9939-4c6c-a73e-90e02b6faf13@37.221.125.34:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=175d#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
@@ -11,6 +9,8 @@ vless://a7b278a4-5ed7-4406-85dd-86668419ea23@f1.springpaatogh8.store:2053?securi
 vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:10010?security=none&type=ws&path=%2F&host=myket.ir&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiZnJlZWRvbS52aXBnc210ZWFtLmluZm8iLCAicG9ydCI6ICIxNzM1NiIsICJpZCI6ICJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInJhdyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiMjEzLjE3Ni4xLjQ4IiwgInBvcnQiOiAiMTAwNCIsICJpZCI6ICI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAidGxzIjogIiIsICJhbHBuIjogIiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJteWtldC5pciJ9
 
 vless://048ce500-05ab-485b-b224-1753d2b60730@95.174.92.11:443?security=reality&type=tcp&sni=dk40.strelkavpn.com&fp=chrome&flow=xtls-rprx-vision&sid=30406a9627a663&pbk=xfNZvP60yv5cee9Nyac7Daww3QwlAd2WDTd14jJixAk&encryption=none#%F0%9F%87%A7%F0%9F%87%AC%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
