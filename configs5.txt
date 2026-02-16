@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@15.236.126.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.126.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.236.126.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
-vless://9fb89911-315d-46b3-9d9a-720a46bedde9@85.133.202.88:8880?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
 vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
 
 vless://32609032-c9d6-487c-a1fd-0e4b09661e1d@65.109.229.174:34224?encryption=mlkem768x25519plus.native.0rtt.jg1YgNFyOMWZTDGBfLaD0TC9StfclQx_yyck7YOSry8&security=none&type=grpc&authority=&serviceName=grpc&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
@@ -109,4 +101,10 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.kr.lopzo.ir:47880?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&insecure=0&host=apii.onlineshoppingez.ir&type=ws&allowInsecure=0&sni=apii.onlineshoppingez.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vmess://eyJhZGQiOiAiY2Quc3J2dG9nby5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImUwODliMThkLTA0MTUtNGU1NC04Y2Y4LTA4MWM5ZmM5MTMzMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiOTkwNiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBAYXphZGlpaXZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=92de1aab07490056#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
+
+vless://727bf466-3eb1-4fd2-a7d0-242a35493af0@am.unibot.monster:443?security=reality&encryption=none&pbk=K7ickeq4jS60i8VDqEqTJ0NcxE2OpDtctJO5D9WPwDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=ab52#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
 
