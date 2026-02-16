@@ -1182,3 +1182,21 @@ vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.190:1013?encryption=none&ty
 
 vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.188:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%F0%9F%93%81%20%40vmess_iran
 
+trojan://telegram-id-directvpn@3.77.249.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.249.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.77.249.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.177.176.219:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@62.60.219.90:38967?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@45.130.125.107:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-rs.fxcdn.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.60:23209?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@62.60.219.90:47880?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@45.130.125.107:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-no.lopzo.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
