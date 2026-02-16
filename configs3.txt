@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp%20%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s6.daneshvardost.com:26480?security=none&type=tcp%20%20#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s6.daneshvardost.com:26480?security=none&type=tcp%20#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&type=tcp%20%20#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://c76bfdc8-fe3f-48c1-8fa2-0dbc9337370a@37.202.226.46:20262?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=%2F%3Fed%3D2560%26Telegram%40v2rayngzendegimamad&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
-
 vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
 vless://1738e694-c8e3-46c1-bc15-b8136d3b6338@theip.iplist.cryo-networks.com:9560?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
@@ -617,6 +601,8 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type
 vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?security=tls&type=ws&path=%2F&host=restless-dew-894b.amirhost4.workers.dev&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://050a12da-f082-4aa4-ada9-9b00e05fe242@Driftnet.ir:8095?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&type=tcp%20%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.179:26480?security=none&type=tcp%20%20#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
@@ -1289,4 +1275,6 @@ vless://44e4d068-22ca-4a82-bc7b-774ea879abc5@45.138.157.25:8443?security=reality
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&type=tcp&alpn=h2&sni=b12a6eea4807ca4e.1323.world&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@uk.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=1323.world#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
 
