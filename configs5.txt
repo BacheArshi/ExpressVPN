@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://dc893677-ef29-43c8-ae2a-4788c5712a23@ger4.azadrah.drpingi.shop:443?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://f7331adc-8d7a-4a9a-8ade-37b2a0dcc608@78.47.233.113:54743?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://Fluffy_VPN…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray1_ng
@@ -93,4 +89,54 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlIFRDUC1Ob25lIHwg
 vless://dcf03387-f831-42e8-9ad3-72158253399d@45.130.125.69:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=Erd.roshdadcollection.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
 
 vless://dcf03387-f831-42e8-9ad3-72158253399d@193.151.152.81:8013?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
+
+trojan://2v5zbyr6-zb6t-3q8i-zw30-q6op4ya0fh8s@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://xazu5vpe-bhm9-xq7h-dony-rbsent94jym5@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://po5brazn-252p-frka-egbu-f21r0ttelc8y@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://kivn0xi0-p107-qy41-eemj-ix08jlq3mmkv@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://6neiza04-z0zs-7m6i-pssp-rxefv046jdci@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://u1ll8icz-esl1-2awv-lc2e-16ridcpba7qq@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://BxceQaOe@219.79.214.159:443?sni=t.me%2Fripaojiedian&peer=t.me%2Fripaojiedian&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://telegram-id-privatevpns@63.181.161.254:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://bpb-trojan@zula.ir:443?sni=10-bPB-worKER-PAnEl.PagES.Dev&peer=10-bPB-worKER-PAnEl.PagES.Dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://6kh2gexo-dl9f-xk0t-stq1-b3y6fgvgyrii@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://vh4lzv4l-rjd6-32pf-esb1-fwh8s64u7sio@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://v41k75za-kz9p-3mit-4trn-oohsr2fvstti@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://k5oolz0y-6lyn-6l4d-yeuo-bttoeyp72hjd@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://3v2hoyvn-fwok-wmm2-pw67-b09fduka8vau@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://qv9pwobh-85gd-wfto-frj8-oewo95yril35@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://SVNTEAM@cn.gisvn.ir:443?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=PX3Iw8tKNRnG6_MqONvC96D7G1RWe_VvBJ99UGN150k#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+trojan://humanity@188.114.98.0:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://ff0f0e83-99f7-4419-99b1-9d789b40c500@94.182.149.197:52952?encryption=none&security=reality&sni=www.varzesh3.com&fp=chrome&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6&spx=%2FPOST&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://cce3c683-7134-45dd-a271-ad3bd35bd82d@plus.herlyito.top:49578?encryption=none&security=none&type=tcp&headerType=http&host=radiojavanhd.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://6fc2e094-daf5-4848-b539-dd2fb18de3a6@94.182.149.197:52952?encryption=none&security=reality&sni=www.varzesh3.com&fp=chrome&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6&spx=%2FPOST&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1030?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://ad14240e-196b-405b-8628-229295d20d7f@tu4.bing-net.com:3046?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.li.zopli.ir:50334?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://f291de93-b084-40b3-b4da-af90cd99de46@t20.xlordgrim.com:443?encryption=none&security=tls&sni=m.zoom.us&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fv1%2Fjp%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
