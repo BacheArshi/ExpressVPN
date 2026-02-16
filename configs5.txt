@@ -214,3 +214,5 @@ vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?encryption=none
 
 vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:2083?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=bouquetberlin.org&path=%2Fvlessws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@ficdn21.suio.me:443?type=tcp&security=tls&encryption=none&sni=ficdn21.suio.me#%F0%9F%87%AB%F0%9F%87%AE%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
