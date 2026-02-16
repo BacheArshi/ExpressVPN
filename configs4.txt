@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@18.158.213.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.213.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.158.213.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
-
-vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?security=none&encryption=none&host=fast.com%234Sarina-5605&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.pt.lopzo.ir:33020?security=none&encryption=none&host=skyroom.online%23%F0%9F%87%B5%F0%9F%87%B9%2B%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A5&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.it.flicknet.ir:41426?security=none&encryption=none&host=skyroom.online%23%F0%9F%87%AE%F0%9F%87%B9%2B%F0%9D%90%88%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%B2&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
-
-vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@87.106.21.75:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.fr.fx2hub.ir:59095?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vmess_ir
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
@@ -45,6 +31,10 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.tr.f2gate.ir:17432?security=&e
 vless://ef9f91a0-54bc-4678-8b48-b2c648c74625@89.110.74.164:8443?security=reality&encryption=none&pbk=E2uPS0gxJLxxJODyLM582BY9ZueZdZepeJ2BaLHhG2Y&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=be77cd9bc9dd69#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40meliproxyy
 
 vless://fb09722d-fbac-4967-849c-9268883be51a@185.209.42.210:8020?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
+
+vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?security=none&encryption=none&host=fast.com%234Sarina-5605&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
+
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.pt.lopzo.ir:33020?security=none&encryption=none&host=skyroom.online%23%F0%9F%87%B5%F0%9F%87%B9%2B%F0%9D%90%8F%F0%9D%90%A8%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%A5&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
 
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
 
@@ -266,6 +256,8 @@ vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=rea
 
 vless://83e57d23-3db8-47f3-ae2d-7a68ff62b1dd@193.151.142.126:999?security=none&encryption=none&host=Mci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
 
+vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@87.106.21.75:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40vmesc
+
 vless://f14c0e56-d3e8-4eaf-96b6-123a1fd07571@135.125.139.219:2055?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
 
 vless://9a316687-bffe-4aeb-98aa-6a3c7cf9d39a@185.117.0.111:3050?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
@@ -425,6 +417,8 @@ vless://f625ba3b-93dc-4a87-9e69-f39a2f16ff98@95.163.210.173:443?encryption=none&
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAidmMuZmx5LmRldiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAiYWlkIjogIjMyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2Yy5mbHkuZGV2IiwgInBhdGgiOiAiL3ZjIiwgImhvc3QiOiAidmMuZmx5LmRldiJ9
 
 vless://64b5d863-81d6-48ea-9222-82030616fa63@es.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.213.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
 
 vless://39d5d64f-1d8a-4cc7-886c-7792ddaf650e@95.182.116.24:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
 
@@ -1215,4 +1209,6 @@ vless://18f72be7-0651-4037-928b-8a309d685796@fr.pineappled.org:443?type=tcp&secu
 vless://1b9c7fde-92d7-4d10-b9a5-bb3d71794ab8@87.236.38.77:8443?security=none&encryption=none&host=fast.com%234Sarina-5605%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40flyv2ray
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.rs.lopzo.ir:38967?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40flyv2ray
+
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40flyv2ray
 
