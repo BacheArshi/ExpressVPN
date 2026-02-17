@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://e88807d6-5789-41bf-ba33-5393f8d84fae@146.75.53.132:80?path=%2F&security=none&encryption=none&host=dashaghdarim2.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40NETMelliAnti
-
-vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=2roznistam.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40NETMelliAnti
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.84.88.7:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40v2Line
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEB2MkxpbmUiLCAiYWRkIjogIjQ1LjE0MS4xNDguMTQzIiwgInBvcnQiOiAiNTA1OSIsICJpZCI6ICJlNzIwZDJiNi04MGRkLTQ2NjQtYjY0ZS02Y2M3ODRiY2UzMjkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImJtaS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
 
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40v2Line
@@ -1010,6 +1004,8 @@ vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?flow=xtl
 
 vless://nasnet@162.19.10.94:443?flow=xtls-rprx-vision&security=tls&encryption=none&type=tcp&sni=nasnet-162191094-direct.sharghdaily.co&fp=chrome&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.84.88.7:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40v2ray_Extractor
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEB2MnJheV9FeHRyYWN0b3IiLCAiYWRkIjogIjIwOS4xMjYuODQuMTg5IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiMjA5LjEyNi44NC4xODkiLCAicGF0aCI6ICIvdm1lc3N3cyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
 
 vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_Extractor
@@ -1371,4 +1367,6 @@ vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=&encry
 vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@45.144.214.133:2876?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
 
 vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSBcdWQ4M2RcdWRjYzEgQGF6YWRpX2NvbmZpZyIsICJwb3J0IjogMjA4MiwgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
