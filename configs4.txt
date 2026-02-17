@@ -1,31 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://BxceQaOe@57.180.15.194:54548?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&type=tcp%20&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.180.249.123:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.153.77.88:35250?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
-
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadi_config
-
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
-
-vless://91593ace-980c-4395-8f21-fb9a25bad4d2@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=hyper-node-balancer-05-core-main.hamrahconfig.ir.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40azadi_config
-
-vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
-
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
-
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadi_config
-
-vless://fd8b5a1f-2080-465e-8d70-2dee4183855e@black-mouse-6c80.tedoxa4182.workers.dev:443?path=%2Fhexmostafa%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=black-mouse-6c80.tedoxa4182.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=black-mouse-6c80.tedoxa4182.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
-
-vless://e9914e33-d222-4adb-a458-44ae369a3799@94.139.191.67:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadi_config
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.12.103:14453?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
@@ -65,6 +39,8 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.16.250.22:2053?path=%2F&securit
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
 vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fans1.mahoshid.ir:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@ip.speedcheck.mobileemdad.top:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40ConfigV2rayNG
 
@@ -112,6 +88,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@v3.dabache.top:2096?encryption=none
 
 vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fans2.mahoshid.ir:45471?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
 
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
+
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://ff9fef0b-b3cd-4583-8841-b7ef1843880f@1234.wordpresscrt.ir:2087?path=%2Fpath&security=tls&encryption=none&insecure=0&host=mehdi-cd.wordpresscrt.ir&type=ws&allowInsecure=0&sni=mehdi-cd.wordpresscrt.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
@@ -135,6 +113,8 @@ vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@163.172.29.106:8443?encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@alixtso#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@20.6.12.145:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.216.146:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
 
@@ -370,6 +350,8 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s5.daneshvardost.com:26480?security
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
 
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
 vless://a8b9f579-40e3-41a7-9d6c-81b558e5cc5e@45.130.125.160:2086?encryption=none&type=httpupgrade&host=a3ssa.vaslbsh.com&path=/?ed%3D2086&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40V2rayNg_madam
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D%23TELEGRAM-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
@@ -403,6 +385,8 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?securi
 vless://30a21764-cd85-40df-a981-905703d8edd9@94.183.169.145:443?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:10010?security=none&type=ws&path=%2F&host=myket.ir&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&type=tcp%20&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://86e1dc2b-9e5f-4796-bf9c-3a3f71fede7c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiWVJ3bER6b2V5ZHBRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=crimson-smoke-090f.jxsgv.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
 
@@ -469,6 +453,8 @@ vless://084dac85-a82a-4462-9c43-13f0dcf7467c@157.90.239.92:1517?security=none&en
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
 
 vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr3.baleping.shop:2086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadi_config
+
+vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40azadi_config
 
 vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr1.baleping.shop:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40azadi_config
 
@@ -572,6 +558,8 @@ vmess://eyJhZGQiOiAiODUuMTk0LjI0My4xMTciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40xsfilternet
 
+vless://91593ace-980c-4395-8f21-fb9a25bad4d2@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=hyper-node-balancer-05-core-main.hamrahconfig.ir.&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%F0%9F%93%81%20%40xsfilternet
+
 vless://f19bceee-4a50-4b0a-896a-7630812a9bff@mail.j-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40xsfilternet
 
 vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40xsfilternet
@@ -581,6 +569,8 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40xsfilternet
 
 vless://cf30efe5-1e71-4fd5-ba49-4fb831cc11d6@cpanel.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40xsfilternet
+
+vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40xsfilternet
 
 vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40xsfilternet
 
