@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?encryption=none&security=none&type=ws&host=skyroom.online%2Cgharar.ir%2Cigap.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&sni=nic3-1.workers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn-2.nic3-1.workers.dev&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
-
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -147,4 +139,10 @@ vless://bbc81761-1dc8-45f0-842c-58b5844dedf6@lit.litiran.ir:2083?security=tls&ty
 vless://7f542def-d435-4a9f-ba70-ee61099f5ffe@185.211.59.235:3030?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
 vless://d9b9dbfa-34df-4c1b-b7be-8795642939d9@94.184.21.203:50635?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
+vless://bbc81761-1dc8-45f0-842c-58b5844dedf6@lit3.litiran.ir:2083?security=tls&type=ws&path=%2F&host=videogame-ge.kafeistanbul.shop&sni=videogame-ge.kafeistanbul.shop&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://bbc81761-1dc8-45f0-842c-58b5844dedf6@lit3.litiran.ir:2083?security=tls&type=ws&path=%2F&host=image-it.kafeistanbul.shop&sni=image-it.kafeistanbul.shop&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B9%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9jb25maWdzX3Bvb2wiLCAiYWRkIjogImRsbC5hdmFhYWFsLmlyIiwgInBvcnQiOiAiODQ0MyIsICJpZCI6ICI3MjVmNWZjZC03MjFkLTQwYTAtYmE2Yi0zYzc0Nzc2MzMxMTAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICIiLCAic25pIjogImRsbC5hdmFhYWFsLmlyIiwgInBhdGgiOiAiLyIsICJob3N0IjogImNkZ2UuYXZhYWFhbC5pciJ9
 
