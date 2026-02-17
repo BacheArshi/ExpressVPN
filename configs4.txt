@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40vmess_ir
-
 vless://875cb468-a847-489e-bd16-7993a013a73c@poli.appleseraj.ir:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=duseldorf.appleseraj.ir&sni=duseldorf.appleseraj.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?security=tls&type=ws&path=%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&host=6.3pita.com&alpn=http%2F1.1&sni=6.3pita.com&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -781,6 +779,8 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=%2
 vless://54a41073-e798-488b-af16-28533e612ec1@il.fasti.win:972?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=il.fasti.win#%F0%9F%87%AE%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@46.62.150.122:16574?encryption=none&security=reality&type=tcp&headerType=none&sni=yahoo.com&fp=chrome&pbk=gO-n2qZkxjjKmCCd8e-VBH0zOIC7u8FVJN3gnySnEUc&sid=ad03f1556dfa4ed0#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
 vless://3c5c4ccc-b502-42cb-8c42-cfa714db4767@212.111.84.82:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
 
