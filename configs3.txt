@@ -1240,3 +1240,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&securi
 
 vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
+vless://ad14240e-196b-405b-8628-229295d20d7f@87.107.9.99:3046?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
+
+vless://d02c2f62-45d5-4fc0-8101-b77dcfb71b19@vipp.arman-a.ir:8443?security=reality&encryption=none&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&host=divar.ir&headerType=http&fp=safari&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN+&type=tcp&sni=yahoo.com&sid=4b1e5af0c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=%2F&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
