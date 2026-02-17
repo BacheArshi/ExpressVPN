@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
-
 vmess://eyJhZGQiOiAicGFuZWw3MTMuY29sc3Zwbi50b3AiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidGVsZXdlYmlvbi5jb20iLCAiaWQiOiAiNzhlODFkN2YtZjExMS00OGQ3LTkzN2QtYzlkMmMzNWNmMGRhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI1NjUxMSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBARXhwcmVzc19hbGFraSB8IHNyYyBAcHJyb2ZpbGVfcHVycGxlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 
 vless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
@@ -105,4 +103,6 @@ vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:1717?security=none&
 vless://1ca14a65-1407-4190-aed1-975ef07c343d@f1e059d3f90f92c7.first.sapienza-mahan.ir:443?security=tls&type=ws&path=%2Fopt%2FW122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88%3Fed%3D2560&host=ali-gr.sdcards1.ir&alpn=h2%2Chttp%2F1.1&sni=ali-gr.sdcards1.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?encryption=none&security=reality&sni=pl-mirror.api.akenai.click&fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://0181af10-85b6-42bd-9d84-924f80632381@193.169.239.229:3034?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
 
