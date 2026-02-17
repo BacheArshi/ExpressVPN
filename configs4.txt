@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@51.44.195.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.195.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.195.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
-
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@78.153.155.68:47030?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40NpvV2rayFilTer
-
 vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=nx4.sellink.ir&sni=nx4.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=dxg5.sellink.ir&sni=dxg5.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -721,6 +711,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLVRMUyBcdWQ4
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?sni=iepl.usq1.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&type=tcp%40freeneetir%20%E2%9C%A8&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@51.44.195.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
 
 vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?encryption=none&security=tls&sni=rus3.worldunlocked.org&type=ws&host=rus3.worldunlocked.org&path=/ws-vless/#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%F0%9F%93%81%20%40v2nodes
 
