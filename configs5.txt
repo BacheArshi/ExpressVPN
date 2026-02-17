@@ -74,3 +74,13 @@ vless://14818654-7689-453a-9a1f-4c72f89782d5@germ-node.genadata.online:2040?encr
 
 vless://8e65208f-2ee8-49b6-9c98-25c9ba152a0a@dc.foxred.site:443?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?note=@FreeOnlineVPN&type=tcp&security=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://4a942a11-2178-4b10-af73-15b1cfee99df@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F185.186.245.205%3D81#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://0222dd99-988d-49ee-a4b7-42c3e2ad656b@whm.whaletm2.site:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://0222dd99-988d-49ee-a4b7-42c3e2ad656b@cpanel.whaletm2.site:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?encryption=none&security=none&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F64.181.218.67%3D443#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
