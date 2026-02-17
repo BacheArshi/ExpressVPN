@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.191:1001?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vmess://eyJwYXRoIjogIi8iLCAiYWRkIjogIjUuNTcuMzguMTkxIiwgImhvc3QiOiAibXlrZXQuaXIiLCAiaWQiOiAiYzI3MmY0NTItMTFhOC00YzBlLWFkNWUtMzg5NTE0ZTE3YTJmIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6ICIxMDAyIiwgInNjeSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2bWVzc19pcmFuIiwgInR5cGUiOiAiaHR0cCJ9
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@81.12.33.164:1005?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.190:1013?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%A9%F0%9F%87%B0%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
-vless://ffa8f3fa-0b94-4a30-be7a-ea977166fd09@5.57.38.188:1027?encryption=none&type=tcp&headerType=http&host=myket.ir&path=/#%F0%9F%87%BA%F0%9F%87%A6%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
-
 trojan://telegram-id-directvpn@3.77.249.4:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.249.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
@@ -1443,4 +1433,6 @@ vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&ty
 vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@ip.bestfrends.ir:8587?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
