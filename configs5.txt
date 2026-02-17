@@ -32,3 +32,13 @@ vless://9d3676df-21c3-4338-909f-078067620114@81.12.92.70:2092?security=none&encr
 
 vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@85.208.139.190:47030?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&security=reality&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://3c606f1a-9d0b-4de0-a930-dbead82e92f9@private1001.shafawiki.ir:8443?security=tls&type=ws&path=%2Fashna%2Ffilm%2Fkorei%2FFILE12%2F1234&host=denmark.shafawiki.ir&alpn=h2%2Chttp%2F1.1&sni=denmark.shafawiki.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=wiz10.wizard2shop.org&sni=wiz10.wizard2shop.org&fp=360&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?security=none&type=ws&path=%2FIVApi%2FDE%2F3&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type=ws&path=%2FIVApi%2FUS%2F3&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
