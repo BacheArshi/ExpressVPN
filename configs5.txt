@@ -26,3 +26,5 @@ vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&ty
 
 vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@ip.bestfrends.ir:8587?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
