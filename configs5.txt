@@ -24,3 +24,15 @@ trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&fp=ch
 
 vless://ef69fec4-568a-428b-b0bf-5b3f9e9faa23@144.31.237.22:8443?encryption=none&security=reality&sni=pingless.com&fp=chrome&pbk=sLp0-BtGhqDhYoUS87gqkcAmX87AAAiCSKJLgb33CAk&sid=7a1c2e6b540f9b3d&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40DailyV2RY
 
+trojan://telegram-id-directvpn@52.58.68.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.68.225:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.58.68.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
+vless://77da92aa-12ad-4370-b9be-25a86bc58c39@yserv.zaubex.online:443?security=reality&encryption=none&pbk=zycPuQeYGVffYGghLODxpyE3eexkEHk4_G84IaMjYCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yserv.zaubex.online&sid=fa5394a97158b82b#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://77da92aa-12ad-4370-b9be-25a86bc58c39@frserv.zaubex.online:443?security=reality&encryption=none&pbk=u2EbbN6nSieQdOlr1IaND9mfIuOkuLP8tgTHNjmJZ04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frserv.zaubex.online&sid=0239282ae10047c8#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
