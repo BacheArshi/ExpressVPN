@@ -142,3 +142,7 @@ vless://480f6125-72c7-479a-bf7b-c1f97a77e3e4@94.184.13.92:443?encryption=none&se
 
 vless://ad14240e-196b-405b-8628-229295d20d7f@tu4.bing-net.com:3046?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://f0fde63c-99c7-4db4-aa21-fc25b500e43d@ir.fctrailer.ir:44226?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://f0fde63c-99c7-4db4-aa21-fc25b500e43d@ir.fctrailer.ir:44226?security=none&type=tcp%20&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
