@@ -1234,3 +1234,5 @@ vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&
 
 vless://8a6d8bbc-dc5f-4ed6-835f-f45ab3a34f7b@62.133.63.18:29327?security=reality&encryption=none&pbk=hbPAXrGZuxDxygy_GMohS8EfLTZSMtLsMS3WuAT8OEM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=4e426c414b1de074#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
+vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.217.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&security=reality&sid=d3d1ed07dfdee544&sni=stats.vk-portal.net&type=tcp#%F0%9F%87%BA%F0%9F%87%BF%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
