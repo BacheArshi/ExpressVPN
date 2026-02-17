@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056?sni=flkf2.mangshe.xyz&insecure=1&allowInsecure=1#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
-
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
-
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 trojan://bpb-trojan@172.67.180.227:443?encryption=none&security=tls&sni=mashdt.pages.dev&alpn=h3&fp=randomized&insecure=1&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
@@ -127,4 +117,14 @@ vless://c92bc4cf-0db4-4662-9e4f-b9592e8e8692@95.38.54.114:35869?security=none&en
 vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@chatgpt.com:443?security=tls&encryption=none&host=UkAbaDi.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=UkAbaDi.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@198.41.222.114:443?security=tls&encryption=none&host=SweDeN.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=SwEdEn.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@8.6.112.0:443?security=tls&encryption=none&host=iTalY.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=iTalY.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@188.114.97.192:443?security=tls&encryption=none&host=FrEcCheN.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=FrEcCheN.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 

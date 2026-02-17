@@ -1430,3 +1430,13 @@ vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?encryption=none&
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@chatgpt.com:443?security=tls&encryption=none&host=UkAbaDi.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=UkAbaDi.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@198.41.222.114:443?security=tls&encryption=none&host=SweDeN.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=SwEdEn.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@8.6.112.0:443?security=tls&encryption=none&host=iTalY.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=iTalY.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://976cd600-97a1-4c9c-b143-c901dbf175e7@188.114.97.192:443?security=tls&encryption=none&host=FrEcCheN.mAzrAedAraN-DaTeL.iR&fp=chrome&type=ws&sni=FrEcCheN.mAzrAedAraN-DaTeL.iR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
