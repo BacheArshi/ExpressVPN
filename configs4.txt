@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@uk.1323.world:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=1323.world#%F0%9F%87%AC%F0%9F%87%A7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
-
 vless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40vmesc
 
 vless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40HajmVPN_Config
@@ -1333,4 +1331,6 @@ vmess://eyJhZGQiOiAicDMtc3YyLmhhbXJhaGdhdGUuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIi
 vless://4a6527a3-0214-41f6-8ce8-44f91912d434@fix12.wizard2shop.org:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=x1.pishi.lat&fp=android&type=ws&allowInsecure=0&sni=x1.pishi.lat#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://d8f31795-615f-4ba6-979c-3fe057984108@Z4.prodnsspeed10.ir:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dustch.roshdadcollection.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://1eca1f1c-4351-4604-916e-6035cdac022a@kh.de.krakensv.com:1001?flow=&type=tcp&headerType=http&host=&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
 
