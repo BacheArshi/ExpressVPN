@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://5d6a646e-24fb-4eb4-af28-bf0c0c17db43@initvpn.amojojo.workers.dev:443?security=tls&type=ws&path=%2Fws&host=initvpn.amojojo.workers.dev&sni=initvpn.amojojo.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?security=tls&type=ws&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&host=mitivpn-2.nic3-1.workers.dev&alpn=http%2F1.1&sni=nic3-1.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -1423,4 +1421,16 @@ vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1011?encryption=none&s
 vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1017?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
 vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:1015?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=1&type=ws&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.77.176:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?secur…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40BigSmoke_Config
 
