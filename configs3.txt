@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=nx4.sellink.ir&sni=nx4.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=dxg5.sellink.ir&sni=dxg5.sellink.ir&fp=chrome&encryption=none#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
-
-vless://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
-
-vless://Parsashonam@104.21.14.158:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
-
-vless://Parsashonam@45.130.125.160:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%87%AB%F0%9F%87%AE%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
-
-vless://Parsashonam@104.21.14.158:2096…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Parsashonam
-
-vless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://e88807d6-5789-41bf-ba33-5393f8d84fae@146.75.53.132:80?path=%2F&security=none&encryption=none&host=dashaghdarim2.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
 vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=2roznistam.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
@@ -343,6 +327,8 @@ vless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=rea
 vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
 vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
+
+vless://Parsashonam@45.130.125.160:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:11824?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
@@ -974,6 +960,8 @@ vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIs
 
 vmess://eyJhZGQiOiAiMTkyLjIyNy4yNDkuMjI3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzYjEzNDI1Mi1lN2MyLTQzZGYtOThiNy1kYTIwNDEwNGFhNzkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NjQxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9FeHRyYWN0b3IiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
+hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
+
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
@@ -1379,4 +1367,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.142.57:22224?type=ws&security
 trojan://telegram-id-privatevpns@3.122.142.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
 
 vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadi_config
+
+vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@45.144.214.133:2876?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 

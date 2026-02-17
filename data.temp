@@ -1,11 +1,3 @@
-1771267523.383691|v2ray_configs_pool|vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=nx4.sellink.ir&sni=nx4.sellink.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_1%7C4.6MB%2Fs
-1771267523.383691|v2ray_configs_pool|vless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?security=tls&type=ws&path=%2F&host=dxg5.sellink.ir&sni=dxg5.sellink.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%7C3.7MB%2Fs
-1771267523.383691|Trick_mobil|hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#@Trick_mobil
-1771267523.383691|Parsashonam|vless://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-0
-1771267825.105034|Parsashonam|vless://Parsashonam@104.21.14.158:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-1
-1771267825.105034|Parsashonam|vless://Parsashonam@45.130.125.160:2096?mode=auto&path=%2F&security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#%40Parsashonam_Bot%20%F0%9F%87%AB%F0%9F%87%AE-Test-2
-1771267825.105034|Parsashonam|vless://Parsashonam@104.21.14.158:2096…
-1771267825.105034|v2nodes|vless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#🇩🇪[openproxylist.com] vless-DE
 1771268433.435738|NETMelliAnti|vless://e88807d6-5789-41bf-ba33-5393f8d84fae@146.75.53.132:80?path=%2F&security=none&encryption=none&host=dashaghdarim2.global.ssl.fastly.net&type=ws#%40NETMelliAnti
 1771268433.435738|NETMelliAnti|vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=2roznistam.global.ssl.fastly.net&type=ws#%40NETMelliAnti
 1771268433.435738|v2Line|vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.84.88.7:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&allowInsecure=1&type=ws&host=sni.111000.v6.navy&path=%2F#t.me/v2Line | Free | 3356 | France
@@ -859,3 +851,4 @@
 1771310121.777262|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.142.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 1771310121.777262|PrivateVPNs|trojan://telegram-id-privatevpns@3.122.142.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 1771310121.777262|azadi_config|vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=&encryption=none&headerType=none&type=tcp#%F0%9F%9A%80%20%F0%9F%87%B9%F0%9F%87%B7%20TR-117
+1771311026.262438|NETMelliAnti|vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@45.144.214.133:2876?security=none&encryption=none&headerType=none&type=tcp#%40NETMelliAnti
