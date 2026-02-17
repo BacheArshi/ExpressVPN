@@ -1258,3 +1258,5 @@ vless://9fdd70da-b710-48b7-945a-642fe8937861@46.29.166.193:443?encryption=none&f
 
 vless://ea8eaf21-76f8-4ef2-8397-aa1d693487a3@77.110.125.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ytMHU3SjhXFJPj8bZh4kIV12PPELb9NdfrNIrUsnIX0&security=reality&sid=9c3cfaba3eb6c929&sni=web.max.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://c01836d6-afbd-432e-92f3-3075d80e97bd@95.38.38.233:42245?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
