@@ -104,3 +104,5 @@ vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@144.31.180.212:443?encryption=none&
 
 vless://ea51b4e4-b787-4dbc-a4ad-a96cbc0c7e85@45.144.54.87:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=03a70b17f8036009#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://f0b15f64-db59-438c-b1b6-f1b83db52240@217.154.194.55:443?type=tcp&security=reality&sni=azure.com&fp=chrome&flow=xtls-rprx-vision&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
