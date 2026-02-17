@@ -1290,3 +1290,9 @@ vless://9ddcc700-0688-11f1-81b6-43ab7c0441e4@lv1.vpnjantit.com:10002?path=/vpnja
 
 vless://2b519523-4ed0-4a22-95f1-d6d495278a7c@sps1.sbs:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=dropbox.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
 
+vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?path=%2F118.91.78.76%3D50001&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
+vless://9034468f-b93d-407f-bfc0-87a178ba5c8c@144.31.2.86:443?security=reality&encryption=none&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=cbdfef7f3ede2072#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2rayng_Fast
+
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayng_Fast
+
