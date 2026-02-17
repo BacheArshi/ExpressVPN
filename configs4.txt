@@ -1368,3 +1368,13 @@ trojan://bpb-trojan@172.67.180.227:443?encryption=none&security=tls&sni=mashdt.p
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.27.243.248:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.195.240.210:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.245.108.104:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@207.246.97.82:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
