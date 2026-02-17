@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ad14240e-196b-405b-8628-229295d20d7f@87.107.9.99:3046?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
-
-vless://d02c2f62-45d5-4fc0-8101-b77dcfb71b19@vipp.arman-a.ir:8443?security=reality&encryption=none&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&host=divar.ir&headerType=http&fp=safari&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN+&type=tcp&sni=yahoo.com&sid=4b1e5af0c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
-
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=%2F&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
-
-vless://ad181dfb-e868-49dc-990e-ea852dc26b2c@a18.baleping.shop:8880?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://07054d23-4fb3-49e7-bc1f-9aff623304b2@cd.reata.ir:2053?security=tls&type=ws&path=%2F%3Fed%3D2096&host=api18.hupcloud.com&alpn=h2&sni=api18.hupcloud.com&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://5127b617-ef00-4eab-9be7-4085e1d75f6d@45.130.125.69:2053?path=%2Flove&security=tls&encryption=none&type=ws&sni=nova.roshdadcollection.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.55:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
@@ -47,4 +37,8 @@ vmess://eyJhZGQiOiAiZnJlZWRvbS52aXBnc210ZWFtLmluZm8iLCAiYWlkIjogIjAiLCAiYWxwbiI6
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.jp.fx2hub.ir:45703?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40BigSmoke_Config
 
 vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40BigSmoke_Config
+
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
+vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&security=reality&serviceName=xyz&sid=d49d578f280fd83a&sni=ads.x5.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
