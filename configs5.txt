@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://c01836d6-afbd-432e-92f3-3075d80e97bd@95.38.38.233:42245?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
-
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=takken.sorza.ir&type=ws&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
 trojan://telegram-id-directvpn@3.126.3.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
@@ -33,4 +31,10 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sg.zopli.ir:43800?security=&en
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
 
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&security=reality&serviceName=xyz&sid=d49d578f280fd83a&sni=ads.x5.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
+
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
+
+vless://9d3676df-21c3-4338-909f-078067620114@81.12.92.70:2092?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
 
