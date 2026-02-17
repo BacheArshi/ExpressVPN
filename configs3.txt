@@ -1564,3 +1564,5 @@ vless://7f542def-d435-4a9f-ba70-ee61099f5ffe@185.211.59.235:3030?encryption=none
 
 vless://896c2efd-252d-4837-b3b7-349faa02956d@199.232.193.10:80?encryption=none&security=none&type=ws&host=easyhostmanger.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&sni=nic3-1.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40confegraigan
+
