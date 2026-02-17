@@ -32,3 +32,5 @@ vless://0@193.151.147.153:1?security=none&type=tcp&encryption=none#%F0%9F%87%A9%
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&type=tcp%40freeneetir%20%E2%9C%A8&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?encryption=none&security=tls&sni=rus3.worldunlocked.org&type=ws&host=rus3.worldunlocked.org&path=/ws-vless/#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
