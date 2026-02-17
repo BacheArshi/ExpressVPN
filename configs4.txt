@@ -1454,3 +1454,11 @@ vless://Parsashonam@45.130.125.160:2096?mode=auto&security=tls&encryption=none&i
 
 vless://Parsashonam@chatGPT.com:2096?mode=auto&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=signup.atlasw.ir#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s7.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A8%F0%9F%87%AD%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F%3Fed&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=chess.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
