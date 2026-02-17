@@ -1436,3 +1436,7 @@ vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@ip.bestfrends.ir:8587?security=none
 
 trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&headerType=none&fp=chrome&type=tcp&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40planB_net
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Outline_ir
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40Outline_ir
+
