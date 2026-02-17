@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://3c606f1a-9d0b-4de0-a930-dbead82e92f9@private1001.shafawiki.ir:8443?security=tls&type=ws&path=%2Fashna%2Ffilm%2Fkorei%2FFILE12%2F1234&host=denmark.shafawiki.ir&alpn=h2%2Chttp%2F1.1&sni=denmark.shafawiki.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=wiz10.wizard2shop.org&sni=wiz10.wizard2shop.org&fp=360&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?sni=iepl.jpz2.cat.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.23:8080?security=none&type=ws&path=%2FIVApi%2FDE%2F3&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type=ws&path=%2FIVApi%2FUS%2F3&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
@@ -123,4 +113,8 @@ vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?security=none&
 trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vless://4bfb1ae5-bd03-4c1e-99e0-7a32c62c7b69@turkey.tun.kalbod-team.ir:9008?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
