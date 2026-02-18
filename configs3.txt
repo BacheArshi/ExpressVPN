@@ -1316,3 +1316,7 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=&encry
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@47.91.94.112:10040?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
+vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
