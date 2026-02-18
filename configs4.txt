@@ -916,3 +916,13 @@ vless://67e02f68-59d0-4f67-9a7e-27534b9f5284@85.234.69.192:2053?type=tcp&encrypt
 
 vless://67e02f68-59d0-4f67-9a7e-27534b9f5284@94.101.176.172:2053?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG3
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s8.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?security=none&type=ws&path=%2F&host=vip.api-tel.xyz#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s7.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
