@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@www.speedtest.net:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://3ed2d05e-12d0-4d22-a24b-6c2b5f57c0b3@141.11.250.201:8432?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=u4qZ9reMNKhkF4E_GBR4E_OUD8ei_3HXAk06bghT_Tg&sid=5bfd7f32&spx=%2F&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://f3ab3b51-eaaf-4148-a04a-6c9f04e54a8f@canada.gabzi.ir:43060?encryption=none&security=reality&sni=aws.amazon.com&fp=chrome&pbk=viwmiXBAEWm7B89h815IsRaH7sOsgwuIY9yYx6PihVg&sid=daed0c4a268d46&spx=%2FmDpqVlnVsCGeXmc&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://b020865b-7404-4894-ba65-a7414b10cda3@uj.999j.indevs.in:443?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=uj.999j.indevs.in&path=%2F15ZYK3adOPjqSc7fzeJr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40HajmVPN_Config
 
 vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cdnjs.com:2083?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&allowInsecure=0&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
@@ -83,4 +75,12 @@ vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@192.200.160.6:443?mode=stream-up&pa
 vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=APP-FI-1.85858569.XYZ&fp=chrome&type=xhttp&sni=prqyxtlb.85858569.Xyz#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40kanfig_kade
 
 vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@194.182.64.209:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#%F0%9F%87%A8%F0%9F%87%BF%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vless://6562c4bb-4feb-4b23-ae63-53ee4aa473aa@2.144.4.229:9090?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-up&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22xmux%22%20%3A%20%7B%0A%20%20%20%20%22hMaxReusableSecs%22%20%3A%20%221800-3000%22%2C%0A%20%20%20%20%22maxConcurrency%22%20%3A%20%2216-32%22%2C%0A%20%20%20%20%22cMaxReuseTimes%22%20%3A%200%2C%0A%20%20%20%20%22maxConnections%22%20%3A%200%2C%0A%20%20%20%20%22hMaxRequestTimes%22%20%3A%20%22600-900%22%2C%0A%20%20%20%20%22hKeepAlivePeriod%22%20%3A%200%0A%20%20%7D%2C%0A%20%20%22scStreamUpServerSecs%22%20%3A%20%2220-80%22%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%201000000%2C%0A%20%20%22headers%22%20%3A%20%7B%0A%0A%20%20%7D%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%2030%0A%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de-3.85858569.xyz#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
+
+vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
 
