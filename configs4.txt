@@ -1,29 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://7M72gQuaaH@148.251.173.125:16512?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40V2rayBaaz
-
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
-
-vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engeng.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
-
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
-
-vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2rayBaaz
-
-vless://b39aca97-e9f2-4a94-b87f-8748299846cd@144.31.85.153:443?type=tcp&security=reality&sni=germany.denditop.site&fp=chrome&flow=xtls-rprx-vision&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
-
-vless://6800b28f-f8a0-441b-bfd9-50bb6bbe8ed2@ge.iranv.store:37340?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.kr.lopzo.ir:47880?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@62.60.219.90:47880?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
-vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
-vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
-vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engeng.madarhome.ir:2076?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
-
 vless://bdc39e5c-7605-4060-bebe-906801c5479b@ip3.iranvatanam.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&fp=chrome&type=ws&sni=test2.iranvatanam.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
 
 vless://bdc39e5c-7605-4060-bebe-906801c5479b@3kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:702?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
@@ -1040,6 +1016,8 @@ vless://nasnet@57.129.64.102:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=no
 
 vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInBlbGFuZy5vcmciLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIFx1ZDgzZFx1ZGNjMSBAQ29uZmlnVjJyYXlORyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
+vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@ir-vip.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
@@ -1061,6 +1039,8 @@ vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-77.f-sub.cfd:1517?security=none
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@vip-84.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
 vless://2d48dffd-f9bc-4cfb-84c0-73ec6ff0536e@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
 
