@@ -1,12 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?encryption=none&security=none&type=ws&host=skyroom.online%2Cgharar.ir%2Cigap.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&sni=nic3-1.workers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn-2.nic3-1.workers.dev&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?encryption=none&security=tls&sni=nic3-1.workers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn-2.nic3-1.workers.dev&path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
@@ -115,6 +109,8 @@ vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@cloud.mizban-r.site:1517?security=n
 vless://b936c669-2458-47f7-b9e5-d46552320882@shop.tinshopmarket.ir:25553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
+
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
 vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=%2F140.245.53.45%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
@@ -1039,4 +1035,10 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?security=none&
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com:80?encryption=none&security=none&type=ws&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.19.222.169:2082?encryption=none&security=none&type=ws&host=index.arcane509.workers.dev&path=%2Fgfdn0yadxgfr#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Trick_mobil
+
+vless://8bc48094-c9ce-4fc1-9523-66f017610673@87.107.191.190:80?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40HajmVPN_Config
 
