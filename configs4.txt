@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40vmess_ir
-
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&security=reality&serviceName=xyz&sid=d49d578f280fd83a&sni=ads.x5.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%F0%9F%93%81%20%40v2nodes
-
-vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Tunder_vpn
-
-vless://ad14240e-196b-405b-8628-229295d20d7f@87.107.9.99:3046?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Tunder_vpn
-
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.cn.lopzo.ir:21771?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40Tunder_vpn
-
 vless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e55fd8f9c9a9a0ca#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40bored_vpn
 
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40bored_vpn
@@ -63,6 +53,8 @@ vless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?security=none&type
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAiZGxsLmF2YWFhYWwuaXIiLCAicG9ydCI6ICI4NDQzIiwgImlkIjogIjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogInRscyIsICJhbHBuIjogIiIsICJzbmkiOiAiZGxsLmF2YWFhYWwuaXIiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiY2RnZS5hdmFhYWFsLmlyIn0=
 
 vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl%3Fed%3D2560&security=none&encryption=none&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%22188.244.122.136%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22s1.utuvpn.org%22%2C%22fingerprint%22%3A%22chrome%22%7D%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2Fdl%3Fed%3D2560%22%2C%22host%22%3A%22s1.utuvpn.org%22%2C%22mode%22%3A%22auto%22%7D%7D%7D&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40vmess_ir
+
+vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2nodes
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
 
