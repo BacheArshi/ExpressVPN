@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?encryption=none&security=none&type=ws&host=nice-managements6cv0rmc2t.oneeat.co.&path=%2F%3Fed#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
 vless://8bc48094-c9ce-4fc1-9523-66f017610673@87.107.191.190:80?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
 vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
@@ -47,4 +45,14 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.248.249:2095?encryption=none
 vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@104.18.15.19:80?encryption=none&security=none&type=ws&host=amita-b17wejf6-v2.amita.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://Fluffy_VPN-NZPzrzi5@89.110.119.44:443?security=reality&encryption=none&pbk=pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s2.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://jina@135.220.73.1:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=jina-135220731-direct.yektanet.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?security=tls&type=ws&path=%2Fv2rayroad&host=hotchoclate.graphapp.ir&sni=hotchoclate.graphapp.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
