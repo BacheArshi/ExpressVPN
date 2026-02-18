@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=wiz10.wizard2shop.org&sni=wiz10.wizard2shop.org&fp=360&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://85debf5d-8a38-4c0c-b018-729d072d99f3@y.dampaeiabri.ir:64010?security=tls&type=tcp&sni=x.dampaeiabri.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s4.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.199.30.94:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.198.83.217:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
-
 vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.199.61.65:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@13.115.247.144:15416?security=reality&type=tcp&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -58,7 +40,17 @@ vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?securi
 
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=chess.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
+vless://85b31034-3862-4496-b108-ebb05985ac05@fox20.wizard2shop.com:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=wiz10.wizard2shop.org&sni=wiz10.wizard2shop.org&fp=360&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
 vless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://85debf5d-8a38-4c0c-b018-729d072d99f3@y.dampaeiabri.ir:64010?security=tls&type=tcp&sni=x.dampaeiabri.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s1.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
@@ -91,6 +83,8 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?securi
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F%3Fed%3D512&host=gamepc.sorza.ir&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=chess.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s9.daneshvardost.com:26480?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQHYycmF5X2NvbmZpZ3NfcG9vbCIsICJhZGQiOiAidmMuZmx5LmRldiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAiYWlkIjogIjMyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2Yy5mbHkuZGV2IiwgInBhdGgiOiAiL3ZjIiwgImhvc3QiOiAidmMuZmx5LmRldiJ9
 
@@ -1031,4 +1025,6 @@ vless://1919f8a0-629a-433f-b1ec-28f424a4a2d6@pol1.linkey37.ru:443?security=reali
 vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?security=reality&encryption=none&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=63d80d5199a2bc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40tik7net_vpn
 
 vless://919f16d2-ae91-4589-8bb2-a672890e3537@104.17.53.83:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=z.linglingqi.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=z.linglingqi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B2%20WS-TLS%20%F0%9F%93%81%20%40tik7net_vpn
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40v2ray_cartel
 
