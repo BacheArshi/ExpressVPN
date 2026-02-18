@@ -64,3 +64,5 @@ vless://919f16d2-ae91-4589-8bb2-a672890e3537@104.17.53.83:443?path=%2F%3Fed%3D20
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_cartel
 
+vless://8bc0b47d-6258-4b35-9016-6bc482192ebd@fl12.saas-clouding.ir:2147?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+

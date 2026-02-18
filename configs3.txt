@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
-
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
-
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -217,6 +213,8 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.1
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@rocket.silenceux.ir:2087?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
@@ -1015,4 +1013,6 @@ vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?security=reality&
 vless://919f16d2-ae91-4589-8bb2-a672890e3537@104.17.53.83:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=z.linglingqi.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=z.linglingqi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B2%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40tik7net_vpn
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_cartel
+
+vless://8bc0b47d-6258-4b35-9016-6bc482192ebd@fl12.saas-clouding.ir:2147?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
