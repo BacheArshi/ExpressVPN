@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vmess://eyJhZGQiOiAiODUuMTk0LjI0My4xMTciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiODUuMTk0LjI0My4xMTciLCAiaWQiOiAiMTQyM2ZhNTQtMTI1Ni00Y2JiLTk2NjMtZTBjY2FiNDZmMDJhIiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28iLCAicG9ydCI6ICI1Nzg3OCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2bWVzc19pciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-
-vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.217.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&security=reality&sid=d3d1ed07dfdee544&sni=stats.vk-portal.net&type=tcp#%F0%9F%87%BA%F0%9F%87%BF%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
 vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
 
 vless://ad14240e-196b-405b-8628-229295d20d7f@87.107.9.99:3046?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
@@ -1251,6 +1243,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=%2F%3Fed%3
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@128.140.64.14:990?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3%40wangcai2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3+%40wangcai2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_Extractor
 
