@@ -1324,3 +1324,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.180:2053?encryption=none
 
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?encryption=none&security=none&type=ws&host=shaggy-agreementspufz4utdi.sportland.company.&path=%2F%3Fed#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%F0%9F%93%81%20%40DeamNet_proxy
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.95.33:17465?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.205.52.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
