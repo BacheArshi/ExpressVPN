@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@18.158.73.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.73.0:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.158.73.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
-
 vless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?security=tls&type=ws&path=%2F%3Fed%3D512&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -521,6 +515,8 @@ vless://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?security=reality&
 vless://99bc0db7-c3ae-0452-8007-4952a172081c@193.151.153.213:3300?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
 
 vless://472b07d2-31e4-41ab-ae47-48914d9b7900@termux.net:443?path=%2FNet3rffws&security=tls&encryption=none&host=fi.unoix.io&fp=chrome&type=ws&sni=fi.unoix.io#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
+
+trojan://telegram-id-directvpn@18.158.73.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
 
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.120.30.136:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
 
