@@ -1210,3 +1210,5 @@ vless://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2087?mode=packet-up&pa
 
 vless://f17bb8c9-612e-4624-96fd-ca04cd01bc75@81.12.91.190:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&headerType=none&fp=firefox&spx=%2Fexample&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40prrofile_purple
 
+vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?security=none&type=ws&path=%2F&host=blog.zanborak-shop.ir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
