@@ -170,3 +170,5 @@ vless://dc2c7fb0-6482-4977-945b-ce0e3be94a9d@auths.microsrotfonline.com:443?encr
 
 vless://f4c285f3-45ff-4b87-82a7-28a091208d42@auths.microsrotfonline.com:2097?encryption=none&security=tls&sni=auths.microsrotfonline.com&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
