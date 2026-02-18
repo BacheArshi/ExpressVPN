@@ -4,5 +4,9 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?securi
 
 vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:2053?security=tls&type=ws&path=%2F%3Fed%3D2560&host=chess.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
 vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?security=reality&encryption=none&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&fp=chrome&type=grpc&sni=ya.ru&sid=7dcd0c337708#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
