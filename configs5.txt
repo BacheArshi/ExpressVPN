@@ -8,6 +8,8 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&securit
 
 vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?path=%2F&security=none&encryption=none&host=blog.zanborak-shop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&insecure=0&host=ir1.airpanel.top&type=ws&allowInsecure=0&sni=ir1.airpanel.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
 vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@46.224.116.14:2002?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
 
 vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@47.91.94.112:10040?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40EmKavpn
