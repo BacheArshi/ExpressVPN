@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://67e02f68-59d0-4f67-9a7e-27534b9f5284@85.234.69.192:2053?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG3
-
 vless://67e02f68-59d0-4f67-9a7e-27534b9f5284@94.101.176.172:2053?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG3
 
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
@@ -1365,4 +1363,6 @@ vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.192.3.23:20096?security=reality&
 vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?security=tls&type=ws&path=%2FR8I9Yqu0DxpQB2NKCxLA&host=data-tm189.netsnap.ir&alpn=h2%2Chttp%2F1.1&sni=data-tm189.netsnap.ir&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ip.sb:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sany.tara132.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sany.tara132.workers.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayngSeven
+
+vmess://eyJhZGQiOiAiOTIuMjQ2Ljg3LjE3MCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJjYWY5MjFjNy1hYzYzLTQwYmMtZmFhMS1jZGEwOTdmZDdlNDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxODM1NSIsICJwcyI6ICJcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEgVENQLU5vbmUgXHVkODNkXHVkY2MxIEB2Mm5vZGVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
