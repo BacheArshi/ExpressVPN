@@ -1026,3 +1026,11 @@ vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=
 
 vless://7c3626e9-8df6-4325-ba04-fffb23fa4d32@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
 
+vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
+vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=/&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%F0%9F%93%81%20%40v2nodes
+
+vless://7f34ebdd-78a4-45c2-a081-bc1234505b02@ipwit1.fastspeedx4.info:443?mode=auto&path=%2Fed%3D3072&security=tls&encryption=none&insecure=0&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
+
+vless://7f34ebdd-78a4-45c2-a081-bc1234505b02@ipwit1.fastspeedx4.info:443?mode=auto&path=%2Fed%3D3072&security=tls&encryption=none&insecure=0&host=Maryshuponlinr.global.ssl.fastly.net&type=xhttp&…#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
+
