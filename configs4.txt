@@ -922,3 +922,5 @@ vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed&se
 
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
 
+vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@plesk.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
+
