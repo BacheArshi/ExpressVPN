@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
-
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -1015,4 +1013,16 @@ vless://919f16d2-ae91-4589-8bb2-a672890e3537@104.17.53.83:443?path=%2F%3Fed%3D20
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_cartel
 
 vless://8bc0b47d-6258-4b35-9016-6bc482192ebd@fl12.saas-clouding.ir:2147?security=none&type=tcp&headerType=http&path=%2Finfo&host=p30afzar.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
+
+trojan://telegram-id-directvpn@63.183.53.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.183.53.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
+vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?security=reality&encryption=none&pbk=pMAxMd8b9VTp8Yp4v18z98zJ%D8%A76frzxPdK0DvZT8CMF2k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9d38c6241e8c654a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://7c3626e9-8df6-4325-ba04-fffb23fa4d32@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
