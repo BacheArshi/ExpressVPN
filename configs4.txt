@@ -1354,3 +1354,9 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.198.204.35:443?encryption=none&s
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyBcdWQ4M2RcdWRjYzEgQHYybm9kZXMiLCAiYWRkIjogInhnMWExLndhaW1hb2hvdHMuY29tIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIzNzRiZjAxYi0xN2NmLTRlMjYtYTdlOC02ZDExMTBlMDQ5NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgImhvc3QiOiAieGcxYTEud2FpbWFvaG90cy5jb20iLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
+vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&fp=chrome&insecure=1&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=%2Fws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://629daade-db49-4398-89a4-53a5f2bbd8c6@45.84.157.54:5051?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
+vless://629daade-db49-4398-89a4-53a5f2bbd8c6@45.84.157.14:9091?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
