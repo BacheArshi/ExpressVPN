@@ -30,3 +30,15 @@ vless://896c2efd-252d-4837-b3b7-349faa02956d@199.232.193.10:80?path=%2F%3FTELEGR
 
 vless://bdc39e5c-7605-4060-bebe-906801c5479b@ip3.iranvatanam.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=test2.iranvatanam.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://ab2c048f-6566-4437-adb9-47a4c239edc2@fan.piroowat.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@62.60.185.163:6877?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
