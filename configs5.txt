@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?type=tcp&security=reality&sni=osxapps.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&sid=8894620bd4b91f71#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
 
 vless://df339397-a631-4e68-a23f-05fa5d614243@5.129.232.153:443?security=reality&encryption=none&pbk=rUzCh2A10bkE0EH89sNpkvlW1mxVYJ89yjWHQxejomg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=8ec225570faa1967#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
@@ -39,4 +37,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?security=tls&al
 vless://b0aa3785-0f9a-4dd0-a1e4-13d995fb3089@8331cbbbda5243f7.first.sapienza-mahan.ir:443?security=tls&type=ws&path=%2Fopt%2FW122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88%3Fed%3D2560&host=ali-gr.sdcards1.ir&alpn=h2%2Chttp%2F1.1&sni=ali-gr.sdcards1.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=spb.roblugo.su&sid=bbfb4f7a53e22dd3#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray1_ng
+
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&sni=spb.scroogethebest.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
