@@ -978,3 +978,29 @@ vless://cbc5b8c8-69a3-4c09-bd8a-6b19592877d6@www.speedtest.net:443?mode=stream-u
 
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40prrofile_purple
 
+vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.196.134:8443?security=reality&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40mtmvpn
+
+vless://392ca09f-3285-4266-9544-14195f0227fa@FASTLY1.FASTSPEEDS.IR:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=5SvNlet-iT-haPpEn-KhaFeSho-Sd.gLoBal.Ssl.FaStLy.nEt.&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40mtmvpn
+
+vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=%2F&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40mtmvpn
+
+vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
+
+vless://ba2e4ada-6ebe-43cc-bfef-682e3babc5a8@hc1.site.asan-ps.ir:1067?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
+
+vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-md125.netsnap.ir&fp=chrome&type=ws&sni=data-md125.netsnap.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
+
+vless://06d5b138-623e-4c07-bb01-82c5dc4cdfe1@you2.configyous.site:2002?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
+
+vless://a26bbed7-a286-4840-84bc-dc102c526777@151.101.192.223:80?mode=auto&path=category%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40mtmvpn
+
+vless://ba2e4ada-6ebe-43cc-bfef-682e3babc5a8@h2.site.asan-ps.ir:1024?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40mtmvpn
+
+trojan://telegram-id-directvpn@13.36.129.164:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.129.164:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
+vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@you2.configyous.site:2002?security=none&encryption=none&host=skyroom.online%2C+gharar.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayng_Fast
+
