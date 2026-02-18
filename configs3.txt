@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@3.126.3.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.3.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.126.3.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
 vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%F0%9F%87%B5%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 trojan://telegram-id-directvpn@18.158.73.0:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
@@ -379,6 +373,8 @@ vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:1717?security=none&
 vless://1ca14a65-1407-4190-aed1-975ef07c343d@f1e059d3f90f92c7.first.sapienza-mahan.ir:443?security=tls&type=ws&path=%2Fopt%2FW122DQP56XxXklMBRTXILPXVN32c011378932HPqc12Wq0Mlks0QoPpLlIisAB88%3Fed%3D2560&host=ali-gr.sdcards1.ir&alpn=h2%2Chttp%2F1.1&sni=ali-gr.sdcards1.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?encryption=none&security=reality&sni=pl-mirror.api.akenai.click&fp=chrome&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.3.58:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://0181af10-85b6-42bd-9d84-924f80632381@193.169.239.229:3034?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
 
@@ -1295,4 +1291,18 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s10.daneshvardost.com:26480?securit
 vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.199.30.94:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.198.83.217:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.199.61.65:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@13.115.247.144:15416?security=reality&type=tcp&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@43.199.229.124:15416?security=reality&type=tcp&sni=www.lamer.com.hk&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@13.212.236.8:15416?security=reality&type=tcp&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@54.168.3.107:15416?security=reality&type=tcp&sni=www.apple.com.cn&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@54.180.239.170:15416?security=reality&type=tcp&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://399a4aac-e5ed-44b6-ac00-4f0d02f72537@3.34.255.72:15416?security=reality&type=tcp&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&sid=bd997a55&pbk=H0oYX4GJe45zWXvrPdMzSKhmmrd2aqKFEk1Z2Dy9SBM&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
