@@ -1,31 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://af60c1bb-763d-44c1-b015-bf314f41849d@89.149.242.21:1380?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=tcp&security=none&encryption=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://af60c1bb-763d-44c1-b015-bf314f41849d@109.61.18.198:1382?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=ws&security=none&host=&path=%2F&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=tcp&security=reality&sni=cdnjs.com&fp=edge&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&sid=039ac6674967d725&flow=xtls-rprx-vision&allowInsecure=1&encryption=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-trojan://byDSOLVPDd@47.245.158.76:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&sni=play.google.com&fp=chrome&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&sid=848ecf47e1b2&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?encryption=none&security=tls&sni=DE-23.85858569.XYZ&alpn=h3%2Ch2&fp=chrome&type=xhttp&path=%2F&mode=stream-up#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://d94c383d-cb22-4182-a0c0-ec2bc047996e@45.12.144.89:443?security=reality&encryption=none&pbk=KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=039ac6674967d725#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?encryption=none&security=none&type=ws&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&path=%2F%3Fed#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://0f9aaacb-b87d-4519-babe-3586791e4aa5@f1.hamrahconf.ir:2086?encryption=none&security=none&type=httpupgrade&host=%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0.hamrahconfig.ir&path=%2F#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://b3095d70-5278-4253-9da0-7859b6d12afb@ir-vip.whaletm2.site:1517?encryption=none&security=none&type=tcp&headerType=http&host=testspeed-foreign.tci.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://a992c7a6-832b-4243-a294-d34783d0294c@chatgpt.com:443?encryption=none&security=tls&sni=hotchoclate.graphapp.ir&type=ws&host=hotchoclate.graphapp.ir&path=%2Fv2rayroad#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
-vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052?encryption=none&security=none&type=ws&host=exemplary-milkytsxqiqyso.sportland.company.&path=%2F%3Fed#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
-
 vless://f3bf8732-4040-4132-b68a-2c137b75bbf3@v315470.hosted-by-vdsina.com:25998?security=reality&encryption=none&pbk=Da5do6b68bgCVmWE66sKmhtN-lATbk-wEEww9jkweHM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=0ae9b755f28f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FarazV2ray
@@ -65,4 +39,12 @@ trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@141.193.213.107:443?security=tls&s
 trojan://519d06a5-f3a5-41bd-8f95-519ab65e20ed@23.227.38.72:443?security=tls&sni=yss2o9nzv7hsgw2z.sggogo202510.top&insecure=0&allowInsecure=0&type=ws&host=yss2o9nzv7hsgw2z.sggogo202510.top&path=%2Fimages#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
 vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&security=reality&sid=41ac&sni=stats.vk-portal.net&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+trojan://telegram-id-directvpn@3.124.221.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.221.203:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.124.221.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
+vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=spb.roblugo.su&sid=bbfb4f7a53e22dd3#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
