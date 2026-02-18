@@ -1108,3 +1108,7 @@ vmess://eyJhZGQiOiAiODEuMTIuMzUuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAi
 
 vless://2d9c413b-bb7f-4905-908f-3a7cb9436784@31.14.115.134:55937?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
 
+vless://2143c858-cdf6-4971-a240-98dedc815723@85.17.145.169:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
