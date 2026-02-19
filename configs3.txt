@@ -828,3 +828,13 @@ vmess://eyJhZGQiOiAiODIuMTUyLjk4Ljg4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 
 vmess://eyJhZGQiOiAiODIuMTUyLjk4LjE5OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDUyY2ViNjctNzljNy00NWRhLWJhNGItNDJlNjU5YmI4MWZhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDg1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBtZWxpcHJveHl5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 
+vless://8ba642ab-1a78-4d0b-a3ca-dc88793fda0d@poli.appleseraj.ir:2096?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=nurenburs.appleseraj.ir&path=%2F&security=tls&sni=nurenburs.appleseraj.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40iP_CF
+
+vless://8ba642ab-1a78-4d0b-a3ca-dc88793fda0d@belnn.appleseraj.ir:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=chz.mastermarly.ir&path=%2F&security=tls&sni=chz.mastermarly.ir&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40iP_CF
+
+trojan://telegram-id-directvpn@3.120.252.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.85.55:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@63.183.85.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
