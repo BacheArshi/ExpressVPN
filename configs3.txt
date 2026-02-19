@@ -1220,3 +1220,17 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?encryption=none&secur
 
 vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?encryption=none&security=none&type=xhttp&host=barcodevpn.global.ssl.fastly.net&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@user.netfinix.ir:8081?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@de7.netfinix.ir:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@fr3.netfinix.ir:85?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@nl2.netfinix.ir:8880?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@dl3.irannetfinix.shop:2083?path=%2F&security=tls&encryption=none&host=finland.irannetfinix.shop&type=ws&sni=finland.irannetfinix.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@dl5.irannetfinix.shop:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=france.irannetfinix.shop&fp=chrome&type=ws&sni=france.irannetfinix.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://5e8a912b-8e3c-b0f5-1e5d-7b507419f037@data.netfinix.ir:8083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
