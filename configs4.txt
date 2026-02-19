@@ -798,3 +798,5 @@ vless://347d3425-11e7-4fb8-96e7-0df08fdb9b8f@18.177.142.114:15416?security=reali
 
 vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
 
+vless://7a4b2b8c-dbc6-42d9-b4eb-ebb4e82717a3@141.11.250.201:16604?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%F0%9F%93%81%20%40v2nodes
+
