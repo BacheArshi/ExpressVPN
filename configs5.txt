@@ -8,3 +8,5 @@ vless://ac754349-a3d5-4eca-990e-1119c0cff4d5@57.128.191.90:8443?security=reality
 
 vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=reality&encryption=none&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=8894620bd4b91f71#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
+
