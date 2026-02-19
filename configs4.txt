@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2nodes
-
 trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFdTLVRMUyBcdWQ4M2RcdWRjYzEgQHYybm9kZXMiLCAiYWRkIjogInhnMWE1LndhaW1hb2hvdHMuY29tIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIzNzRiZjAxYi0xN2NmLTRlMjYtYTdlOC02ZDExMTBlMDQ5NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgImhvc3QiOiAieGcxYTUud2FpbWFvaG90cy5jb20iLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
@@ -345,6 +343,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.138.227.121:8443?encryption=non
 vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-bosniaandherzegovina1.09vpn.com:80?security=none&encryption=none&type=ws&path=/vless/#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40v2ray_Extractor
 
 vless://Fluffy_VPN-NZPzrzi5@89.110.119.44:443?security=reality&encryption=none&pbk=pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_Extractor
+
+vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
 
 vless://ce1ffe62-9562-4eb9-bcae-774b03f2776d@ox3.liiliil.ir:20128?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray_Extractor
 
@@ -1089,4 +1089,8 @@ vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=none&encr
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.70.224.129:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anty_filter
 
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.75.212.174:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anty_filter
+
+vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40bored_vpn
+
+vless://22b97eda-d158-4524-8b43-24825e413c03@new.configyous.site:11022?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2raba
 

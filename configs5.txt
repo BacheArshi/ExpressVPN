@@ -40,3 +40,7 @@ vless://c21ba381-5808-4098-b94d-86c468a683d9@3.70.224.129:443?security=none&encr
 
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.75.212.174:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
+vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
+
+vless://22b97eda-d158-4524-8b43-24825e413c03@new.configyous.site:11022?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
+
