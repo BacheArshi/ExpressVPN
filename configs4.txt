@@ -1322,3 +1322,7 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?mode=auto&path=
 
 vless://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@213.252.246.6:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=msn.com#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40ConfigV2rayNG
 
+vless://40afa553-1745-4f62-a380-4163c7bb4870@restless-dew-894b.amirhost4.workers.dev:443?encryption=none&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&host=restless-dew-894b.amirhost4.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://40afa553-1745-4f62-a380-4163c7bb4870@188.114.96.0:443?encryption=none&security=tls&sni=restless-dew-894b.amirhost4.workers.dev&fp=chrome&type=ws&host=restless-dew-894b.amirhost4.workers.dev&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
