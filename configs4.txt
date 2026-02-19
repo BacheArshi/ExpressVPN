@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40v2raba
-
-vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anty_filter
-
-vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40anty_filter
-
-vmess://eyJhZGQiOiAiZGxsLmF2YWFhYWwuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2RnZS5hdmFhYWFsLmlyIiwgImlkIjogIjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgXHVkODNkXHVkY2MxIEBhbnR5X2ZpbHRlciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-
 vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40vmesc
 
 trojan://telegram-id-directvpn@3.124.221.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%F0%9F%93%81%20%40v2nodes
@@ -289,6 +281,12 @@ vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?path=%2F%3FTELEGRAM
 vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ipv1.shakhle.ir:443?path=%2F%3Fed%23TELEGRAM-V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=MediaOP-name.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=MediaOP-name.global.ssl.fastly.net.#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.110.121:443?note=---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---Telegram---@V2rayBaaz---&type=ws&security=tls&sni=dark-dawn-3aef.rover-4.workers.dev&host=dark-dawn-3aef.rover-4.workers.dev&path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&alpn=http%2F1.1&fp=chrome&allowInsecure=0&encryption=none#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40V2rayBaaz
+
+vmess://eyJhZGQiOiAiZGxsLmF2YWFhYWwuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiY2RnZS5hdmFhYWFsLmlyIiwgImlkIjogIjcyNWY1ZmNkLTcyMWQtNDBhMC1iYTZiLTNjNzQ3NzYzMzExMCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4NDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgXHVkODNkXHVkY2MxIEBWMnJheUJhYXoiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=%2F&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40FarazV2ray
 
