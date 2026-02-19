@@ -1234,3 +1234,21 @@ vless://a5f55350-22fc…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2rayNG_SPD
 
 vmess://eyJhZGQiOiAieGcxYTYud2FpbWFvaG90cy5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgXHVkODNkXHVkY2MxIEB2Mm5vZGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzNzRiZjAxYi0xN2NmLTRlMjYtYTdlOC02ZDExMTBlMDQ5NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAieGcxYTYud2FpbWFvaG90cy5jb20iLCAicGF0aCI6ICIvYXBpL3YxL2dyYXBocWwiLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
+vless://c72cb7cb-136f-4958-bd18-bbd476a92ede@31.56.205.56:18771?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40iP_CF
+
+vless://0a542d0e-4d05-418f-97c2-94d0455005da@31.56.205.56:20553?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40iP_CF
+
+vless://abffeed5-2e99-47cd-96c1-bcfb4a21e648@31.56.205.56:27463?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40iP_CF
+
+vless://3af5f9c4-9128-41f2-bc56-a927788d12f8@31.56.205.56:57124?path=%2Fdownload&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40iP_CF
+
+vless://af048307-527c-4178-8d56-271ac082870b@31.56.205.56:32480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40iP_CF
+
+vless://cbb94bf1-02cc-46ba-bc01-061b5f38e0ac@31.56.205.56:13612?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40iP_CF
+
+trojan://telegram-id-directvpn@13.39.26.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.26.127:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%F0%9F%93%81%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.26.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%F0%9F%93%81%20%40PrivateVPNs
+
