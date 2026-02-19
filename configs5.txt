@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.72.18.221:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://e7719b67-f0da-441c-bbbf-c69f20894053@185.26.33.216:8011?encryption=none&security=reality&sni=www.tgju.org&fp=firefox&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&sid=5ca62fd4cea30bdf&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?encryption=none&security=none&type=ws&host=anten.ir&path=%2Fv1%2Fstream%2Ftrk#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://65ea1867-ee13-41ad-819e-098553a3db2e@sr2.qirvo.fun:2082?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
-vless://97cf5e5d-def7-408f-baeb-5e4d112d4048@findland.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=findland.mobileemdad.top#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
-
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@91.107.169.16:1001?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=reata.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://7f1dfda6-ad9b-4396-8f41-3145031f7006@v2test.bing-net.com:9820?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
@@ -105,4 +91,6 @@ vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=&encr
 vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encryption=none&host=yahoo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encryption=none&host=yahoo.com%20%20%20-%20%40V2RTOX&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
