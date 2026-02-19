@@ -778,3 +778,4 @@
 1771464629.04406|ConfigV2rayNG|vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=%2F&security=&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttp#ConfigV2RayNG
 1771464629.04406|ConfigV2rayNG|vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@37.202.244.227:47071?path=%2F%3D%40mhsenivxx&security=&encryption=none&host=shatel5.imstron.org&type=ws#ConfigV2RayNG
 1771464921.230294|v2nodes|vless://cbf73250-e228-4fc8-95a1-3804176354be@46.224.79.45:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪[openproxylist.com] vless-DE
+1771466123.49193|v2nodes|trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
