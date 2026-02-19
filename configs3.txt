@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@63.183.53.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.53.84:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.183.53.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
-vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?security=reality&encryption=none&pbk=pMAxMd8b9VTp8Yp4v18z98zJ%D8%A76frzxPdK0DvZT8CMF2k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9d38c6241e8c654a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://7c3626e9-8df6-4325-ba04-fffb23fa4d32@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
 vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#%F0%9F%87%B2%F0%9F%87%A9%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=/&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
@@ -320,6 +308,8 @@ vless://b7c4e45e-ebf3-44b6-8cff-95e87a150adf@subzero.sarab.site:56003?security=r
 
 vless://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
+vless://7c3626e9-8df6-4325-ba04-fffb23fa4d32@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40kanfig_kade
+
 vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl%3Fed%3D2560&security=none&encryption=none&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40kanfig_kade
 
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.192.3.23:20096?security=reality&encryption=none&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=50a3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40kanfig_kade
@@ -543,6 +533,8 @@ vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=realit
 vless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%2F%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=moodaontw.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
 vless://5ce4bcc9-b932-417f-9c84-0a251d29349b@shatel5-kosemamaneabrearvan.imstron.org:47071?path=%2F%3D%40mhsenivxx&security=none&encryption=none&host=shatel5.imstron.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
+trojan://telegram-id-privatevpns@63.183.53.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://3346a390-5b6f-49f2-94aa-46d2ad68ccc0@cx1.prodatabase.ir:1500?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
 
