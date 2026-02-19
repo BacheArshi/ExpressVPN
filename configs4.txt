@@ -818,3 +818,11 @@ vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&enc
 
 vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40daily_configs
 
+vless://160cc7e9-1e02-42e3-12fd-b961fbb1c73f@record.persianmizban.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=lgoin.persianmizban.com&fp=firefox&type=ws&sni=lgoin.persianmizban.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://97cf5e5d-def7-408f-baeb-5e4d112d4048@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40ConfigX2ray
+
+vless://7f1dfda6-ad9b-4396-8f41-3145031f7006@v2test.bing-net.com:9820?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
+

@@ -531,3 +531,10 @@
 1771516835.939729|daily_configs|vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40Daily_Configs
 1771516835.939729|daily_configs|vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40Daily_Configs
 1771516835.939729|daily_configs|vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#Channel%20%3A%20%40Daily_Configs
+1771517727.331695|ConfigX2ray|vless://160cc7e9-1e02-42e3-12fd-b961fbb1c73f@record.persianmizban.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=lgoin.persianmizban.com&fp=firefox&type=ws&sni=lgoin.persianmizban.com#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://97cf5e5d-def7-408f-baeb-5e4d112d4048@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&encryption=none&host=yahoo.com&headerType=http&type=tcp#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://7f1dfda6-ad9b-4396-8f41-3145031f7006@v2test.bing-net.com:9820?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#https://t.me/ConfigX2ray
+1771517727.331695|ConfigX2ray|vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@18.156.77.199:30449?security=none&encryption=none&headerType=none&type=tcp#https://t.me/ConfigX2ray
