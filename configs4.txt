@@ -1188,3 +1188,19 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.1
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=Pulavpn11.afrcloud22.mm…#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
 
+vmess://eyJhZGQiOiAiOTQuMTMwLjEzMi4yMjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiOTQuMTMwLjEzMi4yMjMiLCAiaWQiOiAiMGVjYzkzZjUtZjMwZC00N2EyLWE3NjMtM2VmZWIyYTAwY2M4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInhodHRwIiwgInBhdGgiOiAiLzRMVW5ncXV3Zjh2RWRYSHhKTE4yZ3BFQ1ExeiIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBYSFRUUC1Ob25lIFx1ZDgzZFx1ZGNjMSBATkVUTWVsbGlBbnRpIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAidiI6ICIyIn0=
+
+vless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.66.32.122:19285?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
+
+vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@18.156.77.199:30449?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
+
+vless://70e384d1-8f87-42c2-9a9e-ad75589ab54b@18.153.81.89:443?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
+
+vless://403b2b80-703b-4498-eb92-96be57848d39@18.159.37.37:50256?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
+
+vless://a4d89b95-0e8a-454a-ab13-f89d22e045f8@18.159.51.221:46860?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40DailyV2RY
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%F0%9F%93%81%20%40V2rayngSeven
+
+vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443?security=reality&encryption=none&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rapidpars.com&sid=661ee8b0696b45#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2rayngSeven
+
