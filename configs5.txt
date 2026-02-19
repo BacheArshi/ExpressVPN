@@ -66,3 +66,5 @@ vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&
 
 vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@158.62.198.132:443?security=reality&encryption=none&pbk=BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.hp.com&sid=63d80d5199a2bc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
+vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+

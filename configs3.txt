@@ -1,31 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@52.47.60.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.60.26:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@52.47.60.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
-vless://cbf73250-e228-4fc8-95a1-3804176354be@fast1.mrsf.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Osipanel.global.ssl.fastly.net&path=%2Fdl%3Fed%3D2560&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://cbf73250-e228-4fc8-95a1-3804176354be@ip2.gptban.com:80?encryption=none&security=none&type=xhttp&host=Fastsssspeedmar.global.ssl.fastly.net&path=%2Fdl%3Fed%3D2560&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://cbf73250-e228-4fc8-95a1-3804176354be@140.248.147.82:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Fastsssspeedmar.global.ssl.fastly.net&path=%2Fdl%3Fed%3D2560&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@37.153.171.135:443?encryption=none&security=tls&sni=te46gte2.85858569.xyz&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&host=APP-DE-7.85858569.XYZ&path=%2F&mode=stream-up#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://cbf73250-e228-4fc8-95a1-3804176354be@ip4.gptban.com:80?encryption=none&security=none&type=xhttp&host=AfraPanellosiris.global.ssl.fastly.net&path=%2Fdl%3Fed%3D2560&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?encryption=none&security=none&type=xhttp&host=barcodevpn.global.ssl.fastly.net&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://70e384d1-8f87-42c2-9a9e-ad75589ab54b@18.153.81.89:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://403b2b80-703b-4498-eb92-96be57848d39@18.159.37.37:50256?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://a4d89b95-0e8a-454a-ab13-f89d22e045f8@18.159.51.221:46860?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://cbf73250-e228-4fc8-95a1-3804176354be@ipwit1.fastspeedx4.info:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=Maryshuponlinr.global.ssl.fastly.net&path=%2Fed%3D3072&mode=auto#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
 vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@free-httpcustom-free-httpcustomhfree-httpcustom-free-httpcustom.frre-plus-mobile.ir:443?mode=packet-up&path=%2Fvideo%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&host=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40azadi_config
 
 trojan://telegram-id-directvpn@63.183.70.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
@@ -345,6 +319,8 @@ vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encrypt
 vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encryption=none&host=yahoo.com%20%20%20-%20%40V2RTOX&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+trojan://telegram-id-directvpn@52.47.60.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
@@ -879,4 +855,6 @@ vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=realit
 vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
 vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@158.62.198.132:443?security=reality&encryption=none&pbk=BaTi5Wrua_Oo_CMJ-uQ6UWtDId9z9IhzoOvRe2qvBhQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.hp.com&sid=63d80d5199a2bc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
+
+vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
