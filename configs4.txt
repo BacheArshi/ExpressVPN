@@ -858,3 +858,13 @@ vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@158.62.198.132:443?security=reality
 
 vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigX2ray
 
+vless://2b038d20-a9f7-445e-831d-9e2ed32b41cf@193.24.121.210:5000?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
+
+vless://2b038d20-a9f7-445e-831d-9e2ed32b41cf@37.202.248.145:5000?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
+
+vless://4f6cd285-20a1-4075-8a98-cc7aedfcc4b9@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40meliproxyy
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
+
+vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40meliproxyy
+
