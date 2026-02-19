@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.72.18.221:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
@@ -101,4 +99,10 @@ vmess://eyJhZGQiOiAiOC4yMTcuMTMuNzQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAi
 vmess://eyJhZGQiOiAic2VvdWwwMy56Z2pvay5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAic2VvdWwwMy56Z2pvay5jb20iLCAiaWQiOiAiNzJhMGRhYzQtOTY4OS00YTU3LWIxNjQtNWM2NWJmYTk0NzcyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjcgV1MtVExTIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQEZyZWFrQ29uZmlnIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJzZW91bDAzLnpnam9rLmNvbSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=%2Fdownload&security=none&encryption=none&host=diarasup2.global.ssl.fastly.net&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
+
+vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encryption=none&host=yahoo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=&encryption=none&host=yahoo.com%20%20%20-%20%40V2RTOX&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
