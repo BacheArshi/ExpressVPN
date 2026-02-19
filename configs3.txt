@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.69.227.72:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%8E%96@yamyamproxy#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.77.58:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.156.181.203:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&insecure=1&type=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
@@ -1137,4 +1131,6 @@ vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?encryption=none&secur
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%B0%F0%9F%87%BF%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
