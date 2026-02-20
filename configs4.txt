@@ -916,3 +916,5 @@ vless://9528078a-6ff0-403e-bc87-eb898c774a87@94.140.0.74:2087?path=%2F&security=
 
 vless://91a6fd31-8095-4b81-b9e7-89f31e2868ef@www.speedtest.net:443?path=%2F%3Fed%3D36555336645-8ccc8855-ccckkjs-api1231&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&typ…#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
 
+vless://14818654-7689-453a-9a1f-4c72f89782d5@74.119.192.243:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40v2nodes
+
