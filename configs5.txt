@@ -14,3 +14,13 @@ vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=reality&
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@MNG.MAHOSHID.IR:1110?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@IRT.MAHOSHID.IR:9580?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@TR.PORTFOLIO.MAHOSHID.IR:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@DNS.MAHOSHID.IR:1220?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://5f2f7bd1-3cbf-4c44-a863-a89276337190@DEMO.MAHOSHID.IR:1320?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
