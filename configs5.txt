@@ -34,6 +34,8 @@ vless://cbf73250-e228-4fc8-95a1-3804176354be@FASTLY1.FASTSPEEDS.IR:443?mode=auto
 
 vless://a63480ea-217b-4787-a352-b21f1b11fe1a@plus.herlyito.top:15826?security=none&encryption=none&host=radiojavanhd.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
+vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
 vless://75edc10b-bcf6-436a-936a-b69af87e6a6c@bim.iranheroo.ir:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
@@ -57,4 +59,6 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=%2FR8I9
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://b9dbc1ff…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
 

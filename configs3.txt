@@ -1,24 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?path=%2Fv1%2Fstream%2Ftrk&security=none&encryption=none&host=anten.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://53ca0d0b-a9dd-448f-a0c8-4fcbe95b8745@F1.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C%E5%8A%A0%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0.hamrahconfig.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn----01-zf5fn54ga326efyestii8z9y2c.hamrahconfig.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&encryption=none&host=yahoo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&encryption=none&host=fsn.bestlive.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://5abf49f0-878a-4272-88f3-7f7810ce9dd1@85.133.254.19:9000?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
-
 vless://160cc7e9-1e02-42e3-12fd-b961fbb1c73f@record.persianmizban.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=lgoin.persianmizban.com&fp=firefox&type=ws&sni=lgoin.persianmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@78.157.62.185:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
 vless://97cf5e5d-def7-408f-baeb-5e4d112d4048@findland.mobileemdad.top:42542?security=none&encryption=none&host=findland.mobileemdad.top&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
+
+vless://e90fab38-3b99-4408-9ce1-07c16910f58c@92.114.24.57:8080?security=none&encryption=none&host=yahoo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
 vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
@@ -99,6 +87,8 @@ vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=%
 vless://cbf73250-e228-4fc8-95a1-3804176354be@FASTLY1.FASTSPEEDS.IR:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=Afraosi.global.ssl.fastly.net&type=xhttp&sni=default.ssl.fastly.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
+
+vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
 vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
@@ -1068,6 +1058,8 @@ vless://cbf73250-e228-4fc8-95a1-3804176354be@FASTLY1.FASTSPEEDS.IR:443?mode=auto
 
 vless://a63480ea-217b-4787-a352-b21f1b11fe1a@plus.herlyito.top:15826?security=none&encryption=none&host=radiojavanhd.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
+vless://d0d95162-fb61-4f82-9325-d628490cef3d@46.38.138.221:71?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
 vless://75edc10b-bcf6-436a-936a-b69af87e6a6c@bim.iranheroo.ir:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
@@ -1091,4 +1083,6 @@ vless://3b7ec44b-66d8-4822-b772-f1f50c3fec95@data.cloudvibe.ir:8443?path=%2FR8I9
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://b9dbc1ff…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
 
