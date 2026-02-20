@@ -1050,3 +1050,9 @@ vless://78793680-044c-46d7-8062-8ad3497476f6@91.234.147.68:6665?encryption=none&
 
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.228.69.38:3462?security=tls&sni=45.32.28.232&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40anotherme_night
 
+vless://218f52ea-5c76-4b74-8f49-8fcd15464fbc@v2shop-tr1.bing-net.com:3040?encryption=none&security=none&type=tcp&headerType=http&host=www.varzesh3.com#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anotherme_night
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAYW5vdGhlcm1lX25pZ2h0IiwgImFkZCI6ICIxMDQuMjM0LjEuNzQiLCAicG9ydCI6ICI0NjU3NSIsICJpZCI6ICIzYzI2OTJiNC0wN2RmLTQzMGItODEzYS1mMTkxMjQ1MmRiNmIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJpbnNlY3VyZSI6ICIwIn0=
+
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@chatgpt.com:2052?encryption=none&security=none&type=ws&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40anotherme_night
+
