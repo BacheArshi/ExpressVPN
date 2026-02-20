@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://2b038d20-a9f7-445e-831d-9e2ed32b41cf@193.24.121.210:5000?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://2b038d20-a9f7-445e-831d-9e2ed32b41cf@37.202.248.145:5000?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://4f6cd285-20a1-4075-8a98-cc7aedfcc4b9@135.125.139.219:2055?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=4fc5e35bdb69d36b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104?security=reality&encryption=none&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=9f4ca836ca270ef8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
 vless://7afb5c1f-ca54-4f4a-ae77-a46cdad4f45e@195.201.222.173:51781?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 
 vless://133d44b7-170e-41cd-a0cc-0b35470823bb@195.201.222.173:32916?security=reality&encryption=none&pbk=Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU&headerType=none&fp=firefox&spx=%2Fl4eoiJhHiQKXnd3&type=tcp&sni=tgju.org&sid=b1f147f38e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
@@ -744,6 +732,8 @@ vless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443?security=tls&encry
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
 
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=4fc5e35bdb69d36b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
+
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.115:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2HUBIR
@@ -1075,4 +1065,10 @@ trojan://telegram-id-directvpn@15.188.233.114:22223?security=tls&alpn=http/1.1&h
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.233.114:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@15.188.233.114:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
+
+vless://91a38c0b-fb8b-4974-9cd0-b04b7aa7a399@ab4.gafe-lorbad.ir:26480?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
+
+vless://f8e614ee-5aa1-40f3-a348-9fe194299db0@5.202.5.67:80?security=none&encryption=none&host=mci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40azadiiivpn
+
+vmess://eyJhZGQiOiAiczEuZm9yd2FyZHNjZG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyMjllOGExMS03ODRmLTQxYTItYjVlNi01M2I3MmI4MWI0OTUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDg3IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBhemFkaWlpdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
