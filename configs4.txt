@@ -818,3 +818,5 @@ vless://62df51fd-eb86-461e-bec1-240af8c9b7bd@104.18.32.47:443?mode=auto&path=%2F
 
 vless://62df51fd-eb86-461e-bec1-240af8c9b7bd@104.18.32.47:443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=1&host=swedena.cedriklorenz.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=swedena.cedriklorenz.ir#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40vpnplusee_free
 
+vless://1e5f6b64-c14c-4aa9-ae83-fbccb0e33d92@178.21.161.166:8443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40NETMelliAnti
+
