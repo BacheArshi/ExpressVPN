@@ -854,3 +854,7 @@ vless://521a9ee4-b6a8-4097-a834-f09dd675677a@78.157.59.162:14350?path=%2FALMAS5&
 
 vless://a0019576…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
 
+vless://4e580a1a-3ff5-456d-a1d6-b1640bea4e9e@51.254.142.162:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://182a355e-8ffc-4735-84b6-afbd83c98ff2@84.23.52.70:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
+
