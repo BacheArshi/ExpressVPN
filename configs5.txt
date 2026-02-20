@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://662d440c-7567-41ec-b220-c7d69cb2f67c@193.151.151.44:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
-
-vless://56e605ca-3192-4cb4-9465-cb67245e17fd@77.239.108.97:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
-
 vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?encryption=none&security=tls&sni=zh.hollowspot.ir&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=zh.hollowspot.ir&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
 
 vless://02a8c937-e24a-435c-8ea9-5a11c72fff99@45.130.125.96:8443?encryption=none&security=tls&sni=ir.hollowspot.ir&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ir.hollowspot.ir&path=%2Fapi%2Fv1%2Fproduct_id%2F99e98b49-1a2c-40a8-81aa-fd825465d766#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
@@ -101,4 +97,8 @@ trojan://telegram-id-privatevpns@35.181.213.186:22222?security=tls&alpn=http/1.1
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40manVPN
 
 vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40manVPN
+
+vless://fc05aa7b-cdfa-4209-89c7-a19dc7a9bbeb@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
+vless://d3d9dcba-4b89-4d72-aa91-a4e05aa4940c@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
