@@ -1220,3 +1220,11 @@ vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?flow=xtls-rprx-visi
 
 vless://2248455c-b958-49fb-a7b2-6484c9774bd3@iranlir.speedtrade.top:36778?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranlir.speedtrade.top#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40vpnplusee_free
 
+vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=france.mastermarly.ir&type=ws&allowInsecure=1&sni=france.mastermarly.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
+
+vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=duseldorf.appleseraj.ir&type=ws&allowInsecure=0&sni=duseldorf.appleseraj.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
+
+vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=holand.appleseraj.ir&type=ws&allowInsecure=0&sni=holand.appleseraj.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
+
+vless://a4d36ed2-6256-4550-923a-fa058933aeb1@poli.appleseraj.ir:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=verginia.appleseraj.ir&type=ws&allowInsecure=0&sni=verginia.appleseraj.ir#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40prrofile_purple
+
