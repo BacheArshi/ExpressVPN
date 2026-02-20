@@ -1062,3 +1062,7 @@ vless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104?security=reality&
 
 vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
 
+vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443security=reality&encryption=none&pbk=SbVKOEMjK0sllbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safar&type=tcp&flow=xtls-rprx-vision&ni=dropbox.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://e2bfdf26-de3c-486a-98bf-48cfb5902a1b@193.151.151.44:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
