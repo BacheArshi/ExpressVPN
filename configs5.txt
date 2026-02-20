@@ -108,3 +108,5 @@ vless://5bda6340-7fe2-4234-8c03-d009501333fb@F2.HaMrAhCoNf.Ir:8443?path=%2F&secu
 
 vless://5bda6340-7fe2-4234-8c03-d009501333fb@F2.HaMrAhCoNf.Ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=p3-sync-06.hamrahconfig.ir&fp=chrome&type=ws&allowInsecure=0&sni=sp.hamrahconfig.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
+vless://cbb94bf1-02cc-46ba-bc01-061b5f38e0ac@31.56.205.56:13612?&type=ws&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
