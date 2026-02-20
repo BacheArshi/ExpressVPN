@@ -34,3 +34,21 @@ vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRmMTAg
 
 vless://bdc1336f-e719-4aa6-8167-4aa784b0fc04@vip-81.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Spotify_Porteghali
 
+vless://a397c3b2-315f-449c-9bfe-b207f529db7f@lit.litiran.ir:2083?security=tls&encryption=none&insecure=0&host=image-swis.kafeistanbul.shop&type=ws&allowInsecure=0&sni=image-swis.kafeistanbul.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://a397c3b2-315f-449c-9bfe-b207f529db7f@chatgpt.com:2083?security=tls&encryption=none&insecure=0&host=rusiie.kafeistanbul.shop&type=ws&allowInsecure=0&sni=rusiie.kafeistanbul.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://a397c3b2-315f-449c-9bfe-b207f529db7f@lit.litiran.ir:2083?security=tls&encryption=none&insecure=0&host=videogame-al.kafeistanbul.shop&type=ws&allowInsecure=0&sni=videogame-al.kafeistanbul.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
+
+vless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4&sid=f6ae0c7beb&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
+
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?type=grpc&mode=gun&serviceName=&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
+
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=fran.scroogethebest.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
+
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=poland.scroogethebest.com&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40BrilliantGift
+
+vless://2248455c-b958-49fb-a7b2-6484c9774bd3@iranlir.speedtrade.top:36778?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=iranlir.speedtrade.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
