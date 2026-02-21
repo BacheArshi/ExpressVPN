@@ -68,3 +68,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.237.175:443?security=tls&sn
 
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.75.222.155:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
+vless://7e015ae5-8173-4fbd-a9a1-a7d5ffa3826f@18.158.72.79:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
