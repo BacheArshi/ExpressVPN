@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-trojan://telegram-id-directvpn@52.29.75.76:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.75.76:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@52.29.75.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40PrivateVPNs
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9jb25maWdzX3Bvb2wiLCAiYWRkIjogInZjLmZseS5kZXYiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMzUzNzkyMTktNjUzNS00ZjJlLWE0ZmUtM2U0NGY2MWUwZWVlIiwgImFpZCI6ICIzMiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAidmMuZmx5LmRldiIsICJwYXRoIjogIi92YyIsICJob3N0IjogInZjLmZseS5kZXYifQ==
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.116.46.188:443?security=reality&type=tcp&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&sid=f5&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&encryption=none#%F0%9F%87%B0%F0%9F%87%B7%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -31,4 +25,6 @@ vless://c2d73a71-923a-4a53-bc4b-dfb47db20527@80.211.141.177:443?security=reality
 vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=reality&encryption=none&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=8894620bd4b91f71#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?encryption=none&security=tls&sni=splash.VaRtAlReX.iNfO&insecure=0&allowInsecure=0&type=grpc#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.206:26480?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
