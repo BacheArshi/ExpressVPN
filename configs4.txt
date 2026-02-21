@@ -1402,3 +1402,11 @@ vless://53b2c46d-bc0a-4696-9d87-6bfa77a60d1f@51.250.83.255:443?security=reality&
 
 vless://8b80c5d9-24c7-47bc-fca7-7fe80efc93ab@18.192.51.104:57160?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vpnplusee_free
 
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&encryption=none&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&sni=all-fm2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40confegraigan
+
+vless://f10380a8-9a05-9a6d-1efd-ceda3e10c229@1.1.1.1:1?security=reality&encryption=none&pbk=DfvxgjWaWvaYD_sEo2j5O9N3aw21wDMhwFGGwIIQ5X8&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com&sid=70d22330#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40confegraigan
+
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%F0%9F%93%81%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40manVPN
+
