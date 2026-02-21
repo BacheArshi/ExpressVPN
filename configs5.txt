@@ -46,3 +46,5 @@ vless://dc69f0b7-529f-496c-adfb-ba107dab981c@45.159.148.130:8585?type=ws&encrypt
 
 vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
 
+vless://fd2a640b-efc5-478c-ad06-bba48de7e256@ss.mrrnasr.ir:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=rxiptamiz.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=rxiptamiz.global.ssl.fastly.net#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2RAYROZ
+
