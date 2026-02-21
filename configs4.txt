@@ -1498,3 +1498,5 @@ trojan://v8ttjlup-kawt-v898-igri-f02bcpwfqjm9@127.0.0.1:2080?security=tls&type=t
 
 trojan://ucodtjga-vas0-2i5m-bus0-117v4nhdwfj1@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%F0%9F%93%81%20%40Trick_mobil
 
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@s3.daneshvardost.com:26480?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
