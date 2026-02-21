@@ -130,3 +130,21 @@ vless://af07a5ea-e637-41bd-f88f-bc4493b645a2@18.197.25.140:32016?security=none&e
 
 vless://61d261e1-039a-4114-b21a-10cc8f1976a9@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
 
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.120.192.139:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cd11.thisiswe.uno&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.68.229.22:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://510d1634-6118-4639-8ba3-66d8d838b74d@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.199.99.98:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://1aa71bc6-f045-48c1-bbbb-c0c1293620d5@37.152.175.141:7720?encryption=none&security=none&type=grpc&authority=&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm&mode=gun#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://f2eeaf91-6ac0-47f3-9673-39476e75c02d@freeiran.lookanet.app:2052?path=/t.me.V2RayyNGvpn?ed=1024&security=none&encryption=none&host=metaplayer.gameredzone.top&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
+vless://2253e7d8-05c1-4079-9eac-845a015f8ff4@g.xo-connection.ir:65510?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=x.xo-connection.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
