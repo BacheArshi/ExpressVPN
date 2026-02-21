@@ -1,41 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://d2d6a501-5440-4159-94e9-fdcff756e156@18.153.11.160:26127?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://cbf69c40-f872-4cfb-858e-dd143468b272@18.199.218.195:443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://24d851c4-baaf-49f4-ad36-11b548983a5b@18.185.70.120:25349?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://627af99e-6326-430d-8a77-957cb5cc803e@3.70.225.41:26197?type=grpc&encryption=none&serviceName=&authority=&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63@vb24.homianco.ir:2096?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://56d64a42-eeb2-4011-bfa9-f1c3a67b1d9b@138.124.90.159:8443?security=reality&encryption=none&pbk=g7tux4qJl3BQyNwNpamBVd_53ZmybBXmRO2KZ6vIdVw&headerType=none&fp=chrome&spx=%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a24ed855f275#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
-vless://286caff5-bc58-42f2-f707-e779dd66b7b4@193.151.154.209:1515?path=%2F&security=none&encryption=none&host=tamasha.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40NETMelliAnti
-
-vless://dc69f0b7-529f-496c-adfb-ba107dab981c@45.159.148.130:8585?type=ws&encryption=none&path=%2FDownloDMusic&host=www.speedtest.net&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
-vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
-vless://9706248e-259e-4738-9cde-a3f7e11be4b8@185.208.79.133:38463?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
-
 vless://8101e743-fab1-4c81-906c-f62eef26b07b@77.91.85.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
 
 vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2RAYROZ
@@ -83,6 +47,8 @@ vless://cbf69c40-f872-4cfb-858e-dd143468b272@18.199.218.195:443?security=none&ty
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&type=tcp&sni=chatgpt.com&fp=chrome&flow=xtls-rprx-vision&sid=f5&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://8beb7d2b-8753-41a9-a381-ebfa327f85e7@firan.dtgoldservices.com:8443?encryption=none&security=tls&sni=firan.dtgoldservices.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
@@ -170,6 +136,8 @@ vless://6159c561-7494-46f6-b2b5-8fc09e468a9a@193.151.138.125:210?security=none&t
 
 vless://286caff5-bc58-42f2-f707-e779dd66b7b4@i1.tikaltk.xyz:1515?security=none&type=ws&path=%2F&host=tamasha.com&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
@@ -249,6 +217,10 @@ vless://55a543b0-1ba4-482a-8f34-a705fe6c5f11@vip-82.f-sub.cfd:1517?security=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.77.172:443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?path=%2F49.51.197.141%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=joinProxyVPN11.afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast
+
+vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&type=ws&path=%2F&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
@@ -521,6 +493,8 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.cre
 vless://24d851c4-baaf-49f4-ad36-11b548983a5b@18.185.70.120:25349?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
 vless://627af99e-6326-430d-8a77-957cb5cc803e@3.70.225.41:26197?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
+
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.76.117.172:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
 vless://9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63@vb24.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
@@ -1767,4 +1741,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.130.190:80?security=none&typ
 vless://14818654-7689-453a-9a1f-4c72f89782d5@144.31.104.1:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
 vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.79.114.176:443?security=&encryption=none&headerType=none&type=tcp¬e=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Raiv2mmr
+
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=firefox&type=ws&host=all-fm2.netsnap.ir.&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 
