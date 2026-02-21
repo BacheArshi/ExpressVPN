@@ -1516,3 +1516,5 @@ vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@armen.izumii.ir:8080?security=none&
 
 vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@fonken.izumii.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vpnplusee_free
 
+vless://545800e4-f929-4d25-99ec-0852c863e510@91.107.147.31:8080?security=none&type=ws&path=%2Fcdn&host=cyrusthegreat.blubplan.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
