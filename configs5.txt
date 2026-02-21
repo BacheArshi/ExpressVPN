@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@armen.izumii.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@fonken.izumii.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://545800e4-f929-4d25-99ec-0852c863e510@91.107.147.31:8080?security=none&type=ws&path=%2Fcdn&host=cyrusthegreat.blubplan.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#%F0%9F%87%BA%F0%9F%87%B2%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
 
 vless://a7d4928a-c362-4123-bb54-34710855d3ea@81.90.29.137:443?security=reality&encryption=none&pbk=q99BIe26pqQjv8P3-N8F6AUvV9utUsnZFyCZt3b28gU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nr26.strelkavpn.com&sid=c664e00cae30ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
@@ -73,4 +67,10 @@ vless://ce837763-c7dc-4df6-9336-8edd2a0fcf3f@F3.HaMrAhCoNf.Ir:8443?path=%2F&secu
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@L-i-Q-arvancloudiran.myabrliq.ir:2087?security=tls&type=ws&path=%2F&host=g-book.cofe-liq-ketab.ir&sni=g-book.cofe-liq-ketab.ir&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://8f7d4730-76ef-4998-b1a6-e91eb1d47b28@193.32.176.44:443?security=reality&encryption=none&pbk=OzfC9K0wCrfVT_PpIUGfDFTTxiCetmx7gG6E4RARNw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=7409f4913a0eba93#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
+vless://0154d742-3233-4c61-f81c-7407fcf28b87@18.153.93.127:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
