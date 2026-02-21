@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&type=ws&path=%2F&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://6159c561-7494-46f6-b2b5-8fc09e468a9a@193.151.138.125:210?security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
-
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40mtmvpn
-
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40mtmvpn
-
 vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&type=ws&path=%2F&alpn=h3%2Ch2%2Chttp%2F1.1&sni=proxy.rahmancloud.ir&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIFx1ZDgzZFx1ZGNjMSBAdjJyYXlfY29uZmlnc19wb29sIiwgImFkZCI6ICJzNC5mb3J3YXJkc2Nkbi5jb20iLCAicG9ydCI6ICIyMDkwIiwgImlkIjogIjZkZTVmOWRmLWFhNWQtNDBlMS1jOTkwLTIwOWYxMWZiNTY1YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiYWxwbiI6ICIifQ==
@@ -41,6 +33,8 @@ vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@fonken.izumii.ir:8880?security=none
 vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&type=ws&path=%2F&host=cd11.thisiswe.uno&sni=cd11.thisiswe.uno&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
 vless://545800e4-f929-4d25-99ec-0852c863e510@91.107.147.31:8080?security=none&type=ws&path=%2Fcdn&host=cyrusthegreat.blubplan.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%F0%9F%93%81%20%40v2ray_configs_pool
 
@@ -284,6 +278,8 @@ vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.12
 
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.121.74.249:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2HUBIR
 
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&host=cd11.thisiswe.uno&fp=chrome&type=ws&sni=cd11.thisiswe.uno#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2HUBIR
+
 vless://0154d742-3233-4c61-f81c-7407fcf28b87@18.153.93.127:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40V2HUBIR
 
 vless://e96b31ba-7120-45a0-abfc-c5611049af75@ae-rlt.hexo-music.ir:2087?security=reality&encryption=none&pbk=7s9-nH4hYMtQH5vUCzUFEeyGsb6WCl2E4Qgk13R80A0&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=f85554dfada636a4#%F0%9F%8C%90%20TCP-Reality%20%F0%9F%93%81%20%40V2HUBIR
@@ -333,6 +329,8 @@ vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=none&enc
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=%2F%3FTELEGRAM-V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz_V2rayBaaz%3Fed%3D512&security=none&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%F0%9F%93%81%20%40V2rayBaaz
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40V2rayBaaz
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&fp=chrome&allowInsecure=1&type=ws&host=cd11.thisiswe.uno&path=%2F#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40V2rayBaaz
 
@@ -1739,4 +1737,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gos
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@www.speedtest.net:8443?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#%F0%9F%8C%90%20XHTTP-TLS%20%F0%9F%93%81%20%40configraygan
 
 vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40anty_filter
+
+vless://288b2230-6348-48d0-b5f5-77dcbba4bebd@172.66.40.229:8443?path=%2Fcipherxcel&security=tls&encryption=none&insecure=0&host=paid-linode.cipherxcel.store&fp=chrome&type=ws&allowInsecure=0&sni=paid-linode.cipherxcel.store#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40vpnplusee_free
 
