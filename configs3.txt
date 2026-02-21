@@ -1744,3 +1744,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEBF
 
 vless://ebe253dc-4c4d-4bd3-8f8f-44c31bdbb4c1@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2Mm5vZGVzIiwgImFkZCI6ICJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3YWNlMTg3My05ODIyLTQ2YWYtOTkyMC1iZDY0ZjcyNTIxMmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm4xNzUxNDY4MDkyLmxpZTVkLmN5b3UiLCAidGxzIjogInRscyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
+vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.68.197.156:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
