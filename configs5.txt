@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.68.89.231:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
-
-vless://21889ffd-54ee-40f9-e9b0-f1838908579a@18.199.99.98:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
-
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.120.192.139:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
-
-vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.68.229.22:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40bored_vpn
-
-vless://af07a5ea-e637-41bd-f88f-bc4493b645a2@18.197.25.140:32016?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
 vless://61d261e1-039a-4114-b21a-10cc8f1976a9@my.kiomars.shop:6610?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2raba
 
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.120.192.139:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
@@ -151,4 +141,20 @@ vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@188.114.98.0:443?mode=packet-up&pat
 vless://1f72d585-175e-4c89-fd78-5d7947009c1b@3.125.34.124:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://71890dce-0a26-4d68-8281-e541a5abd3df@85.133.196.69:36659?encryption=none&type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
+vless://5cc29db0-b892-4b20-f553-1492ffab1818@3.64.211.206:44053?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://1f72d585-175e-4c89-fd78-5d7947009c1b@3.125.34.124:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://9bf99904-82f2-4b26-f962-32e787374403@3.79.152.247:18606?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.76.99.88:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.120.40.41:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://76519b4d-f880-4fa5-e02f-77df232fa79e@3.79.167.141:36062?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
+
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.184.155.64:18694?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_iran
 
