@@ -2040,3 +2040,5 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gos
 
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@www.speedtest.net:8443?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
+
