@@ -1742,3 +1742,5 @@ vless://58877aea-dfdc-44b3-818e-231dbc1e47dc@104.21.62.142:80?security=none&type
 
 vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@104.16.230.219:443?security=tls&sni=mmdv2.pages.dev&type=ws&host=mmdv2.pages.dev&path=%2F&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
+vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
