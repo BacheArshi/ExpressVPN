@@ -1278,3 +1278,4 @@
 1771700123.270841|vpnsal|vless://32e80ab8-a9b8-4d5e-a9ad-60b161eadf88@3.68.186.119:28427?type=tcp&encryption=none&security=none# vpnsal
 1771700123.270841|vpnsal|vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.72.1.0:44708?type=tcp&encryption=none&security=none# vpnsal
 1771700123.270841|vpnsal|vless://f9f8289a…
+1771700435.639783|v2Line|trojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#t.me/v2Line | Free | 3408 | Cloudflare
