@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@armen.izumii.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://75d8e7bb-74f8-4c25-a72f-dc3d983fb6d7@fonken.izumii.ir:8880?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
 vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?security=none&type=ws&path=%2Fv1%2Fstream%2Ftrk&host=anten.ir&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=none&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -1777,4 +1773,20 @@ vless://Fluffy_VPN-tvkZ57rl@77.246.96.82:443?security=reality&encryption=none&pb
 vless://af488953-ea77-7ac1-965d-19b3cd17c213@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40mtmvpn
 
 vless://44e08e17-a223-43bd-a9d1-39413ff8b56e@193.151.145.6:666?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turks#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F%3F%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%3Fed%3D512&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&host=%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@bim.iranheroo.ir:2087?security=none&encryption=none&host=%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://0098262c-48dc-49f0-874d-599d78474453@78.157.42.130:48837?security=none&encryption=none&host=%3DTelegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet%20-%20Telegram%20%3A%20%40V2rayNG_SPDNet&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
+
+vless://ad8a28d6…#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNG_SPDNet
 
