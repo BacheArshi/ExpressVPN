@@ -954,3 +954,5 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.194:26480?security=none&
 
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.204:26480?security=none&type=tcp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://da0e29ec-9407-43a7-a70e-94f005504427@ip3-cloud.tyryqyserver.ir:2052?security=none&type=ws&path=%2F%3Fed%3D2053&host=norbert-cloud-de.ocean-pro.top&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
