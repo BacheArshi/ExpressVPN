@@ -1862,3 +1862,13 @@ vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.205:26480?security=none&
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40Spotify_Porteghali
 
+vless://4ed6948d-0beb-f7ca-18e8-b4259eeb0dbb@ir.grbr.private-link.lornanet.ir:3130?security=reality&encryption=none&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&headerType=none&fp=safari&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&flow=xtls-rprx-vision&sni=rEfErSion.Com&sid=e99768d076c05ab2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
+vless://05ac3cee-cc13-4cde-bfbe-928974baa2e3@85.192.40.51:443?security=reality&encryption=none&pbk=nWGZxelG2CsJkJlZ2sJXxiLBQODS9xAetwdA4q0BwDI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
+vless://2b195252-b849-4250-b38d-0fa32b69b652@po.mi6bot.info:56987?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@95.214.181.51:443?security=reality&encryption=none&pbk=l6RZ7aQ4MX_q39a5wLgZt36f4JldG6aZTT8p79hzFx0&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.debian.org&sid=63d80d5199a2bc#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
