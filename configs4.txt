@@ -894,3 +894,15 @@ vless://6a03f18d-c94d-417c-9e25-625c7f76ff92@18.153.83.65:11924?security=none&en
 
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.192.239.112:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40v2ray1_ng
 
+vless://8c26c19d-123d-454d-9529-ff737d0450f6@85.133.204.179:59036?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%F0%9F%93%81%20%40FreakConfig
+
+vless://edc05328-3e8b-4268-ac76-0af4e53fdf81@94.156.237.204:2051?security=reality&encryption=none&pbk=W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=yahoo.com&sid=305be87f337d1db7#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
+vless://cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e@parsaprivae.isgood.host:22750?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40FreakConfig
+
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%F0%9F%93%81%20%40FreakConfig
+
+vless://fcbead98-fef8-4707-bd4f-1278935c9a44@170.64.238.91:39218?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%F0%9F%93%81%20%40FreakConfig
+
