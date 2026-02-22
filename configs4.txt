@@ -1120,3 +1120,5 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&se
 
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ZibaNabz
 
+vless://a7b06f29-ccf0-4535-948b-164b0120674d@193.151.141.145:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40NETMelliAnti
+
