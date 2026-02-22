@@ -2454,3 +2454,5 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D25
 
 vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40manVPN
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
