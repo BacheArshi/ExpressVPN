@@ -2904,3 +2904,7 @@ vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode
 
 vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
 
+vless://f078abea-a480-44c7-a785-4436c767835a@103.231.75.185:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U&sid=0bce&spx=/&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://fe387417-4166-47f9-a863-706254f306d8@join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443?path=ws&security=tls&encryption=none&host=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev&fp=chrome&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
