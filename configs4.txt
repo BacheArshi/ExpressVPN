@@ -980,3 +980,13 @@ vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@217.13.104.128:443?security=reality
 
 vless://aaaaaabb-4ddd-4eee…#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vpnsal
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.227.99.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.79.158.58:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%F0%9F%93%81%20%40DeamNet_proxy
+
+vless://8ab5d936-71bc-41f2-8f69-0c8a2f6e5d4d@250.ankernamad.ir:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org%40freenettir#%F0%9F%8C%90%20Hysteria-TLS%20%F0%9F%93%81%20%40ConfigV2rayNG
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-v2ray_configs_pools&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%F0%9F%93%81%20%40ConfigV2rayNG
+
