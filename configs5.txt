@@ -94,6 +94,8 @@ vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.121.110.238:443?security=&encrypt
 
 vless://da51d52e-174d-4410-d9dc-83a97bfe5ff8@3.71.51.206:23380?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
+vless://a506dd7f-1eca-426f-a07a-982490244622@45.130.125.160:2086?path=%2Fv2rayroad&security=none&encryption=none&host=hotchoclate.graphapp.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
+
 vless://cd00cbb8-a849-332e-9199-cbaf2050e785@ir.grbr.private-link.lornanet.ir:3130?security=reality&encryption=none&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&headerType=none&fp=safari&spx=%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2FPuLaVPN%2F%2FPuLaVPN&type=tcp&flow=xtls-rprx-vision&sni=rEfErSion.Com&sid=e99768d076c05ab2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
 vless://2babbbb9-ff59-426d-932f-b5c88ed80082@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
@@ -111,4 +113,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_Vpn
 
 vless://084c598a-4dd8-4ad9-ba74-b8ed7926d113@star-cdn.dsadsadads.ir:8443?path=%2Fstar%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dash-star.az9x99.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash-star.az9x99.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
+
+vless://0e6d4c0a-485b-86df-90d9-069807fcc559@213.238.180.218:9090?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
 
