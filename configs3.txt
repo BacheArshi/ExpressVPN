@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.79.114.176:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@3.67.196.82:30449?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnplusee_free
-
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@18.185.95.213:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.120.182.110:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://ebe253dc-4c4d-4bd3-8f8f-44c31bdbb4c1@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
-vless://14818654-7689-453a-9a1f-4c72f89782d5@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
-
 vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@3.79.240.151:50170?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
 vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
@@ -25,6 +13,12 @@ vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.120.146.221:443?security=&encrypt
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.75.222.155:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
 vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@18.194.145.240:33356?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://8a192afa-6ae2-4525-dd83-b99150e709a6@18.185.95.213:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.120.182.110:19592?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
+
+vless://ebe253dc-4c4d-4bd3-8f8f-44c31bdbb4c1@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
 vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayBaaz
 
@@ -63,6 +57,8 @@ vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=none&
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.110.68&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
+
+vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@3.79.114.176:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
@@ -103,6 +99,8 @@ vless://15336743-2807-492e-c6d3-afc0b80e6c22@3.120.39.32:59667?security=none&enc
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
 vless://76755143-35fc-4b1f-a793-3b24d31f4f6a@18.184.43.25:17373?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
+
+vless://d0a88160-6f61-4fb9-bf2f-9a763e1031c8@3.67.196.82:30449?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.67.226.143:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40configraygan
 
@@ -939,4 +937,14 @@ vless://10d7df50-b22d-406d-9e64-3e831fa0149e@3.71.50.207:44586?encryption=none&s
 vless://fec16be9-d4f0-4f4d-80fd-0b08895a1751@chatgpt.com:2083?encryption=none&security=tls&sni=zbcmjsvixp092d34lthfkornq.trovice.ir&fp=chrome&alpn=h2&insecure=1&allowInsecure=1&type=xhttp&host=zbcmjsvixp092d34lthfkornq.trovice.ir&path=%2F&mode=stream-up#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
 
 vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40daily_configs
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
+vless://2606539e-0e12-410d-89c3-390903492637@rotlnx.meindustries.ir:7799?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayNg_madam
+
+vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@chatgpt.com:80?path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&encryption=none&host=024.electrocellco-cf-024.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
+
+vless://90b9fe99-5bd4-4fa8-a290-4987833adb22@chatgpt.com:443?path=%2FeyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjEwLjIxNS4yNiIsIjIwNi4xNjYuMjUxLjkyIiwiMzcuNDguOTAuMTIwIiwiMTI1LjcuMjQuMjUxIiwiODAuNzYuMzIuMTIiXX0&security=tls&encryption=none&host=tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev&fp=chrome&type=ws&sni=TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
+
+vless://be016e95-d119-44d7-8a79-677740d5116d@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&host=nnet.online&type=ws&sni=vpn.nnet.online#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayngSeven
 
