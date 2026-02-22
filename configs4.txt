@@ -848,3 +848,5 @@ vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@194.87.31.160:8443?security=reality
 
 vless://2dc93929-242f-455f-83e4-a85a6a59546a@81.12.46.173:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%F0%9F%93%81%20%40vpnplusee_free
 
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40vpnplusee_free
+
