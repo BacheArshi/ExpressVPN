@@ -2294,3 +2294,5 @@ vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?path=%2F&security
 
 vless://0d328214-7ebc-413a-9820-2260b38d2242@152.53.116.71:443?security=reality&encryption=none&pbk=L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=7554#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40Free_World2
 
+vless://f5409195-0cae-410e-a4ce-f671347c06aa@94.182.129.246:22838?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vmess_ir
+
