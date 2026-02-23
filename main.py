@@ -273,8 +273,7 @@ def run():
     save_output('configs.txt', batch1, use_custom_branding=False)
     save_output('configs2.txt', batch2, use_custom_branding=False)
     save_output('configs3.txt', batch_chronological, use_custom_branding=True)
-    save_output('configs4.txt', batch_chronological, use_custom_branding=False)
-    save_output('configs5.txt', batch_5, use_custom_branding=True)
+    save_output('configs4.txt', batch_5, use_custom_branding=True)
 
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items:
