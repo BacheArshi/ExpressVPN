@@ -1,18 +1,3 @@
-1771837523.669043|Trick_mobil|trojan://pvzp58m0-ys25-b5vb-y2px-dihz7abeh7e0@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|trojan://s9pxhedj-hk4c-litb-5cox-lpnojv7owx7d@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|trojan://22kme2vc-pjf5-4a5f-5236-q2lv1p9auu2z@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://14818654-7689-453a-9a1f-4c72f89782d5@144.31.104.1:2040?type=tcp&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://14818654-7689-453a-9a1f-4c72f89782d5@74.119.192.243:2040?type=tcp&security=reality&sni=tradingview.com&fp=chrome&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://fb0bc4f7-2771-4223-8ffd-705469a039b7@158.160.223.36:8443?type=tcp&security=reality&sni=yandex.ru&fp=random&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#@Trick_mobil
-1771837523.669043|Trick_mobil|trojan://5i18ggyq-48qt-o5ha-82zu-jh2i0dunkaud@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|trojan://p0kxfcym-znnz-uhmc-g39a-yvmmcqjhgvd3@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|trojan://bp95q8lo-t1nk-wli2-5f6x-ys1jiclc9rsx@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://99bd2791-8e27-435b-a1e2-c9b625101af9@64.188.73.12:443?type=tcp&security=reality&sni=www.intel.com&fp=chrome&flow=xtls-rprx-vision&pbk=PJQxY2FFwn9nXutKZx1t9TcMnRjqXpBAnIDB5jvwEAU&sid=d91248fbca#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?type=tcp&security=reality&sni=nl.roblugo.su&fp=qq&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#@Trick_mobil
-1771837523.669043|Trick_mobil|vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2#@Trick_mobil
-1771837523.669043|DirectVPN|trojan://telegram-id-directvpn@18.196.6.7:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1771837523.669043|PrivateVPNs|trojan://telegram-id-privatevpns@18.196.6.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-1771837523.669043|vpnplusee_free|vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?encryption=none&security=none&type=ws&host=afrcloud22.mmv.kr&path=%2F64.181.218.67%3D443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 1771839033.602751|meliproxyy|vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#@meliproxyy
 1771839033.602751|meliproxyy|vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0#@meliproxyy
 1771839033.602751|meliproxyy|vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp#@meliproxyy
@@ -2885,3 +2870,17 @@
 1771880435.501806|v2ray_configs_pool|vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#جاوید نام امیرعباس باغستانی🌹📡🇹🇷®️Turkey©️Istanbul🅿️ping:58.55ms
 1771880435.501806|v2nodes|trojan://telegram-id-directvpn@18.158.87.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
 1771880435.501806|vpnplusee_free|vless://40aa8d3e-20da-580b-32a1-aab5c0d8dd4b@87.107.100.172:8083?security=&encryption=none&headerType=&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
+1771880731.267277|v2ray_configs_pool|vless://0525f54a-568b-4f0b-89e5-c2666e800d83@188.114.99.160:8443?path=%2Fdownloader&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=matoride.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=matoride.adaspoloandco.com#جاوید نام محمدحسین خلج🌹📡🇺🇸®️United States©️Washington D.C.🅿️ping:21.9ms
+1771880731.267277|v2ray_configs_pool|vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=devblogs.microsoft.com#جاوید نام مجتبی ترشیز🌹📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:46.1ms
+1771880731.267277|Trick_mobil|trojan://l2to12bq-0c9d-yppw-n3xw-69lvgsos7kn0@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|trojan://b18jw2ai-omwy-bn05-ojmh-x4yf4rw4tufe@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|trojan://3xp5bc9h-tiaw-si1b-6d4m-23856nwcz7qt@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va28.serverh1ub.ir:8080?type=tcp&security=reality&sni=chatgpt.com&fp=firefox&flow=xtls-rprx-vision&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.105.121:51102?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#@Trick_mobil
+1771880731.267277|Trick_mobil|trojan://hj7pshfw-20yd-ihug-8u33-v0a96fx3tak9@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|trojan://kvik4714-gxbr-2gkt-shxf-nkupso4w2lrj@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|trojan://mzxfei1p-k2g3-3ndd-tly4-2nlcpnkgni8d@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://af294727-004a-4bf0-b120-92c8618e86dc@nl.mobilezahra.lat:443?type=tcp&security=reality&sni=excoino.com&fp=firefox&flow=xtls-rprx-vision&pbk=10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA&sid=d9a8dad452a7644f#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y#@Trick_mobil
+1771880731.267277|Trick_mobil|vless://80edbcfe-a5dd-4efc-b494-dc1b7aa5b9a3@185.254.190.178:9443?type=tcp&security=reality&sni=ign.dev&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#@Trick_mobil
