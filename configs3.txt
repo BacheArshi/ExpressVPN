@@ -3082,3 +3082,7 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F
 
 vless://1066d253-ee38-47d8-a599-a431c7f658ee@fast1.mrsf.ir:443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7BscMaxEachPostBytes%3D1000000.0%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20noGRPCHeader%3Dfalse%7D&host=netUuuu.gLobAl.sSl.Fastly.nEt.&fp=chrome&type=xhttp&sni=digikala.com.#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://Join-golestan-vpn@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=dl.immerchauffage.ir.&fp=random&type=ws&sni=dl.immerchauffage.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40flyv2ray
+
