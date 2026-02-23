@@ -71,11 +71,13 @@ def analyze_and_rename(config, channel_name, use_my_branding=False):
         if not clean_source.startswith("@"): clean_source = f"@{clean_source}"
 
         if use_my_branding:
-            final_label = f"{MY_CHANNEL_ID} {CUSTOM_SEPARATOR} src {clean_source}"
+            final_label = f"{CUSTOM_SEPARATOR}"
+            # final_label = f"{MY_CHANNEL_ID} {CUSTOM_SEPARATOR} src {clean_source}" - به همراه منبع
+        
             separator = CUSTOM_SEPARATOR
         else:
-            final_label = clean_source
-            separator = SOURCE_ICON
+            final_label = f"{MY_CHANNEL_ID} {CUSTOM_SEPARATOR}"
+            separator = CUSTOM_SEPARATOR
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
@@ -223,7 +225,7 @@ def run():
     with open('data.temp', 'w', encoding='utf-8') as f:
         for item in valid_items: f.write("|".join(item) + "\n")
     
-    with open('pointer.txt', 'w', encoding='utf-8') as f:
+    with open('pointer.txt', 'w', encoding='utf-8') as f:**
         new_ptr = (current_index + ROTATION_LIMIT) % pool_size if pool_size > 0 else 0
         f.write(str(new_ptr))
 
