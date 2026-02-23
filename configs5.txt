@@ -134,6 +134,8 @@ vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&path=
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
+vmess://eyJhZGQiOiAiMTA0LjIxLjY5LjQ0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgImlkIjogIm5hc25ldCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgInBvcnQiOiAiODA4MCIsICJwcyI6ICJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEBGcmVha0NvbmZpZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
 
 vless://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40FreakConfig
@@ -165,4 +167,6 @@ vless://07581e9c-8e76-47aa-af3f-d5699d648f20@94.183.150.47:8081?encryption=none&
 vless://cd160419-29f6-45c0-8fd1-8ad01cd33e90@all1.money-cloud.ru:3010?encryption=none&security=none&type=xhttp&path=%2F&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
 
 vless://668279e3-ff43-423a-a785-cc4e7e4719c7@193.151.134.218:39102?encryption=none&security=reality&sni=www.intel.com&fp=chrome&pbk=4hZrG1nOTw4Z_uPhVEIe8Eo_-hMyClhbJhHS_OGbYCI&sid=a77dd89b7cdcc068&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40anotherme_night
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogInNnLm9rMTIzNDUuZ2dmZi5uZXQiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNWEyNzI1ZWYtMDAxMS00OTUyLWI1ZjYtMWIwZWVhMzVmYTE5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIndzIiwgImhvc3QiOiAianAwMDEuamFwYW5zYjMuZ2dmZi5uZXQiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImpwMDAxLmphcGFuc2IzLmdnZmYubmV0IiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBXUy1UTFMgfCBARXhwcmVzc19hbGFraSB8IHNyYyBAdjJyYXlfY29uZmlnc19wb29sIn0=
 
