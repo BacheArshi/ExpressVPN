@@ -1,31 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://aec0d3be-77ba-4372-a011-1e073df0dd7e@104.21.22.135:443/?encryption=none&security=tls&sni=rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=royal-dream-1ee7.i-r-tunl.workers.dev&path=/eyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443/?type=ws&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?encryption=none&security=tls&sni=cd11.thisiswe.uno&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&type=ws&host=cd11.thisiswe.uno&path=/#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@elementorfa.ir:443?security=tls&type=httpupgrade&headerType=&path=/pc&host=hs-4dfc2225.sabz-sitentg-noavaran.com&sni=sabz-sitentg-noavaran.com&fp=random#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@wallex.ir:443?security=tls&type=httpupgrade&headerType=&path=/pc&host=hs-8c64d7f8.sabz-sitentg-noavaran.com&sni=sabz-sitentg-noavaran.com&fp=random#%F0%9F%87%AE%F0%9F%87%B7%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@www.multiplydose.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://ow1fm0qtt1nh@www.visa.com:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=b0iepi8ffi9cjrl73wld5gri3f5rvb9.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://1b0ad61b-1be2-4cda-9979-984a965b0da5@162.248.166.78:4444?mode=gun&security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&fp=chrome&type=grpc&serviceName=grpc&sni=github.com&sid=aa7e96542880027a#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2nodes
-
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -365,4 +339,12 @@ vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.
 vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.31=47112&security=tls&encryption=none&insecure=0&host=afsbconfessout.qzz.io&type=ws&allowInsecure=0&sni=afsbconfessout.qzz.io#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://10c3ee03-20ed-44cc-ad7b-d3ffdf44bc40@51.250.75.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&sid=1bbbfaf553e63d8c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.4.103:443?path=/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.46.12:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.254.160:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@itly1.azangooo.ir:443?mode=packet-up&path=%2Ffsxh&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A1…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40HajmVPN_Config
 

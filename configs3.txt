@@ -3280,3 +3280,11 @@ vless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.
 
 vless://10c3ee03-20ed-44cc-ad7b-d3ffdf44bc40@51.250.75.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4&sid=1bbbfaf553e63d8c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.4.103:443?path=/?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.16.46.12:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.18.254.160:443?path=/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1b646fd4-c911-4c3f-b66a-420c1fa33e6c@itly1.azangooo.ir:443?mode=packet-up&path=%2Ffsxh&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A1…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40HajmVPN_Config
+
