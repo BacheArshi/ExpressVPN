@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.254.100:80?type=ws&host=kr1.175852.xyz&path=/abcde#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://a7a50082-b5c4-4729-af1d-230138122e2b@172.64.33.81:443?security=tls&sni=hqf9c6.gishebal.com&type=ws&host=hqf9c6.gishebal.com&path=/wss&alpn=http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://3da36802-99a5-476b-881e-b6c5dd474639@193.111.235.214:443?security=none&type=tcp&host=uptvs.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.23:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.95.188:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://ed75a8ad-54c0-407c-89f8-2a14a8b5446d@185.146.173.39:8880?security=none&type=httpupgrade&host=myket.ir.digehkhastehshodamazbasdamanehkharidam.blog.&path=%2F#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.5.245:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
-vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.235:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
-
 vmess://eyJhZGQiOiJkaWdpdGFsb2NlYW4uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2Nkbj9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiODA4MCIsInBzIjoidnBuc2FsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9 vpnsal#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnsal
 
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vpnsal
@@ -885,6 +869,8 @@ vless://ebe253dc-4c4d-4bd3-8f8f-44c31bdbb4c1@firan.dtgoldservices.com:8443?secur
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIm4xNzUzMzU2MzYxLmxpZTVkLmN5b3UiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNkZmQ5Nzg3LWRhYzgtNGMxZS05YWU1LTEwNGUyM2E5ZDk5NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAibjE3NTMzNTYzNjEubGllNWQuY3lvdSIsICJ0bHMiOiAidGxzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLVRMUyB8IEBFeHByZXNzX2FsYWtpIHwgc3JjIEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.95.188:443?security=tls&sni=sandWorm.PaGES.DEv&type=ws&host=sANDWOrm.pAGEs.DeV&path=/07n1q4ys4Pwba7qM&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40anty_filter
 
@@ -2645,4 +2631,24 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.53.163:80?security=none&type
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.20.216:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
 
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.73:443?security=tls&sni=kkd.ylks.link&type=ws&path=/blue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Hope_Net
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F47.130.35.116&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://dac5b2de-7df9-4d38-ba41-f98ceb19bd75@172.64.83.208:443?path=%2F07n1q4ys4Pwba7qM&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sANDWOrm.pAGEs.DeV&fp=chrome&type=ws&allowInsecure=0&sni=sandWorm.PaGES.DEv#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.192.75:2096?path=%2F45.76.183.217&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://e52d56bb-8376-408e-92d7-cdd896efd3c4@highspeed.jafarghasemiturk.ir:2053?path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=jafarservices.jafarghasemiturk.ir&fp=chrome&type=ws&allowInsecure=0&sni=jafarservices.jafarghasemiturk.ir#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@staging.lastilhame.monster:443?security=reality&encryption=none&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=b27ba098687b#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://0048827b-860e-4d14-9726-5bda54fb9132@A.fastlynew.hosting-ip.com:443?security=tls&encryption=none&insecure=0&host=looabxz.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=looabxz.global.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://dfb89560-d029-4fa8-b49c-feedfc5078ef@ip2-cloud.tyryqyserver.ir:2082?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&encryption=none&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.xbox.com#%F0%9F%87%B8%F0%9F%87%AC%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
