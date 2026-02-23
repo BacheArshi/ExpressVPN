@@ -3452,3 +3452,7 @@ vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?path=/?ed&securi
 
 vless://c466e49c-07a1-41af-81ab-67219476f2fa@poli.appleseraj.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=duseldorf.appleseraj.ir&type=ws&sni=duseldorf.appleseraj.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.122.56.20:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://18ca149b-4d45-4943-a298-4412229ff9ef@access-de1.agveit.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ismovoAVnp1Lc5QF67r0IyQ9gHa0UHS7eNhNIB7dLSg&sid=6f1b1409cf09a3e6&sni=access-de1.agveit.pro#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
+
