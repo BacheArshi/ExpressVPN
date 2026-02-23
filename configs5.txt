@@ -1,35 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@144.31.234.62:443?encryption=none&flow=xtls-rprx-vision&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&security=reality&sid=8b4c2d5a1e3f&sni=freede.spectrum.vu#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=F4Cbv0swJucaDwQdOibmLHhynexUdaVf8CFvTFe81mc&sid=8b4c2d5a1e3f&sni=freede.spectrum.vu#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@freede.spectrum.vu:444?type=grpc&security=reality&encryption=none&pbk=P5eDPZNV1SGHm0DiEwpVQe4NoZMzdDdQpVxmAJpHigQ&sid=a5f8e2d1c4b9&sni=freede.spectrum.vu&serviceName=vless#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://d9ecd679-1282-4f7f-a3d3-0d4bfa1327f4@germany.divinevpnconnect.ru:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=ho6jwn9kkCTNyHs-qV2kYSvWKO6y5FPfYV26oIB8_Rw&sid=6f2e9d8c52a4&sni=google.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&sni=all-fm2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@stock.hostmonit.com:443?path=/sni.111000.dynv6.net/?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=sant.atira-40.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sant.atira-40.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?encryption=none&security=none&type=ws&path=/vless/#%F0%9F%87%A6%F0%9F%87%B1%20WS-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@hd.pelatiposi.info:2087?alpn=h3h2&encryption=none&security=tls&sni=splash.VaRtAlReX.iNfO&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:8443?path=/vlessws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=bouquetberlin.org&fp=chrome&type=ws&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2&sni=by.cdn.titun.su#%F0%9F%87%A7%F0%9F%87%BE%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/146.235.18.248=45137#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://4a942a11-2178-4b10-af73-15b1cfee99df@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://125316cf-31d1-4828-9cdd-3ac81fffcab7@fi.divinevpnconnect.ru:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fygfmVgp2H6Y4ECbiDODx57Zz4CTNGFLYGtCqC31xiM&sid=1da66e71&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://c1cccadd-d19d-4dde-94d8-342ae98dfc1f@jpfast-3.up-pay.xyz:53676?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pUpJrE1iQejx-ycxWAYZujc3RWnl4Z1jhMc4rZjpYw0&sid=248e4a56f1&sni=apple.com&servername=apple.com&spx=%2F&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://c1cccadd-d19d-4dde-94d8-342ae98dfc1f@jpfast-3.up-pay.xyz:53676?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pUpJrE1iQejx-ycxWAYZujc3RWnl4Z1jhMc4rZjpYw0&sid=248e4a56f1&sni=apple.com&servername=apple.com&spx=%2F&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
