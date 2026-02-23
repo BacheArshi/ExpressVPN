@@ -1,4 +1,4 @@
-ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
+ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
 vless://7b5d0123-72c2-4c5b-b154-c63eb849057d@firan.dtgoldservices.com:8443?flow=&type=tcp&headerType=none&security=tls&sni=firan.dtgoldservices.com&fp=chrome&allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -125,4 +125,6 @@ vless://0cc7f60f-4b15-4e3a-b04c-b5f27f9d9c91@noor.330ts.shop:443?security=&encry
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.121.169:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
 vless://18d6752a-47b8-423f-9428-c9020761cd88@sgskb.osaip.net:25055?type=grpc&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=violet&security=tls&fp=chrome&insecure=0&sni=#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-TLS%20%7C%20%40v2nodes
+
+vless://cf00eb1a-a0b3-4e48-b917-0578f2f9566f@85.133.161.168:8080?path=%2Fv1%2Fstream%2Ftrk&security=none&encryption=none&host=anten.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmesc
 
