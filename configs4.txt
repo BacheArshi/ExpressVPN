@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://80edbcfe-a5dd-4efc-b494-dc1b7aa5b9a3@208.70.218.76:8443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://78f46c07-df6c-4e6d-ba7f-6b890eeb86d7@cloud5-mci.totalmntxah.ir:80?path=/ee?ed=2048&security=none&encryption=none&host=holandrt54rrree3.com-speedrtest.net.google.com0rfker-rtrer45r344r.ioncvbd4eerfde3eyre33.com&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
-
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1&sni=free-de-2.undef.network#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.creationlong.org&path=/assignment&host=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@92.118.231.187:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://01b52f36-ad50-4fad-8c06-6d55f0a2440f@freeiran.lookanet.app:2082?path=%2FV2RayyNGvpn%3Fed%3D512&security=none&encryption=none&host=Freemycity.esportplusnews.top&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40v2ray_configs_pool
 
 vless://afbde932-3421-4f4c-9997-41ee00e18dc7@162.159.8.69:443?path=/ws&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nst.maroufgym.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -301,4 +287,6 @@ vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&securit
 vless://3f42b528-59ef-45f9-9ba3-6292ca46f909@162.19.243.92:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40anty_filter
 
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.70.241.4:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
+
+vless://998df05b-3af8-cd7a-dce0-82721b0ea97f@172.65.147.63:3389?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
