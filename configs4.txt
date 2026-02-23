@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?encryption=none&security=tls&sni=vbox.ping-box.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://796d1abf-3380-4ad3-9c0f-11575e621023@http.tostar.ir:443?path=%2FUdhD3KL2ybEo3nVleSsjHGjsiFSl0JRLUHttPuPgRaDe&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=http.tostar.ir&fp=chrome&type=httpupgrade&allowInsecure=0&sni=http.tostar.ir#%F0%9F%87%AB%F0%9F%87%AE%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://65d6e754-9378-4d43-8b7a-9b872aee7cf8@noor.330ts.shop:443?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.46:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2a14c345-950b-416b-a029-3aa4751cb1d5@vip-80.f-sub.cfd:1517?security=&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40mtmvpn
-
-vless://3338e3ab-6763-a0c6-8f3c-7d9853a9b1b8@fast2.casaqa.ir:443?encryption=none&security=tls&sni=speedtest.net&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=de2finix.global.ssl.fastly.net&path=%2FGaMeOpTiMiZeR%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3338e3ab-6763-a0c6-8f3c-7d9853a9b1b8@dl5.irannetfinix.shop:2083?encryption=none&security=tls&sni=france.irannetfinix.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=france.irannetfinix.shop&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@153.121.45.101:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://40aa8d3e-20da-580b-32a1-aab5c0d8dd4b@87.107.100.172:8083?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
 trojan://l2to12bq-0c9d-yppw-n3xw-69lvgsos7kn0@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://b18jw2ai-omwy-bn05-ojmh-x4yf4rw4tufe@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -261,4 +243,12 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?type=tcp&encryp
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://1ea92475-4ea3-48b5-a307-d9fa6e9a11e1@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b95e1161-599d-4896-952a-a2c19b294d9c@nl1.vezze.lat:2095?path=/&%3Bsecurity=none&%3Bencryption=none&%3Btype=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QGZseXYycmF5OjpISzo6SEs6OkhLOjpISzo6SEsiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
+vless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=takken.sorza.ir&type=ws&sni=digikala.sorza.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.143:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%B1%F0%9F%87%BB%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
