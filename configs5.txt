@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443/?type=tcp&encryption=none&flow=&security=tls&sni=firan.dtgoldservices.com&alpn=irmeliy-channel@.networld_vpn-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080/?encryption=none&security=none&type=xhttp&path=/#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443/?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/35.230.79.26=443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v2.dabache.top:2053/?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=/#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
-vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
-
 vless://2b0e561e-d8ab-45f8-becb-09692e2d4bf0@5.160.144.77:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
 vless://cd160419-29f6-45c0-8fd1-8ad01cd33e90@all1.money-cloud.ru:3010?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
@@ -193,4 +183,14 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigV2rayNG
+
+vless://fb9385be-f132-4899-a0d6-7ebf950ddc13@mhm.sabalanhost.nl:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=fast.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://e46912da-097b-4f38-a6e9-7456b1b3e33c@mhm.sabalanhost.nl:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=fast.com&headerType=http&fp=chrome&type=tcp&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@lp0.986986.shop:443?fp=chrome&host=lp0.986986.shop&path=/UzlFfVDyqJL3rqGIZR4HIM8UFm&security=tls&sni=lp0.986986.shop&type=http#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@ddccvvbn.09o.ccwu.cc:443?fp=chrome&host=ddccvvbn.09o.ccwu.cc&path=/HoBSIvRY1m5xOEoGNWVAJXyI&security=tls&sni=ddccvvbn.09o.ccwu.cc&type=http#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiZGZydC44MTgxODUueHl6IiwgImFpZCI6IDAsICJpZCI6ICJlZWQ0YTU4My1iMjBlLTQ3ODctYmJkYi0wOTAxODE1NmU1M2YiLCAibmV0IjogInhodHRwIiwgInBvcnQiOiA0NDMsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICJkZnJ0LjgxODE4NS54eXoiLCAidGxzIjogInRscyIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgWEhUVFAtVExTIHwgQEV4cHJlc3NfYWxha2kgfCBzcmMgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
