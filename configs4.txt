@@ -200,3 +200,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.206:8443?path=%2F%3Fed%3
 
 vless://8102031d-e5a8-4916-949a-a25bfd58cbcb@FASTLY1.FASTSPEEDS.IR:443?encryption=none&type=xhttp&mode=auto&host=Fastspeedmar.global.ssl.fastly.net&path=/dl?ed%3D2560&security=tls&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.br.flicknet.ir:40019?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?encryption=none&security=reality&sni=yandex.ru&fp=chrome&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&sid=2aa4fcbeaed2ad23&spx=%2F&type=tcp&headerType=none&host=Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjk0LjIzMi4yNDcuMTY1IiwgInBvcnQiOiA0NTY1MywgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgIm5hbWUiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGV4cHJlc3NfYWxha2kiLCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/?ed=2560&telegram🇨🇳#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
+
