@@ -84,3 +84,13 @@ vless://61113265-3e78-4012-8f42-692b5069ddac@104.26.15.21:443?encryption=none&se
 
 vless://fab0c6f7-b621-4070-963c-011b354cc863@www.speedtest.net:443?path=%2Frealtime&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=chat3.fun&fp=chrome&type=ws&allowInsecure=0&sni=chat3.fun#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%B5%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c23376ec-ae2c-484a-8e04-fd767bb600b3@151.101.61.229:80?encryption=none&security=none&type=xhttp&host=vmessprotocol-channel.global.ssl.fastly.net&path=%2Fdownload%2Fmain&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40manVPN
+
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
