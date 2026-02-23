@@ -3102,3 +3102,7 @@ vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443/?type=ws&encrypt
 
 vless://6538160b-65e3-4bbe-817f-f8038e96897b@yekta.penhannet.ir:601?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
 
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@188.114.97.3:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=az.downloadgameiran.ir&fp=chrome&type=httpupgra#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2ray_configs_pool
+
+vless://e1c3f008-34e1-4fc4-a4bd-ed7c00c2add8@217.25.90.152:443?security=reality&encryption=none&pbk=u81SSCfLePekqTfssqKUJt5WHNIexpLzjLf-RPbI9ho&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=8061#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
+
