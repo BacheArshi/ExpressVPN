@@ -3620,3 +3620,13 @@ vless://7c3f08c8-7b3b-4028-91d8-378a18c2b62a@185.227.149.123:443?security=realit
 
 vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?security=reality&encryption=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=b77a294515ecc200#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://acdeb840-7828-4134-a71e-7fd27316e9c6@cxh1.azangooo.ir:2096?mode=packet-up&path=%2Fcpxh1&security=tls&alpn=h3&encryption=none&insecure=0&host=cxh.lizoillubricant.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=Cxh.liZoillubrIcant.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
+
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?mode=auto&path=%2F%40custom_config&security=reality&encryption=none&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&type=xhttp&sni=yahoo.com&sid=fbe3b0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
+
