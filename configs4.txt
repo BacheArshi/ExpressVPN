@@ -2802,3 +2802,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgXHVkODNkXHVkY2MxIEBa
 
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40ZibaNabz
 
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.147:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://4f504fa6-1b6b-4700-b4cd-3364e6206722@95.179.240.239:2083?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
