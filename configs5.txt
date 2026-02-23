@@ -216,3 +216,5 @@ vless://6280bb8e-8486-4129-a98e-0d227ddc5410@trurk-plus.iranman.shop:4301?securi
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40V2rayNG_SPDNet
 
+vless://9ada8158-d7be-4ee3-a0ae-ff185efc08d9@de.voxyvpn.ru:8443?security=reality&encryption=none&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=deadbeef#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
+

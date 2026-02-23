@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91%20%40Express_alaki
 
-vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@163.172.29.106:8443?path=/vless/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
-
 vless://9a887970-9742-48fd-ee77-57735bdc1d49@3.123.20.181:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
 
 vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
@@ -3143,4 +3139,6 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&typ
 vless://6280bb8e-8486-4129-a98e-0d227ddc5410@trurk-plus.iranman.shop:4301?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2nodes
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?path=%2F&security=tls&encryption=none&insecure=1&host=kaja.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=kaja.thisiswe.uno#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40V2rayNG_SPDNet
+
+vless://9ada8158-d7be-4ee3-a0ae-ff185efc08d9@de.voxyvpn.ru:8443?security=reality&encryption=none&pbk=l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=deadbeef#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
