@@ -2616,3 +2616,13 @@ vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080/?enc
 
 vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443/?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F35.230.79.26%3D443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
 
+vless://c8acb46c-b441-41a4-839f-9aa8b191b769@firan.dtgoldservices.com:8443/?type=tcp&encryption=none&flow=&security=tls&sni=firan.dtgoldservices.com&alpn=irmeliy-channel@.networld_vpn-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-#%F0%9F%87%AE%F0%9F%87%B7%20TCP-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://67074599-2f4d-4c47-997f-de85bb2e531b@ip2-cloud.tyryqyserver.ir:8080/?encryption=none&security=none&type=xhttp&path=/#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443/?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/35.230.79.26=443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v2.dabache.top:2053/?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=0&allowInsecure=0&type=ws&host=ir1.airpanel.top&path=/#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%F0%9F%93%81%20%40v2ray_configs_pool
+
+vless://2ec06433-4bde-4282-8199-bdd0327126fd@fl.v2online3.site:24025?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%F0%9F%93%81%20%40v2ray_configs_pool
+
