@@ -3484,3 +3484,15 @@ vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.71.200.254:443?type=tcp&encryptio
 
 vless://c20adfae-5ae8-4e8b-d34f-d6b425b7e665@3.70.120.79:443?type=tcp&encryption=none&security=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://c20adfae-5ae8-4e8b-d34f-d6b425b7e665@3.70.120.79:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.121.213.82:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.122.56.20:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://9a887970-9742-48fd-ee77-57735bdc1d49@18.193.115.39:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://1ac7f53b-500a-4020-bb14-6428c4f6841d@firan.dtgoldservices.com:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=firan.dtgoldservices.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vpnplusee_free
+
