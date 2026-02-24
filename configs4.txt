@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ff9b3f63-f782-4871-8d17-701ac4af8346@82.117.84.62:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@www.Speedtest.Net:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d654ecf6-bef4-4088-81a9-d12e04da0236@104.19.42.190:443?path=/&security=tls&encryption=none&insecure=1&host=qa1.xiaotiyan.dpdns.org&type=ws&allowInsecure=1&sni=qa1.xiaotiyan.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d65b8eda-f29d-4d27-a854-46eb33cf7c2c@178.21.161.169:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://de541d61-6b3f-437f-8429-bbf3f672f885@cd.reata.ir:2053?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=api4.diiginet.ir&fp=chrome&type=ws&allowInsecure=0&sni=api4.diiginet.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ff9b3f63-f782-4871-8d17-701ac4af8346@89.110.104.14:8080?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=isharing.us&fp=chrome&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&sid=1ae2fd1e1ace9935#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?security=none&type=ws&path=%2FgetWorkerUpdates&host=nl-90w-c.southnetworks.cloud&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -247,4 +235,24 @@ vless://ed59fe55-8ad6-475a-ad7e-9e5350ae4a50@45.159.148.130:2093?encryption=none
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBAYW5vdGhlcm1lX25pZ2h0IiwgImFkZCI6ICIzNy4yMDIuMjI4LjIzIiwgInBvcnQiOiAiNDIzNzYiLCAiaWQiOiAiZTg2N2M0YTAtYjRmNS00NzBlLWI4MWUtZDc4ZWMxYTM3NjM1IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIi0tLSIsICJob3N0IjogIiIsICJwYXRoIjogIi9WMlJheXlOR3Zwbi90Lm1lL1YyUmF5eU5HdnBuIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
 
 vless://41e4ab83-825a-4e89-9526-af23e781f356@asii.parsvipo.com:11035?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40anotherme_night
+
+vless://3f333027-7697-4342-baa5-7721198fa929@188.114.97.3:443?security=tls&sni=la.ordak.dpdns.org&type=ws&path=/fl?ed%3D2560&host=la.ordak.dpdns.org&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@45.11.187.10:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://ccc7a447-f131-4d2c-b4cd-e2dc9b4dd697@panel1.hmray.us:12182?encryption=none&type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443/?type=ws&encryption=none&flow=&host=takken.sorza.ir&path=/?ed=2560&security=tls&sni=digikala.sorza.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@45.11.187.232:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://cb515974-557a-402e-90d2-82819350084e@staging.freedom.gov:2096?encryption=none&security=tls&sni=uk.dlaparat.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=httpupgrade&host=uk.dlaparat.ir&path=/host:connect.freedom.gov:443/#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@45.11.187.25:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@ger.solarismastermanfree.site:14535?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
 
