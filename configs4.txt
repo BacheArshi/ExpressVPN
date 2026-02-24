@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2215657e-2af4-405f-b770-4e61b298d5b8@172.67.212.59:443?encryption=none&security=tls&sni=y.890601.pp.ua&type=ws&host=y.890601.pp.ua&path=/N4XLnUcJW0HJfbCLo#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.32:2053?encryption=none&security=tls&sni=ir1.airpanel.top&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F%3FTELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8d4a8cc8-b4f6-411e-b0ce-b7172bcbcfd2@de.devfather.org:443?security=reality&encryption=none&pbk=52C4orGcI61wImoX9_Ou2F8WPXi3Ry8gLRxYLe4kExM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=merch.smmfather.org&sid=11ca57582ecf3764#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40azadiiivpn
-
-vless://8d4a8cc8-b4f6-411e-b0ce-b7172bcbcfd2@fr.devfather.org:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=payeer.smmfather.org&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40azadiiivpn
-
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@185.232.204.31:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@170.114.45.1:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F138.2.5.136%3D443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -261,4 +249,20 @@ vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@213.232.204.28:8443/?type
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@151.242.43.187:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&fp=chrome&type=ws&host=dev.twistsparrow.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@kobe.ns.cloudflare.com:443?security=tls&type=ws&path=%2F105dlws&host=105dlws.aboutgoogle.info&sni=105dlws.aboutgoogle.info&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:80?type=ws&encryption=none&host=nnmkl.2nn.ccwu.cc&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e34e507a-4bfd-efd1-d07b-7d480bad3ce7@172.65.146.216:3389?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://01036a14-7758-4795-b453-2625aa8ee2b5@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@104.26.15.21:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=%2F118.91.78.76%3D50001%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night---%23TELEGRAM-anotherme_night#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@yhj.huangshang2026.indevs.in:443?alpn=h2&security=tls&serviceName=ElrtQ8CAz6RgfMaQ7PCejkt2o&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0d3d266a-ce3c-4fa9-b252-95144b7bc443@vipi11.abdulkhanioffline.pw:22527/?security=&encryption=none&host=cafebazaar.snapp.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
