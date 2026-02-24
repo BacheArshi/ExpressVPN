@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40app_bedal&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://c558328b-eb46-424c-b9e0-574770f0b072@a4rt.222560.xyz:443?alpn=h2&security=tls&serviceName=ks4McWjhV7bw8pnHc7y1ED50c&sni=a4rt.222560.xyz&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.175.141.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.jpmj.dev#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=sni.jpmj.dev&path=/%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&host=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F64.181.218.67%3D443#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F129.146.254.25%3A443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -185,4 +177,14 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.164.204:80?type=ws&host=us3.
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.172.53:80?type=ws&host=kr1.175852.xyz&path=/abcde#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.18.167.127:80?type=ws&host=kr1.175852.xyz&path=/abcde#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
+vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cb515974-557a-402e-90d2-82819350084e@mrv.com.br:2096?path=/host:connect.freedom.gov:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&type=httpupgrade&allowInsecure=0&sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@185.120.59.126:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://98aec3c3-d957-4363-9933-018e533c7c06@mrv.com.br:443?path=/?host:localhoat:443/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&fp=chrome&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.17.25:443?security=tls&sni=vvvbnh.taipei102.indevs.in&alpn=http/1.1&type=ws&host=vvvbnh.taipei102.indevs.in&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
