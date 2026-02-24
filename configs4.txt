@@ -212,3 +212,33 @@ vless://de541d61-6b3f-437f-8429-bbf3f672f885@cd.reata.ir:2053?security=tls&alpn=
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
 
+vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.0.108:443?path=%2F5.223.47.32%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://bb8c74a1-abc1-4511-b100-9876e30cb65c@172.64.145.38:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=xfjd79v2tjscrm6jqo.zjde5.de5.net&fp=chrome&type=ws&sni=xfjd79v2tjscrm6jqo.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.225:2040?security=reality&sni=tradingview.com&type=tcp&fp=qq&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://cf0eceb8-3a59-481a-b056-c3c7e73995d4@172.66.40.229:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=cloudfront.onhit.xyz&path=/shalana&sni=cloudfront.onhit.xyz&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://811632c6-f03f-42e8-a2c6-a9457f23e2fa@chatgpt.com:8443?type=ws&security=tls&host=italy2.bluehorizonjournal.site&path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&sni=italy2.bluehorizonjournal.site&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560#%F0%9F%87%B8%F0%9F%87%AC%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=&encryption=none&host=Xtls.mehrsazi.ir&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20HTTPUpgrade-None%20%7C%20%40BigSmoke_Config
+
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?path=%2FgetWorkerUpdates&security=&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40BigSmoke_Config
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40BigSmoke_Config
+
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20WS-None%20%7C%20%40FreakConfig
+
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40FreakConfig
+
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40FreakConfig
+
