@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome&type=ws&allowInsecure=1&sni=rAyAn-007.mAxImA.DpDnS.OrG#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://DIGiV2RAY-@185.146.173.59:80?path=%2FDigiv2ray-&security=none&encryption=none&host=digi--v2raycncfs.RadioTeHran.oRG.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20WS-None%20%7C%20%40v2ray_configs_pool
-
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -171,4 +167,22 @@ trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&s
 vless://20adc847-4159-4f39-b79f-d563b660945f@57.128.159.109:2345?security=none&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://7007111a-c28b-4ab1-8d28-bc7b42681028@57.129.133.88:2345?type=tcp&path=%2f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ggnju.iran2027.indevs.in:443?security=tls&sni=ggnju.iran2027.indevs.in&type=ws&host=ggnju.iran2027.indevs.in&path=%2fElrtQ8CAz6RgfMaiN9LMya#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@yui9.0ok.ccwu.cc:443?security=tls&sni=yui9.0ok.ccwu.cc&type=ws&host=yui9.0ok.ccwu.cc&path=%2fWRcZ5LrfKfYKaAHx8c#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http%2f1.1&type=ws&host=nji9768.006660666.xyz&path=%2fOkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&alpn=http%2f1.1&type=ws&host=ttt6.006660666.xyz&path=%2fOkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@ghju.0ok.ccwu.cc:443?security=tls&sni=ghju.0ok.ccwu.cc&type=ws&host=ghju.0ok.ccwu.cc&path=%2fWRcZ5LrfKfYKaAHx8c#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@zzzxs.0j0.ccwu.cc:443?security=tls&sni=zzzxs.0j0.ccwu.cc&type=ws&host=zzzxs.0j0.ccwu.cc&path=%2fWRcZ5LrfKfYKaAHx8c#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?security=tls&sni=y.taiwan2029.indevs.in&alpn=http%2f1.1&type=ws&host=y.taiwan2029.indevs.in&path=%2fRXvyoH0kyRosKkycyrxcJWNVFC21#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mki.huangzi.eu.cc:443?security=tls&sni=mki.huangzi.eu.cc&alpn=http%2f1.1&type=ws&host=mki.huangzi.eu.cc&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
