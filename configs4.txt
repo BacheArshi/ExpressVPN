@@ -202,3 +202,7 @@ vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=%2Fuploade
 
 vless://dbaf7124-d6b2-43b1-8d4f-b53d78006913@194.62.43.32:25417?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40ConfigV2rayNG
 
+vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&flow=&type=ws&path=/&security=tls&fp=firefox&sni=all-fm2.netsnap.ir.#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
+
+vless://fcfc091d-81a4-40b7-cbdc-8eb7683617a4@219.79.98.117:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=safari&sni=www.icloud.com&pbk=4cfuj5otn8-uhPUe23OhB6KY8I42AxxJNt4lWIpg_AU#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
