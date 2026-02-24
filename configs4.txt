@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2a14c345-950b-416b-a029-3aa4751cb1d5@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping%2F%3FTELEGRAM-irmeliy&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#%F0%9F%87%B8%F0%9F%87%A8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1a99307d-7dfb-4f0c-dcc5-8098f94033f8@95.216.154.119:37265?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
-
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -243,4 +237,6 @@ trojan://telegram-id-privatevpns@18.195.254.156:22222?sni=trojan.burgerip.co.uk&
 vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@de.prod.n7.homes:8443?security=reality&encryption=none&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=tcp&headerType=none&path=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D14…#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnsal
+
+vless://3b9ff760-6b22-467b-a54f-e25a82a40908@103.113.70.21:443?security=reality&encryption=none&pbk=xbbOyx0nk3ch1TczCJvSg-km5ac0NM7MgRbFSLCMXyU&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8397#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
