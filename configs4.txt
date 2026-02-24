@@ -314,3 +314,9 @@ vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.41.29:80?type=ws&encryption=
 
 vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@172.64.152.23:2087?security=tls&type=ws&headerType=&path=%2F&host=aza002.vaslbash.site&sni=aza002.vaslbash.site&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://29e64e77-e9db-4578-8937-e283216baa7d@us1.alligatostore.shop:443?path=%2F&security=tls&encryption=none&insecure=0&host=us1.alligatostore.shop&type=ws&allowInsecure=0&sni=us1.alligatostore.shop#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:80?type=ws&sni=nhju.ae1autumn.indevs.in&host=nhju.ae1autumn.indevs.in&path=/AbRz6tBwBWo4gds7cXpDB5nO5&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://af7d5ef7-53dc-40f1-af60-da121169bf05@94.184.3.183:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
+
