@@ -136,7 +136,13 @@ vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-77.f-sub.cfd:1517?security=none
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
 
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
+
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=vusp.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=pabloping&security=none&encryption=none&host=upnl.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40ConfigV2rayNG
 
 vless://3ea61064-dae6-4ce5-8e3b-451c7feab49f@104.18.32.47:443/?type=ws&encryption=none&flow=&host=sweet-sgv2ray.xihijop617-075.workers.dev&path=%2FeyJqdW5rIjoiMHF3bXNPUVFSYkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
@@ -307,4 +313,20 @@ vless://203d9487-1656-4824-bb09-99c73ecd36c6@108.162.198.80:443?encryption=none&
 vless://203d9487-1656-4824-bb09-99c73ecd36c6@108.162.193.71:443?encryption=none&security=tls&sni=zrf-czr.pages.dev&alpn=&fp=random&type=ws&host=zrf-czr.pages.dev&path=%2Fzrf%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@104.20.1.252:443/?type=ws&encryption=none&flow=&host=afrcloud22.mmv.kr&path=%2F129.146.254.25%3A443&security=tls&sni=afrcloud22.mmv.kr&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@Chatgpt.com:2083?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@61.221.189.241:3462?security=tls&sni=45.32.28.232&type=raw#%F0%9F%87%B9%F0%9F%87%BC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@Chatgpt.com:2083?path=/?ed=2560&security=tls&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://freedom@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&alpn=http%2F1.1&host=047.electrocellco-cf-047.workers.dev&type=ws&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@Chatgpt.com:8443?path=/?ed=2560&security=tls&host=masterserver1&fp=chrome&type=ws&sni=masterserver1¬e=@FreeOnlineVPN#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://07d57ceb-88f9-497b-b83d-b0335a4e4768@srv1.tak30m.com:38501?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@Chatgpt.com:8443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.momoroh506.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.momoroh506.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a51f04a4-1728-4b76-8abc-0aeee3d34cc3@85.133.228.75:8881?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
 
