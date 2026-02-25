@@ -100,6 +100,8 @@ vless://df21eeae-7011-41d1-b8d0-b39ea5bcf8ac@130.193.59.133:8443?flow=xtls-rprx-
 
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@regall.appav.online:2083?type=grpc&security=reality&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&sni=ads.x5.ru&mode=gun&serviceName=UpdateService&authority=#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443/?type=ws&encryption=none&flow=&host=nobitex.sylu.net&path=%2F&security=tls&sni=nobitex.sylu.net&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://30b51df8-4c4d-4316-a56a-3d2f4f8e0b9e@g8.goodnett.xyz:2053?security=&encryption=none&host=Speedtest.net&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://9a599b2e-5455-44d5-9a72-5c76f28e93e3@95.163.211.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -253,4 +255,12 @@ vless://7d09fd8d-e69d-44b2-9b0b-c7fcefcd4950@51.250.4.154:8443?security=reality&
 vless://0dd228c5-9d16-14bc-631d-eb6ce0c89874@srv-c0.netmaster.cam:8008?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?security=reality&encryption=none&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=nl.jojack.ru&sid=6bb3c7f9f97b45b8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2087?security=tls&type=ws&headerType=&path=&host=aza002.vaslbash.site&sni=aza002.vaslbash.site&fp=&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.26.15.85:80/?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
