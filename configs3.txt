@@ -3414,3 +3414,7 @@ vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@velsanto.online:8443?type=tcp&secur
 
 vless://ddb913e5-492f-42e8-baec-93c9c5d333d6@45.136.149.145:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY&sid=58a3#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
+trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
+
