@@ -348,3 +348,15 @@ vless://3fe29f0d-f264-4ef9-a5d4-4dae2220e1bf@45.130.125.160:2096?mode=auto&secur
 
 vless://Telegram%3A%40Free_VPN_CH@195.26.231.93:443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnplusee_free
 
+vless://613b8baf-f848-43b6-9055-63a37160f203@zf.sg1000.eu.cc:50000?mode=multi&security=reality&encryption=none&type=tcp&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&sni=yahoo.com&servername=yahoo.com&spx=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.121.166:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@104.17.192.0:443?encryption=none&security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@chatgpt.com:2096?type=ws&security=tls&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&sni=hetz.x-smm.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxNS4yNDAiLCAicGF0aCI6ICJUZWxlZ3JhbT1ATjNUV1JLICIsICJwb3J0IjogIjgwIiwgIm5ldCI6ICJ3cyIsICJoZWFkZXJUeXBlIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAic2VlZCI6ICIiLCAiaWQiOiAiNGU0NWMxYjQtOTEwNy00NWRkLTk5OTUtY2RmN2NiYjQ0ZDlkIiwgImFpZCI6ICIwIiwgImhvc3QiOiAieXl5bm0uMm5uLmNjd3UuY2MiLCAidHlwZSI6ICJub25lIiwgImZwIjogIiIsICJtb2RlIjogIiIsICJhdXRob3JpdHkiOiAiIiwgImZyYWdtZW50IjogIiIsICJkZXZpY2VJRCI6ICIiLCAiZXh0cmEiOiAiIiwgInRscyI6ICJub25lIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2raba
+
