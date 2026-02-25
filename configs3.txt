@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&encryption=none&sni=u89.003330333.xyz&fp=chrome&type=ws&host=u89.003330333.xyz&path=/F24D1rlC85bVBOSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8b0b39eb-5c24-4db1-8203-2b1c520b90e4@s4.rexine.ir:80?security=&encryption=none&host=mir-data-37.myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://f4cca26d-bf91-6fb4-42c5-d68d43966870@love-dnc.animallzoo-vip.pro:8443?security=tls&type=xhttp&headerType=&encryption=none&path=%2Fassets%2Fcss%2Fstyle.css%3Fed%3D2080&host=&mode=auto&sni=shoptapsidoctoro.animallzoo-vip.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://0c84ff26-2fc1-4db5-9e90-9eedd87903c5@exit.malkopol.org:2087?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=spartsi.poxhub.org&fp=chrome&type=ws&allowInsecure=0&sni=spartsi.poxhub.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://5b933269-a58c-4f64-aeda-0be5068a9c08@rutoger01.divinevpnconnect.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=WubGChO4rKHf2CKTpCjekPyKjoxvATyrzWHki_X7Eik&sid=6a2f71e3&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -3575,4 +3569,16 @@ vless://4a942a11-2178-4b10-af73-15b1cfee99df@104.26.14.21:443?path=%2F&security=
 vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?path=%2F&security=tls&encryption=none&insecure=1&host=yopk.pages.dev&type=ws&allowInsecure=1&sni=yopk.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
 
 vless://0e4e3a71-e712-49c6-a6a5-0b457764746e@104.26.15.21:443?path=%2F3.86.231.180&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://5a5ca651-b3e4-425a-96f2-794547041670@37.139.35.12:5443?security=reality&encryption=none&pbk=aVchpDA2211ve20cws2hnFzf8Luy72NX_-IKHJxNQG8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6cd0572fc5fa0757#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5a5ca651-b3e4-425a-96f2-794547041670@109.120.188.214:5443?security=reality&encryption=none&pbk=aVchpDA2211ve20cws2hnFzf8Luy72NX_-IKHJxNQG8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=6cd0572fc5fa0757#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://7affe6ed-3783-4570-b1c7-c8049a94bb9f@84.23.54.44:443?security=reality&encryption=none&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&headerType=none&type=tcp&sni=ads.x5.ru&sid=149752e367ffc637#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-vlr01-gmn03.tcp-reset-club.net:18443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://5a5ca651-b3e4-425a-96f2-794547041670@37.139.32.79:8443?security=reality&encryption=none&pbk=5glYyt2PVlrfg70dJAVvo9R34gdft0xfQOaa8ab2fQQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0d53f5dd9eda7a84#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://000f318f-d045-4262-af1d-383c43443e8a@dll3maghz3.chooktashakorabi.com:41019/?type=tcp&encryption=none&flow=#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
 
