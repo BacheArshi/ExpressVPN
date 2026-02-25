@@ -1,29 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.181.197.138:2096?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.152.23:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.155.209:443/?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?path=%2F156.244.1.250%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@172.64.155.209:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMjA5LjIzMSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMjIxNTY1N2UtMmFmNC00MDVmLWI3NzAtNGU2MWIyOThkNWI4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAibm1rbG8ua2swLmNjd3UuY2MiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9QR3NxYjJTSEpmYkNMbyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJubWtsby5razAuY2N3dS5jYyIsICJmcCI6IG51bGwsICJuYW1lIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyAxNzUiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
-
-trojan://humanity@172.67.180.92:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
-
 trojan://psycho@104.21.80.1:443/?type=tcp&security=tls&sni=PSYchO.SueX12.Ir#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
@@ -345,4 +321,16 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEB2MkxpbmUiLCAiYWRk
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2Line
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?encryption=none&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2Line
+
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@us01-vlr01-gmn03.tcp-reset-club.net:18443?allowInsecure=0&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://33412403-6348-482d-da08-0e944852660f@66.81.247.155:8443?mode=auto&path=%2FJKVPN--JKVPN--JKVPN&security=tls&encryption=none&insecure=0&host=jokerv.membergolabi.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=jokerv.membergolabi.ir#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1dbebdd3-3922-40c0-9b0e-ace270adb479@172.67.73.14:443?path=%2F175.202.135.114&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0e942494-a805-478d-8b26-3679f603db76@ger.mika4456gg.site:57070?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.139:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%20@WangCai2&security=tls&sni=sni.111000.v6.navy#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
