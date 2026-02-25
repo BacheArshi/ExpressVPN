@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://31b3fa93-788f-43ab-a3bb-ba6e00352fd3@104.21.55.47:2087?security=tls&type=ws&headerType=&path=&host=aza002.vaslbash.site&sni=aza002.vaslbash.site&fp=&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8e633674-dd04-45c0-a900-04066988bd2e@38.180.204.189:443?security=reality&encryption=none&pbk=_WB4K6w5EoQuBAan6fsS9NPJf5wa6ggmxIa8No93ghM&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=6553e6d9#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.26.15.85:80/?security=none&type=ws&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://a9a774d2-de9b-4e95-fc88-2b0ec78ff8f5@188.114.98.224:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=wearestand&sni=wearestand.online#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@nodejs.org:80?encryption=none&security=none&type=ws&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&path=/?ed#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -131,4 +123,18 @@ vless://e68f6ab4-d2d0-4185-aae3-145e77b8bec6@mX-prO-WeB-Nine-Vs-Nl.gLOBaL.SSl.FA
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096/?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ab1ba65d-7af4-4ffb-bf26-44d79793af45@www.speedtest.net:8080/?path=%2F&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@45.11.187.10:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@45.11.187.232:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://05732283-b4ee-4a86-920c-df9cf83d16c4@list2.botchillus.ru:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4MSHOoGy3IkOzr2hRa8VcKftS7UfMfeY2TXpNd4jfzM&sid=adcdd261d4e5aea1&sni=m.vk.com&spx=/mirD2BRzi8nNKRy#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@109.120.190.78:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=m.vk.com&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4b523a98e1bbd15b#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?Telegram%F0%9F%87%A8%F0%9F%87%B3_%40WangCai2=&allowInsecure=0&encryption=none&host=sni.111000.indevs.in&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://c193944b-50f7-0121-91d0-c25afc78e242@s-4.proworldvip.top:9289?security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.57.238:193?sni=www.nintendogames.net&path=%2f#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
