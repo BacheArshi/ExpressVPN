@@ -142,3 +142,5 @@ vless://fe430457-84e1-49ec-a21f-4c5505015aea@a6.outbout.shop:8081?security=none&
 
 vless://5db47982-e0ec-4a6e-82bc-8bd0d4255c3c@104.20.38.4:8080/?security=none&type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&type=tcp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
