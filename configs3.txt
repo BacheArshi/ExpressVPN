@@ -2996,3 +2996,15 @@ vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?mode=multi&se
 
 vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrYW1wb25nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.0.31:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3%20@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@15.236.148.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.148.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.148.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+

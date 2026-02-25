@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnowl
-
-vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vpnowl
-
-vless://nasnet@nodejs.org:2053?path=%2FNASNET%2Fcdn%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nasnet-571299667.rahavard365.co&fp=chrome&type=httpupgrade&sni=nasnet-571299667.rahavard365.co#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40vpnowl
-
-vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?path=%2Fehueueuejs&security=tls&alpn=http%2F1.1&encryption=none&host=native.loveplus.de5.net&fp=firefox&type=ws&sni=native.loveplus.de5.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnowl
-
-vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40vpnowl
-
 vless://5acc4610-f2d7-44c9-bbe6-c0ee6a058aac@173.245.59.191:8443?path=%2Fuploader.php&security=tls&encryption=none&alpn=h2,http/1.1&host=maple.adaspoloandco.com&fp=chrome&type=ws&sni=maple.adaspoloandco.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40configraygan
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?path=%2F&security=tls&encryption=none&type=ws&sni=sni.jpmj.dev#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40configraygan
@@ -313,4 +303,16 @@ vless://636728f4-c7b1-47a3-91b0-243b258f997e@ab.fxgoldensignals.com:8443/?encryp
 vless://7473f95b-5a12-4972-b882-9fcd41ceff72@zf.sg1000.eu.cc:50000?mode=multi&security=reality&encryption=none&type=tcp&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&sni=yahoo.com&servername=yahoo.com&spx=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrYW1wb25nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&sni=bpb-worker-panel-h5f.pages.dev&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=%2FTELEGRAM-MARAMBASHI-MARAMBASHI%2F%3Fed%3D2048&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.20.0.31:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=joinProxyVPN11.afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.225.72.238:2096?path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3%20@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@15.236.148.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.148.130:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.148.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
