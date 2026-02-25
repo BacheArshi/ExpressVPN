@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://990e5a63-71e4-4dca-b110-ea8f9bf9f54b@93.114.98.171:443?security=reality&encryption=none&pbk=9hLM71lkMgoCAzQJ2WBv5TXI_4Lucl5DctQveS85A0Q&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=1c#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.202.218.198:2083?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://dd4b5754-dd1b-4b13-8b7a-ff6dd2cdc545@hk2.xem.lat:36999?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=9PQmJhlG8kUIek7K-_OK7mi_lVs58K79AxvLHyXLois&sid=c8c7a83d5516&sni=swdist.apple.com&servername=swdist.apple.com&spx=%2F&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.63.16:3423?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.182.234:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.89.176:1281?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.155.209:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@221.144.40.169:11253?path=%2Fsg-lnd&security=tls&encryption=none&host=tn1rr.qzz.io&type=ws&sni=tn1rr.qzz.io#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -247,4 +233,8 @@ trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?path=%2
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s481.ccgfw.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u708330uad0es481.ccgfw.top&fp=random&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@nnmkgh.6hh.ccwu.cc:80?encryption=none&security=none&sni=nnmkgh.6hh.ccwu.cc&type=ws&host=nnmkgh.6hh.ccwu.cc&path=%2FF24D1rlC85bVBOSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 

@@ -3162,3 +3162,7 @@ trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053?pa
 
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
+vless://8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e@s481.ccgfw.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=u708330uad0es481.ccgfw.top&fp=random&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@nnmkgh.6hh.ccwu.cc:80?encryption=none&security=none&sni=nnmkgh.6hh.ccwu.cc&type=ws&host=nnmkgh.6hh.ccwu.cc&path=%2FF24D1rlC85bVBOSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
