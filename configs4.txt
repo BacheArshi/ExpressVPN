@@ -272,3 +272,11 @@ vless://08b12515-81f2-4bf9-9584-1f78102db072@89.208.222.100:443?encryption=none&
 
 vless://b5e0c65a-ccd5-4366-8fbc-34ff515cf61e@pxec3.azangooo.ir:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=android&type=ws&allowInsecure=0&sni=MS_swdb400438abab0750-sfX.digitstocks.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://669be00c-67b4-4b87-b08f-311c45abced2@ru-bridge.atlanta-internet.ru:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.rutube.ru&fp=random&pbk=cjM-gNYIiNglmuM7AUymiDT6InmwdtWoSUeeMEONj0w&sid=aaaaaaaa&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnhmjk.191262.xyz:443?path=%252fr862SIwqItkD5XgXAL&security=tls&host=BbNhMjk.191262.xYz&type=ws&sni=BbNHmJK.191262.xYZ#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@fffvvbgh.05o.ccwu.cc:80?encryption=none&security=none&sni=fffvvbgh.05o.ccwu.cc&type=ws&host=fffvvbgh.05o.ccwu.cc&path=%2FHoBSIvRY1m5xOEJ3dX414bl#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
