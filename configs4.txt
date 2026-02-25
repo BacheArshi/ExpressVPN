@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d749c2c0-4ba4-45fe-f8f4-2f422d689a21@pxqhkkokwtgf.eu-central-1.clawcloudrun.com:43144?security=tls&encryption=none&insecure=1&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=devblogs.microsoft.com%C2%ACe#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40V2rayNG_SPDNet
-
-vless://d5c88c60-0293-4356-ebd8-046560abfc4f@46.38.138.221:8081?security=none&encryption=none&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayNG_SPDNet
-
-vless://665b51bb-b60b-4653-dab5-cc7fc3125380@37.32.43.252:15717?security=none&encryption=none&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayNG_SPDNet
-
-vless://d749c2c0-4ba4…#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNG_SPDNet
-
-vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@193.84.255.103:7071?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
-
-vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
-
-vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@my.kiomars.shop:6665?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
-
-vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@217.60.238.167:8083?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
-
-vless://ee75ee8e-8551-4d1f-bb8d-60e4eda05dbb@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
-vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40manVPN
-
-vless://f6bd0b57-1e1c-4dd1-8f1c-939cb96bdb0a@209.38.202.192:42030?mode=gun&security=reality&encryption=none&pbk=ZyEwIOp_n6SemqIK57145NS5UWz3-BrL_fRob9qx4Tk&fp=chrome&type=grpc&sni=journalofbigdata.springeropen.com&sid=15#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40manVPN
-
 vless://18f72be7-0651-4037-928b-8a309d685796@194.107.126.157:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -257,4 +235,14 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=/?ed&security=
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?path=%2F&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/131.186.26.129=30443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.65.60.61:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnowl
+
+vless://crghxqxyoy@crghxqxyoy-518237151-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=crghxqxyoy-518237151-direct.bahame.co#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vpnowl
+
+vless://nasnet@nodejs.org:2053?path=%2FNASNET%2Fcdn%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nasnet-571299667.rahavard365.co&fp=chrome&type=httpupgrade&sni=nasnet-571299667.rahavard365.co#%F0%9F%8C%90%20HTTPUpgrade-TLS%20%7C%20%40vpnowl
+
+vless://b658a9a6-f8f5-4a86-a438-f912a8509db2@5.255.114.61:2083?path=%2Fehueueuejs&security=tls&alpn=http%2F1.1&encryption=none&host=native.loveplus.de5.net&fp=firefox&type=ws&sni=native.loveplus.de5.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnowl
+
+vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.6.133:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40vpnowl
 
