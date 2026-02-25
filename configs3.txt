@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:8443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbbbb.taiwan2028.indevs.in:443?type=ws&security=tls&sni=bBBbBB.taiWan2028.indeVs.iN&host=BBBbBb.tAIWAn2028.iNDevS.IN&path=/s2VHv9VUVzg35A6ueyyZnWd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://eed4a583-b20e-4787-bbdb-09018156e53f@vbhju.818185.xyz:443?type=ws&security=tls&sni=vbhju.818185.xyz&host=vbhju.818185.xyz&path=%2F8uSIAS1cIyvZXFAbvQEN#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://T9BpZIVMNv@104.16.250.22:8443?type=ws&security=tls&sni=sweden.vmaxpanel.com&host=sweden.vmaxpanel.com&path=%2Famd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4d63787b-1209-4ebb-95c3-341de483ff5b@rivon.aiteamplus.ir:2053?encryption=none&security=tls&sni=rivon.aiteamplus.ir&type=ws&host=rivon.aiteamplus.ir&path=%2Fapi%2Fssl%2Fconfig%2Fv1%2Fhistory#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://f85f60b1-2b96-49e9-8bde-b656d1516df0@104.17.165.123:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net&fp=chrome&type=ws&sni=gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=/pabloping/&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-vless://9523a24b-f6bf-339e-9950-32829162ffc2@v2.dabache.top:443?type=ws&security=tls&sni=dabaihk.webn.cc&host=dabaihk.webn.cc&path=/db1024532f9883c8&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8b70357d-b654-4a29-85de-e5fef1afefbd@fi.connectv.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.connectv.net&path=/&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://4d63787b-1209-4ebb-95c3-341de483ff5b@immahan.ir:22100?encryption=none&security=reality&sni=azure.microsoft.com&fp=firefox&pbk=gvRUO_F6bBFv5crztmwR3_pWbq9CW3vMjXMLioW2YGo&sid=c6&type=xhttp&path=%2Fms-update&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@jjkii.003330333.xyz:443?type=ws&security=tls&sni=jjkii.003330333.xyz&host=jjkii.003330333.xyz&path=/pdfbAl1zmvpSIH8OSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?type=ws&security=tls&sni=nnmmkk999.890602.xyz&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -3063,4 +3043,10 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=%2F%3FTeleg
 vless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ddfe3ab1-9840-4a7e-f0ec-e1da3baefaa8@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
+
+vless://e0ff845c-92d7-4f9b-81f5-53bf9625aac4@217.60.238.167:8084?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@51.38.64.226:2345?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_ir
+
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb08.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_ir
 
