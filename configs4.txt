@@ -150,3 +150,13 @@ vmess://eyJ2IjogbnVsbCwgImFkZCI6ICJoai5odWFuZ3NoYW5nLnF6ei5pbyIsICJwb3J0IjogNDQz
 
 vless://9d0b5c2d-1712-4a57-a2f0-617b94649249@vip-76.f-sub.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
+vless://5907cc32-da28-495f-bffa-ab7e999e9924@nl.devfather.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jack.smmfather.org&fp=chrome&security=reality&pbk=KEPDYs-bXYgMvIXgc0Oa7xccOKWz9-MqdCRTqHYNlHA&sid=e63a22f952c17096#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?security=tls&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%252f1.1&type=ws&host=GGgnhHY.huaNGSHang.ONLInE&path=%2fr862SIwqItkD5XgXAL#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4b68fe5d-9426-4493-be80-8381d2e09680@vip-80.f-sub.cfd:1517?encryption=none&security=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?encryption=none&security=tls&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&mode=gun#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
