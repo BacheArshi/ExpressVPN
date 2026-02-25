@@ -1,37 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://e2e99f25-2634-4840-ac34-9acd35f5b753@37.139.42.131:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dZhZUzUZazKuWXXVfDk5Vm1X7rMDlTLiGCVq1OechlY&sid=1421a22b7618d51d&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ef8b5afc-9ed3-46c5-a551-940232c59230@37.139.42.131:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dZhZUzUZazKuWXXVfDk5Vm1X7rMDlTLiGCVq1OechlY&sid=1421a22b7618d51d&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://163d2ba9-6080-48f8-b3fa-53766be00a2e@37.139.42.131:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dZhZUzUZazKuWXXVfDk5Vm1X7rMDlTLiGCVq1OechlY&sid=1421a22b7618d51d&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://a5db5a13-1bf2-4b28-88d4-5b385ece52ed@jp-gy2.xem.lat:35999?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=XcqltzdRYOAM1fw3Vjmb5h1n-S-Te4XS6eKJucipaXA&sid=ac2f2c&sni=swdist.apple.com&servername=swdist.apple.com&spx=/&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@95.163.210.225:443?type=grpc&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=api.avito.ru&serviceName=xyz#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://e6c82ce5-3eac-4e20-9fba-e2d8d6d761ca@37.139.43.165:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=_lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM&sid=6c0dc6f1a1e926de&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?security=none&encryption=none&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-vless://23082165-6a60-40c9-bd2b-1e72d11e8931@37.139.42.131:4443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=dZhZUzUZazKuWXXVfDk5Vm1X7rMDlTLiGCVq1OechlY&sid=1421a22b7618d51d&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://55b8ad98-e29a-4acd-bdd4-b670d1bd6e0e@37.139.43.165:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=_lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM&sid=6c0dc6f1a1e926de&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://2e0fd045-2937-42a4-8d01-9ae2948b8620@37.139.43.165:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=_lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM&sid=6c0dc6f1a1e926de&sni=google.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8@91.242.229.129:4443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=nl18.fastlanehosting.ru#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40daily_configs
-
-vless://9d8a065f-acb6-4ca1-896b-74b10f1fab42@194.61.3.29:38257?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
-
-vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:8443?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=takken.sorza.ir&path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
-
-vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
-
-vless://c843ed62-34da-44be-87b8-8b4ad34f6deb@f1.springpaatogh8.store:2087?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560%20PuLaFreeBOT%20PuLaVPN%20PuLaVPN%20PuLaVPN#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
-
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -427,4 +395,18 @@ vless://d4ee4602-9776-4f04-b8f8-a098e80213dc@v3.dabache.top:443?type=ws&encrypti
 vless://d3e587e7-9153-418e-8901-6c31699b19f3@104.18.32.47:2096?mode=auto&path=/?ed=2560&security=tls&encryption=none&insecure=1&host=datisde2.rahagp.ir&type=xhttp&allowInsecure=1&sni=datisde2.rahagp.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
+
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%F0%9F%87%A7%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://eafaefc3-e1b1-494d-a81b-ab909b46d3c3@M6.FASTSPEEDS.IR:2083?security=tls&type=ws&headerType=&path=&host=&sni=zyxel.frsee.ir&fp=#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://dad1b143-f782-4a70-a896-905da94fee7f@94.242.51.174:443?path=/&security=none&encryption=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%F0%9F%87%A7%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@bitbolajepe.vip:443?path=%2FTelegram%40V2ray_Alpha%3Dcitlali.shorekeeper.ir&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=crolindd.dearcarlotta.cloudns.org#%F0%9F%87%A7%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.23.210:443?security=tls&sni=ggbnhj.932.pp.ua&alpn=http/1.1&type=ws&host=ggbnhj.932.pp.ua&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
