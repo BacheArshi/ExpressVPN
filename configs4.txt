@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5f6c3f92-7220-4275-b34d-57c04db3f967@172.67.197.2:443?security=tls&encryption=none&sni=u89.003330333.xyz&fp=chrome&type=ws&host=u89.003330333.xyz&path=/F24D1rlC85bVBOSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8b0b39eb-5c24-4db1-8203-2b1c520b90e4@s4.rexine.ir:80?security=&encryption=none&host=mir-data-37.myket.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://f4cca26d-bf91-6fb4-42c5-d68d43966870@love-dnc.animallzoo-vip.pro:8443?security=tls&type=xhttp&headerType=&encryption=none&path=%2Fassets%2Fcss%2Fstyle.css%3Fed%3D2080&host=&mode=auto&sni=shoptapsidoctoro.animallzoo-vip.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://0c84ff26-2fc1-4db5-9e90-9eedd87903c5@exit.malkopol.org:2087?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=spartsi.poxhub.org&fp=chrome&type=ws&allowInsecure=0&sni=spartsi.poxhub.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -255,4 +249,24 @@ trojan://eed4a583-b20e-4787-bbdb-09018156e53f@bnh.818185.xyz:443?security=tls&sn
 trojan://eed4a583-b20e-4787-bbdb-09018156e53f@hnyu.818185.xyz:443?security=tls&sni=hnyu.818185.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hnyu.818185.xyz&path=%2F8uSIAS1cIyvZXFAbvQEN#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443?security=reality&encryption=none&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=81#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.42.98:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=%2F&ed=2048&eh=Sec-WebSocket-Protocol#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.16.250.22:80?type=ws&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&path=%2F%3Fed&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@104.20.1.252:2052/?&fp=chrome&type=ws&headerType=none&host=exemplary-milkytsxqiqyso.sportland.company.&path=%2F%3Fed%40freenettir#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://b020865b-7404-4894-ba65-a7414b10cda3@uu.852224.xyz:443?security=tls&sni=uu.852224.xyz&alpn=http/1.1&type=ws&host=uu.852224.xyz&path=/iEIlQmeiFdOPjqSc7fzeJr#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://4c205c81-5694-43fe-a287-af563a2ebc05@h7.89060004.xyz:443/?security=tls&sni=h7.89060004.xyz&type=ws&path=%2FP23lDbkARo4gds7cXpDB5nO5&Host=h7.89060004.xyz#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@62.204.42.162:443?security=reality&type=tcp&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&sid=edbc04c389&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://a7e84660-8f5c-43ba-b635-cc394c5be4b9@www.visa.com:80?path=/?ed=2560&security=none&encryption=none&host=amita-b17wejf6-v2.amita.workers.dev&fp=chrome&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@ita01-vlr02.tcp-reset-club.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&sni=hls-svod.itunes.apple.com&spx=/#%F0%9F%87%AE%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2nodes
 
