@@ -262,3 +262,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.220.210:443?path=%2F%3Fed%3D
 
 vless://a8da758c-510d-4827-83cf-2f2b51c49c5b@download.lastilhame.monster:443?security=reality&encryption=none&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.techradar.com&sid=faa900664bad#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@hk2.sanfen001.pics:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e2273e4a-ae8f-4937-baa0-a68860e22e61@zf.sg1000.eu.cc:50000?mode=multi&security=reality&encryption=none&type=tcp&pbk=XcaJjk49Yof0-ZTuwFlFvBqd_QJC_uabiIWC1g6rvAk&sid=1f7bfe&sni=yahoo.com&servername=yahoo.com&spx=/&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
