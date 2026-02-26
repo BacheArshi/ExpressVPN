@@ -146,3 +146,17 @@ vless://Telegram%253A%2540Free_VPN_CH@185.156.19.8:2096?path=%2Fsg-lnd&security=
 
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:80/?type=ws&encryption=none&flow=&host=chatgpt.com.afrcloud22.mmv.kr&path=%2F157.245.215.195%3D8443#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://T9BpZIVMNv@v3.dabache.top:8443?type=ws&security=tls&sni=sweden.vmaxpanel.com&host=sweden.vmaxpanel.com&path=%2Famd#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://123456@joinv2ngnet.yixike3051.workers.dev:2096?path=%2F%3Fed%3D2560&security=tls&host=joinv2ngnet.yixike3051.workers.dev&fp=random&type=ws&sni=joinv2ngnet.yixike3051.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://cdec0d45-211d-05bc-e0c6-a7a6c3d00aed@181.214.1.246:8880?mode=auto&security=none&encryption=none&host=erfan.mmd8563.ir&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://bdf317a6-9403-4c9d-abc4-211ff7819ee6@172.64.152.23:2053?path=%2F&security=tls&encryption=none&insecure=0&host=arr1.iraniadsi.ir&fp=chrome&type=ws&allowInsecure=0&sni=arr1.iraniadsi.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6c827f78-f774-4e9e-a76e-6c1c26fd7389@ip.linux-panel.com:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
