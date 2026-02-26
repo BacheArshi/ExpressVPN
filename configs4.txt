@@ -208,3 +208,5 @@ vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=&enc
 
 vless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@172.66.128.70:2052?path=%2F%3Fed&security=&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F164.52.2.98%3D443#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
+
