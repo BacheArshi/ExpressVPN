@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=icloud.com&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?type=ws&security=tls&sni=joinProxyVPN11.afrcloud22.mmv.kr&host=afrcloud22.mmv.kr&path=%2F150.109.11.223%3D443#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?security=tls&sni=ilop.uk2033.ccwu.cc&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://mahanvpn-free-iran5@188.114.98.0:443?type=ws&security=tls&sni=MAHANteAm.noD32Cpu.iR&host=MAHANteAm.noD32Cpu.iR&path=%2Fassets&fp=ios#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4506cd31-0c15-4b92-b464-35b377b4c2be@104.19.135.124:443?pa…#%F0%9F%87%A8%F0%9F%87%A6%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://98aec3c3-d957-4363-9933-018e533c7c06@173.245.59.188:443?type=ws&security=tls&sni=uk.dlaparat.ir&host=uk.dlaparat.ir&path=%2F&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://humanity@104.18.32.37:443?type=ws&security=tls&sni=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://9591b889-87d1-404e-8430-b4b26bdb85be@208.103.161.52:443?encryption=none&security=tls&sni=afrcloud1.mmv.kr&type=ws&host=afrcloud1.mmv.kr&path=%2F5.78.50.75%3D443#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://93dc1ba8-475d-45ac-be97-608f16261bf2@212.64.193.14:2052?path=%2F&security=&encryption=none&host=212.64.193.14&fp=firefox&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -215,4 +199,8 @@ trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@eefrt.890699.xyz:443?type=ws&secur
 vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMTkwLjk0IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5ZDI0YjA3Yy03MWY0LTRhYTUtOTVhYy0zMzA3YzY5OTU2MTkiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAibW1raTkua2sxLmNjd3UuY2MiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9GbHlkVTc5Um51MGxOaHUxWVpjN3paIiwgInRscyI6ICJ0bHMiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE0MSIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxMDQuMjEuNTcuMTIyIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5ZDI0YjA3Yy03MWY0LTRhYTUtOTVhYy0zMzA3YzY5OTU2MTkiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAibW1raTkua2sxLmNjd3UuY2MiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9GbHlkVTc5Um51MGxOaHUxWVpjN3paIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJmcCI6IG51bGwsICJuYW1lIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyAxMDciLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
+vless://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=%2F%3Fhost%3Alocalhoat%3A443%2F&security=tls&encryption=none&alpn=http%2F1.1&host=uk.dlaparat.ir&fp=chrome&type=ws&sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
 
