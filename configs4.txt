@@ -140,3 +140,7 @@ vless://4e0f7ef4-4ce6-4de6-bfb9-5b831436bedf@193.58.119.134:443?security=none&en
 
 vless://dd29ddf2-d9f1-489e-90f7-1b2c7a1e6a41@92.114.50.187:777?path=%40BluebberyNetWork&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
 
+vmess://eyJhZGQiOiAiOC4yMTAuMTk3LjEzOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI4LjIxMC4xOTcuMTM4IiwgImlkIjogImExM2QzZjZiLWI5NjEtNDUxMi1mYzhhLTlmMWQ5MDg5MzdiOCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMDA0IiwgInBzIjogIlx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBXUy1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
+vless://89ba5d86-8837-4df1-91fa-d9176faa9225@167.82.70.143:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=Kilerjxi.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnplusee_free
+
