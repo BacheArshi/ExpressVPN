@@ -254,3 +254,15 @@ vless://ecce4a88-dd41-4c02-bf3f-adddb782f577@vip-78.f-sub.cfd:1517?security=&enc
 
 vless://0b4c1728-664b-49ee-bea4-1f66d5cc6a59@85.133.240.71:446?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
+vless://f84cadb07ef447bfafeeb88a4c88a12c@reserved.fastnodegate.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fastnodegate.com&fp=chrome&pbk=nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM&sid=70&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.25.51:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://524f9886-021a-4984-bf42-a38160ff1d9d@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&security=tls&encryption=none&host=p1.thisiswe.uno&fp=chrome&type=ws&sni=p1.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v2.dabache.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=1&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=p1.thisiswe.uno#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
