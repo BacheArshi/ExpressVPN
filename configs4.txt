@@ -198,3 +198,7 @@ vless://003ef206-46b6-3701-ab77-b03debe7511f@104.17.25.173:443?path=%2Fdb1024143
 
 vless://4309abbb-9427-41e5-b3a0-cca6763f9964@104.16.178.77:443?security=tls&fp=random&sni=52yunwang.dpdns.org&type=ws&headerType=none&host=52yunwang.dpdns.org&path=/?ed=2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&fp=chrome&security=reality&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
