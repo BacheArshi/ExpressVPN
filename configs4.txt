@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://06e87d4a-314d-4651-af86-d4f55624159a@104.21.50.49:2053?security=tls&sni=bia-code-v2.alphav.top&allowInsecure=1&type=grpc&serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&encryption=none#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.67.157.61:443?security=tls&sni=bmk.1xq.indevs.in&type=ws&host=bmk.1xq.indevs.in&path=/hBasD7EdpBQ0zGAzsYHmsMrnO#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@104.21.16.211:443/?type=ws&encryption=none&flow=&host=nnmkl.2nn.ccwu.cc&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO&security=tls&sni=nnmkl.2nn.ccwu.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://4bc7d558-1943-44de-bd82-56920bc9383e@free2.spectrum.vu:7443?mode=gun&security=reality&encryption=none&pbk=9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE&fp=chrome&type=grpc&serviceName=vless&sni=www.google.com&sid=ab1c1a11#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://0000@masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev:8443?security=tls&sni=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&fp=random&type=ws&host=masterserver1-masterserver1-masterserver1-masterserver1.wrdzl.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxMDQuMjEuMjMuMjEwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYmZlNThmNy1kYTFkLTQ1ZGYtYWI0My03YzY2NWIyMGVlMjkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJ2dnZibmhqdS45MzIucHAudWEiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJwYXRoIjogIi90MVVWNEhTcnpiV0dtSnRiQmhtS2I4bk9rZyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ2dnZibmhqdS45MzIucHAudWEiLCAiZnAiOiAiY2hyb21lIiwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDEwNCIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.217:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
@@ -419,4 +403,28 @@ vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=&e
 vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIHwgQEZyZWFrQ29uZmlnIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?path=%2F&security=none&encryption=none&type=ws&sni=1#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
+
+vless://7e51c583-a2c1-4de2-9373-124c93601e55@shaparak.ultrrasound.com:14557?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
+
+vless://6af92797-a21f-4585-af82-5532babd22ac@194.36.174.154:9092?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://26ce7064-a771-4b1c-9e02-5fd1ae8cddda@shaparak.ultrrasound.com:11199?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40meliproxyy
+
+vless://26231910-507a-4a79-cb62-6e1ed81c5c89@87.107.83.179:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40meliproxyy
+
+vless://aec82c9f-161f-44ce-bf83-12d46f969368@5.57.33.226:8443?security=none&encryption=none&host=mehromah.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40meliproxyy
+
+vless://3b8bf200-6f1b-4879-b526-c93931b6566c@abc-shalvar.global.ssl.fastly.net:443?security=tls&type=ws&headerType=&path=%2Fcontainers%2Ffi&host=abc-shalvar.global.ssl.fastly.net&sni=abc-shalvar.global.ssl.fastly.net&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnplusee_free
+
+vless://3b8bf200-6f1b-4879-b526-c93931b6566c@faresolarab.global.ssl.fastly.net:443?security=tls&type=ws&headerType=&path=%2Fcontainers%2Ffi&host=faresolarab.global.ssl.fastly.net&sni=faresolarab.global.ssl.fastly.net&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnplusee_free
+
+vless://6573a2b1-fd7a-4916-9688-b88260547c24@afrcloud22.mmv.kr:443?path=%F0%9F%94%92&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
+
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
 
