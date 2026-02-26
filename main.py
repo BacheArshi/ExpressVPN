@@ -21,8 +21,8 @@ NOT_FOUND_FLAG = "🌐"
 
 SUPPORTED_PROTOCOLS = ['vless://', 'vmess://', 'trojan://', 'hysteria2://', 'hy2://']
 
-EXPIRY_HOURS = 12       
-SEARCH_LIMIT_HOURS = 1  
+EXPIRY_HOURS = 12       # حذف کانفیگ‌های قدیمی‌تر از ۱۲ ساعت از دیتابیس
+SEARCH_LIMIT_HOURS = 1  # بررسی پیام‌های ۱ ساعت اخیر کانال‌ها
 ROTATION_LIMIT = 65      
 ROTATION_LIMIT_2 = 1000   
 ROTATION_LIMIT_3 = 3000   
@@ -52,13 +52,16 @@ def parse_vmess_uri(config):
         return None, "", "TCP", "None", False
 
 def get_config_core(config):
+    """ استخراج بخش فنی کانفیگ برای تشخیص تکراری بودن بدون در نظر گرفتن نام """
     try:
         config = config.strip()
         if config.startswith("vmess://"):
             data, _, _, _, is_json = parse_vmess_uri(config)
             if is_json:
+                # مقایسه بر اساس آدرس، پورت و آیدی اصلی
                 return f"vmess-{data.get('add')}:{data.get('port')}:{data.get('id')}"
         else:
+            # برای سایر پروتکل‌ها، بخش قبل از # تمام تنظیمات فنی را شامل می‌شود
             return config.split('#')[0]
     except:
         return config
@@ -66,14 +69,11 @@ def get_config_core(config):
 def analyze_and_rename(config, channel_name):
     try:
         config = config.strip()
-        
-        # تمیز کردن نام کانال و اضافه کردن @
         clean_source = channel_name.replace("https://t.me/", "@").replace("t.me/", "@")
         if not clean_source.startswith("@"): clean_source = f"@{clean_source}"
 
         transport, security, flag = "TCP", "None", NOT_FOUND_FLAG
         
-        # --- پردازش VMess ---
         if config.startswith("vmess://"):
             data, raw_name, v_trans, v_sec, is_json = parse_vmess_uri(config)
             if is_json:
@@ -81,13 +81,11 @@ def analyze_and_rename(config, channel_name):
                 t_map = {'tcp': 'TCP', 'ws': 'WS', 'grpc': 'GRPC', 'kcp': 'KCP', 'h2': 'H2', 'quic': 'QUIC', 'httpupgrade': 'HTTPUpgrade', 'xhttp': 'XHTTP'}
                 transport = t_map.get(v_trans.lower(), 'TCP')
                 security = v_sec
-                
-                # قالب جدید و یکپارچه
+                # فرمت: flag transport-tls | @source
                 new_ps = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
                 data['ps'] = new_ps
                 return "vmess://" + base64.b64encode(json.dumps(data).encode('utf-8')).decode('utf-8')
 
-        # --- پردازش سایر پروتکل‌ها ---
         if '#' in config:
             base_url, raw_fragment = config.split('#', 1)
         else:
@@ -110,7 +108,7 @@ def analyze_and_rename(config, channel_name):
 
         if config.startswith(('hysteria2://', 'hy2://')): transport, security = "Hysteria", "TLS"
 
-        # قالب جدید و یکپارچه
+        # فرمت درخواستی: flag transport-tls | @source
         final_name = f"{flag} {transport}-{security} {CUSTOM_SEPARATOR} {clean_source}"
         return f"{base_url}#{urllib.parse.quote(final_name)}"
     except:
@@ -146,9 +144,13 @@ def run():
                 parts = line.strip().split('|', 2)
                 if len(parts) == 3: db_data.append(parts)
 
-    all_raw_configs = [d[2] for d in db_data]
+    # برای جلوگیری از تکرار در طول کل برنامه
+    seen_cores = set()
+    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
+
     now = datetime.now().timestamp()
 
+    # استخراج جدید
     for ch in channels:
         try:
             resp = requests.get(f"https://t.me/s/{ch}", timeout=15)
@@ -162,23 +164,27 @@ def run():
                 msg_text = wrap.find('div', class_='tgme_widget_message_text')
                 if not msg_text: continue
                 for c in extract_configs_logic(msg_text):
-                    if c not in all_raw_configs and c not in PINNED_CONFIGS:
+                    core = get_config_core(c)
+                    if core not in seen_cores:
                         db_data.append([str(now), ch, c])
-                        all_raw_configs.append(c)
+                        seen_cores.add(core)
         except: continue
 
+    # فیلتر ۱۲ ساعته برای کل دیتابیس
     valid_items = [item for item in db_data if now - float(item[0]) < (EXPIRY_HOURS * 3600)]
 
+    # مرتب‌سازی و حذف تکراری نهایی قبل از توزیع در فایل‌ها
     unique_pool = []
-    seen_cores = set()
-    for pin in PINNED_CONFIGS: seen_cores.add(get_config_core(pin))
-
+    final_seen = set()
+    for pin in PINNED_CONFIGS: final_seen.add(get_config_core(pin))
+    
     for item in valid_items:
         core = get_config_core(item[2])
-        if core not in seen_cores:
+        if core not in final_seen:
             unique_pool.append(item)
-            seen_cores.add(core)
+            final_seen.add(core)
 
+    # چرخش و توزیع
     current_index = 0
     if os.path.exists('pointer.txt'):
         try:
@@ -199,9 +205,11 @@ def run():
     batch1 = get_rotated_batch(ROTATION_LIMIT)
     batch2 = get_rotated_batch(ROTATION_LIMIT_2)
     batch_chronological = unique_pool[-ROTATION_LIMIT_3:]
+
+    # --- فیلتر ۱ ساعته برای فایل ۴ ---
+    # 3600 ثانیه = ۱ ساعت
     batch_under_1_hour = [item for item in unique_pool if now - float(item[0]) < 3600]
 
-    # حذف پارامتر برندینگ چون همه یکسان شده‌اند
     def save_output(filename, batch):
         with open(filename, 'w', encoding='utf-8') as f:
             for pin in PINNED_CONFIGS: f.write(pin + "\n\n")
@@ -209,11 +217,9 @@ def run():
                 renamed = analyze_and_rename(raw_cfg, source_ch)
                 f.write(renamed + "\n\n")
 
-    # ذخیره فایل‌ها بر اساس ساختار جدید
     save_output('configs.txt', batch1)
     save_output('configs2.txt', batch2)
     save_output('configs3.txt', batch_chronological)
-    # فایل configs4 قدیمی حذف شد و فایلی که فقط ۲ ساعت اخیر را دارد اینجا با نام configs4 ساخته می‌شود
     save_output('configs4.txt', batch_under_1_hour)
 
     with open('data.temp', 'w', encoding='utf-8') as f:
