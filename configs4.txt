@@ -364,3 +364,19 @@ vless://699fca60-533f-4436-38db-7881c2150fe2@8.222.185.236:443?path=%2Fsocks5%3D
 
 vless://524f9886-021a-4984-bf42-a38160ff1d9d@pxec1.azangooo.ir:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=android&type=ws&allowInsecure=0&sni=MS_sw5ffac9b0a6188fe4-sfX.digitstocks.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev:2096?path=%2F%3Fed%3D2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev&fp=random&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@45.131.208.28:2096/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%A7%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.148.151:80?type=ws&host=kr1.175852.xyz&path=/abcde#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@Chatgpt.com:8443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.momoroh506.workers.dev&fp=random&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.momoroh506.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@188.114.98.0:2052?mode=auto&path=%2Fpabloping%2F&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40vmess_ir
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?type=ws&host=cs.laoyoutiao.link&path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=none#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
