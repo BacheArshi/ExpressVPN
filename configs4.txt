@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://287c459f-43d0-43c6-95ee-07afe75faa59@s4.nettool.ovh:34221?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
 vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Outline_ir
 
 vless://0aa27781-4b2e-42e1-b369-fb91445f9931@vip-78.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
@@ -265,4 +263,16 @@ vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=/&secur
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@v2.dabache.top:2053?encryption=none&security=tls&sni=ir1.airpanel.top&insecure=1&allowInsecure=1&type=ws&host=ir1.airpanel.top&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=p1.thisiswe.uno#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+vless://524f9886-021a-4984-bf42-a38160ff1d9d@pxec3.azangooo.ir:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=android&type=ws&allowInsecure=0&sni=MS_swec5e075c79e13139-sfX.digitstocks.ir#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&sid=d020b2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://524f9886-021a-4984-bf42-a38160ff1d9d@pxecmt1.azangooo.ir:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=android&type=ws&allowInsecure=0&sni=MS_sw3dc39813ef33db2b-sfX.digitstocks.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://mahanvpn-free-iran5@188.114.98.0:443?path=%2Fassets&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=MAHANteAm.noD32Cpu.iR&fp=ios&type=ws&sni=MAHANteAm.noD32Cpu.iR#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://524f9886-021a-4984-bf42-a38160ff1d9d@pxec2.azangooo.ir:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=cpt1.digitstocks.ir&fp=android&type=ws&allowInsecure=0&sni=MS_sw6f651aec742874b1-sfX.digitstocks.ir#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
