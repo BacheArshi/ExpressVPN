@@ -356,3 +356,33 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.204:443?security=tls&sni=
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@172.67.79.49:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@drtevhwqyeccloxmbosi.02.karyl.top:32102?allowInsecure=1&sni=sg.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@q5afdjh94uowds8e6qba.02.karyl.top:32104?allowInsecure=1&sni=us.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@qhs24nzddctscf9arbjv.03.karyl.top:32100?allowInsecure=1&sni=tw.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://4b07a8c2-b3ec-4148-9f6a-5371cebb10e3@174.136.205.68:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@ohgvxptrmsgfn1exmta5.01.karyl.top:32103?allowInsecure=1&sni=jp.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@gsa4ufwp2l9zfkq61evv.a.karyl.top:32201?allowInsecure=1&sni=s1.hdslb.com&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://56f2048b-0670-4f92-938b-73f0280bd5e7@174.136.205.68:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@c0qv5uiudxnbgypm61zm.02.karyl.top:32103?allowInsecure=1&sni=jp.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@b8mqgwecvs3pl02mxyxa.a.karyl.top:32207?allowInsecure=1&sni=s1.hdslb.com&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@4qo9dogafu63htxlyicp.a.karyl.top:32209?allowInsecure=1&sni=s1.hdslb.com&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@4uk0bc9p7fprns2iwjzl.b.karyl.top:32202?allowInsecure=1&sni=s1.hdslb.com&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d8f7c2d0-6a74-432f-8478-0c9dae4b0fc9@174.136.205.68:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@cdeppuyslwalotamrzqj.03.karyl.top:32101?allowInsecure=1&sni=hk.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://acf3a1a8-5d2c-455b-be63-585136cfd292@8exekgwmz6af0iwvg4cq.02.karyl.top:32103?allowInsecure=1&sni=jp.karyl.cc&ws=1&wspath=%2F#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://turboo-server@188.114.97.3:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com&fp=chrome&type=xhttp&allowInsecure=0&sni=turvfsogotgbdfkmvgmkleklf.infinitecreativehorizons.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vpnplusee_free
+
