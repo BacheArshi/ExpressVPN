@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvbgt6.19890614.qzz.io:443?fp=chrome&host=dcvbgt6.19890614.qzz.io&path=%2FIq3945Zsqn8vTUO56&security=tls&sni=dcvbgt6.19890614.qzz.io&type=http#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@129.153.71.226:443?flow=xtls-rprx-vision&fp=ios&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&security=tls&sid=aac4df9d05a5ba8f&sni=iosapps.itunes.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?fp=chrome&host=d2-us1.djwstlsweb.top&path=%2Fdjjc%2Fus1&security=tls&sni=d2-us1.djwstlsweb.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?fp=ios&host=d2-us3.djwstlsweb.top&path=%2Fdjjc%2Fus3&security=tls&sni=d2-us3.djwstlsweb.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://14818654-7689-453a-9a1f-4c72f89782d5@94.131.104.225:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@dcvbnjk.1gg.ccwu.cc:443?fp=chrome&host=dcvbnjk.1gg.ccwu.cc&path=%2FIq3945Zsq0HtELweVlUch&security=tls&sni=dcvbnjk.1gg.ccwu.cc&type=http#%F0%9F%87%A8%F0%9F%87%A6%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAiZGZnaHR5Ni4wb3UuY2N3dS5jYyIsICJhaWQiOiAwLCAiaWQiOiAiOGVhMWI4OWYtMjFkNS00OWI5LTliY2QtMWFkOWFjMzliNGJhIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwb3J0IjogODAsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICJkZmdodHk2LjBvdS5jY3d1LmNjIiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBIVFRQVXBncmFkZS1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
-
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=ipv4.yasharteam.com&fp=chrome&alpn=h2,http/1.1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?fp=ios&host=d2-us4.djwstlsweb.top&path=%2Fdjjc%2Fus4&security=tls&sni=d2-us4.djwstlsweb.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&host=vpnazadie.store&type=ws&sni=telegram.vpnazadie.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
-
 vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxMDQuMjEuNzUuNzUiLCAicG9ydCI6IDQ0MywgImlkIjogImIwMjA4NjViLTc0MDQtNDg5NC1iYTY1LWE3NDE0YjEwY2RhMyIsICJhaWQiOiAiMCIsICJzY3kiOiBudWxsLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJqay44NTc4NTYueHl6IiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvYm9XVVZhVTBzeHJOdEZTZE9QanFTYzdmemVKciIsICJ0bHMiOiAidGxzIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyAxODUiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
 vless://34778794-72e8-4862-b1e7-6e6c3ba894be@104.21.14.4:443?security=tls&encryption=none&sni=vbbns.1c0.ccwu.cc&type=ws&host=vbbns.1c0.ccwu.cc&path=/eDVWlsljXYWmzP5D1vsO&allow_insecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -139,4 +119,24 @@ vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvl
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
 
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://44e9431f-6566-4ce9-b851-35c25acb7dca@152.42.174.20:443?security=tls&sni=aka.ms&type=grpc&alpn=h2%2Chttp%2F1.1#%F0%9F%87%B8%F0%9F%87%AC%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@162.159.36.5:8443?type=ws&security=tls&sni=ovhwuxian.pai50288.uk&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.138:2096?security=tls&type=ws&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.79.104.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a893f940-8725-4b3e-8b77-caa1380e95dc@77.83.245.171:43816?security=reality&encryption=none&pbk=2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&sni=yandex.ru&sid=2aa4fcbeaed2ad23#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?security=tls&type=ws&path=%2F%3Fed&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE1NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsYW1tYWxhbmQub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJpbnNlY3VyZSI6ICIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
