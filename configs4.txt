@@ -292,3 +292,9 @@ trojan://galhopp2-ed4a-1v37-l5xs-bq4yx29vsgj0@127.0.0.1:2080?security=tls&type=t
 
 trojan://3kw8i117-65t9-gyen-k7k9-948ry1555h5x@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+vless://be016e95-d119-44d7-8a79-677740d5116d@188.114.97.3:443/?type=ws&encryption=none&flow=&host=nnet.online&path=%2Fvless-tls&security=tls&sni=vpn.nnet.online&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1e823993-86ac-3ead-89b5-227e73825fdb@104.18.42.54:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
