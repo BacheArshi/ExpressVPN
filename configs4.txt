@@ -302,3 +302,15 @@ vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@162.159.46.151:2096?encryption=none
 
 vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@sahand.cocomelon.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=finance.yahoo.com&fp=chrome&pbk=1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0&sid=dd8ca121bb77dad9&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
+trojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@fffvg.7777125.xyz:443?hiddify=1&sni=fffvg.7777125.xyz&type=ws&alpn=http%2F1.1&path=%2FcSIyXrtyqeOFepMpfNkCk8&host=fffvg.7777125.xyz&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F141.0.0.0%20Safari%2F537.36%20OPR%2F125.0.0.0%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://1f47ba31-eb58-4e53-ab48-77ee85a5ddbf@new-de.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&host=pulavpn.net&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=77a3a1c829040294¬e=---@Ho3ein_ezd#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.22:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com#%F0%9F%87%BA%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@ip1.foxline.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=day-light.global.ssl.fastly.net&fp=chrome&type=ws&sni=day-light.global.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://66b2d54e-85ae-4664-88a2-90d70808d624@mv2.amydoodles.com:443?mode=auto&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=baba-nazan-h1.global.ssl.fastly.net&fp=firefox&type=xhttp&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e640447-a590-07d0-9ec3-cbad6fd85b1e@5.188.141.131:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
