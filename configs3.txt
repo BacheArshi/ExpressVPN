@@ -3362,3 +3362,5 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@146.56.42.31:48652?security=tls&sni
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.22.62.137:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10006?security=reality&encryption=none&pbk=XUVBEFyxevBwoGwVlo31vXMR_wQ0h0UnhzC4jCeakkc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=590bdc3b6dad#%F0%9F%87%A8%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
+
