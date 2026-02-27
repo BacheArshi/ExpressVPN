@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.180.157:2053?path=/?ed=2560&telegram🇨🇳#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://JT82NfVfBaVbehRbuIvttb@45.89.52.5:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=tr2.alice#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.248:443?type=ws&encryption=none&host=tar.alabama-tigr.info&path=/love&security=tls&sni=tar.alabama-tigr.info&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ffb6d3c1-103d-4168-9b75-e1cb5b7212b9@670w.smarteracloud.com:443?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&host=Tp022Am1W9.tRuStFoRtEaM.cOm&type=xhttp&allowInsecure=0&sni=Tp022Am1W9.tRuStFoRtEaM.cOm#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40flyv2ray
-
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.165.137.202:8443?encryption=none&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram🇨🇳#%F0%9F%87%AB%F0%9F%87%AE%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://a4c6bbd7-6ea5-44b2-9829-08f5ae615d49@n1761184273.mv7wh.tech:443?encryption=none&security=tls&sni=n1761184273.mv7wh.tech&fp=chrome&type=ws&host=n1761184273.mv7wh.tech&path=/a4c6bbd7-6ea5-44b2-9829-08f5ae615d49#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -257,4 +247,24 @@ vless://64aafe63-ef36-4da5-8bf9-838d767bfe74@51.250.0.147:443?security=reality&e
 vless://851aa636-6d4b-40e1-b484-f14ad697d2a1@144.31.63.7:443?security=reality&encryption=none&pbk=4YI0QbJYHCyl4-VWZPWAMccOmUW0c_XDE_rEZc-dNC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deout.funvideorus.net#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
 
 vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjIwMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAVjJyYXlCYWF6IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJrYW1wb25nLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+
+vless://a124ff5b-a430-46c1-89a8-92cec7450241@Ip-lo.polisheno.ir:2053?path=%2FVopjRRsaqhgt&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Dc5.iphone-shopp.ir&fp=chrome&type=ws&allowInsecure=0&sni=Dc5.iphone-shopp.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@193.164.155.38:443/?type=ws&encryption=none&flow=&host=tn1rr.qzz.io&path=%2Fsg-lnd&security=tls&sni=tn1rr.qzz.io#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.227.134:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://603f6524-7a34-473c-94fe-a967b6b25095@172.67.141.105:443?path=/vVI1iHEtIglbCpWc5gNlUuOCnhD&security=tls&encryption=none&host=uio.918918.shop&type=ws&sni=uio.918918.shop#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.155.209:2052?path=/&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.243.112.61:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMTc1LjEzOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiYjAyMDg2NWItNzQwNC00ODk0LWJhNjUtYTc0MTRiMTBjZGEzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAibWtvLjg1OTg4Ni54eXoiLCAiYWxwbiI6IG51bGwsICJwYXRoIjogIi9ib1dVVmFVMHN4ck50RlNkT1BqcVNjN2Z6ZUpyIiwgInRscyI6ICJ0bHMiLCAic25pIjogIm1rby44NTk4ODYueHl6IiwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE1NCIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+
+vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@poli.appleseraj.ir:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=emarate.appleseraj.ir&type=ws&sni=emarate.appleseraj.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@172.64.155.209:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=vpnazadie.store&type=ws&allowInsecure=0&sni=telegram.vpnazadie.store#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://3d142a41-8e57-47d7-a579-f52c6eae79f7@199.232.79.229:80?mode=auto&path=%2F-AzV2ry%3Fed%3D2056&security=&encryption=none&host=qbank.ir&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40v2ray_configs_pool
 
