@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@188.114.96.3:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttp#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-None%20%7C%20%40v2ray_configs_pool
-
-vless://1f47ba31-eb58-4e53-ab48-77ee85a5ddbf@new-gb.vcfco.ir:7500?security=reality&encryption=none&pbk=8a3blVdAACDlvRA5zrdNxHLZ9boU5QkwGMkf0WwyZVI&host=Pulavpn.net&headerType=none&fp=chrome&spx=%2FV2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-V2RRVIP-&type=tcp&flow=xtls-rprx-vision&sni=cdn77.com&sid=77a3a1c829040294#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.68.169.120:443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
@@ -423,4 +415,18 @@ vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@95.163.210.159:80?encryption=none&s
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@sahand.cocomelon.org:443?security=reality&encryption=none&pbk=1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finance.yahoo.com&sid=dd8ca121bb77dad9#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://Nova-Proxy@join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&host=join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev&fp=random&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@poli.appleseraj.ir:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=holand.appleseraj.ir&type=ws&sni=holand.appleseraj.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443/?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=uk.dlaparat.ir&type=ws&allowInsecure=0&sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e0c50817-86dd-4ee1-bca3-6e296d85dd59@grok.com:2083?mode=multi&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Love&allowInsecure=0&sni=blouck-de.gozarcloud.ir#%F0%9F%87%A8%F0%9F%87%A6%20GRPC-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@wiki.makemefree.info:2096?path=%2Firan%3Fed%3A2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=home.makemefree.info&fp=chrome&type=ws&sni=home.makemefree.info#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ec044d62-375a-4d6e-a112-817adb99dfb5@Vps.bkneed.ir:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=Kilerjxi.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
 
