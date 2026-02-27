@@ -124,3 +124,19 @@ vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMjE0LjEyMiIsICJwb3J0IjogODAsICJpZCI6
 
 vless://5be777c2-38f7-44cd-b653-c93b19967887@194.76.18.222:443?encryption=none&security=tls&sni=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&insecure=1&type=ws&host=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&path=/eyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#%F0%9F%87%B0%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@u89.003330333.xyz:443?type=ws&security=tls&sni=u89.003330333.xyz&host=u89.003330333.xyz&path=%2FF24D1rlC85bVBOSONBms&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://5dad3126-4eac-4fbe-a366-71218c43c45d@104.26.15.152:2083/?path=%2F&security=tls&fragment=1%2C40-60%2C30-50%2Ctlshello&insecure=1&host=free1.kpchannel.ooguy.com&type=ws&allowInsecure=1&sni=free1.kpchannel.ooguy.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.67.219.157:443?security=tls&encryption=none&sni=vvvbbbnhj.taipei102.indevs.in&alpn=http/1.1&fp=chrome&type=ws&headerType=none&host=vvvbbbnhj.taipei102.indevs.in&path=/391sfnZ2bBhmKb8nOkg&allow_insecure=true#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://5f6c3f92-7220-4275-b34d-57c04db3f967@mmkjiu.ok1.indevs.in:443?type=ws&security=tls&host=mmkjiu.ok1.indevs.in&path=%2FF24D1rlC85bVBOSONBms#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=one-piece.com&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://8910cbb3-33b1-4266-a243-ac780ac63394@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%87%A6%F0%9F%87%B1%20WS-None%20%7C%20%40FreakConfig
+
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40FreakConfig
+
