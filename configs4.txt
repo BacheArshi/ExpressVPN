@@ -1,29 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?type=ws&encryption=none&host=d2-jp2.djwstlsweb.top&path=%2Fdjjc%2Fjp2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=ios&sni=d2-jp2.djwstlsweb.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://8d4b9b9b-a20f-4ae0-b5fb-1651201a0620@104.21.55.47:2053?security=tls&encryption=none&insecure=0&host=netlight.xr66.ir&type=ws&allowInsecure=0&sni=netlight.xr66.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?type=ws&encryption=none&host=d2-jp2.djwstlsweb.top&path=%2Fdjjc%2Fjp2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=safari&sni=d2-jp2.djwstlsweb.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@63.141.128.188:443?type=ws&encryption=none&host=d2-de1.djwstlsweb.top&path=%2Fdjjc%2Fde1&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=ios&sni=d2-de1.djwstlsweb.top#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?type=tcp&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@143.47.237.215:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=ios&sni=iosapps.itunes.apple.com&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://c501c66b-c6c2-456b-b604-80393b83d67f@37.139.35.53:443?mode=gun&security=reality&encryption=none&pbk=_oEGDYSSHrqmbHEUoHbp6YnmNTcXTVdWXcDmpi3JdH0&fp=chrome&type=grpc&serviceName=UpdateService&sni=eh.vk.com&sid=aefbcf7fc283bd55#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@c8217-b2a.h1.49d2.5e11.613.b297.djjsvip.cfd:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=safari&sni=www.microsoft.com&pbk=-QnsFApdhq1l1d2h302qhAs7usDdWLBTAOeMH54dwmU&sid=c2bdc032#%F0%9F%87%B9%F0%9F%87%BC%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ad49d6ea-c453-4a2e-b36a-2b71a3e0ed12@141.148.207.7:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=xtls-rprx-vision&fp=safari&sni=musicstatus.apps.apple.com&pbk=qkP2pqQ3NHNBkyzqsC2W9wChp3OfeXdVjOhUv8vQW0o&sid=aac4df9d05a5ba8f#%F0%9F%87%AE%F0%9F%87%B3%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9d297e31-e65d-45d7-8362-8c4bd3bf8b2a@sv2n.tsteamzd.top:10002?security=none&type=tcp&headerType=http&path=%2F&host=zarebin.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnplusee_free
-
 trojan://humanity@v1.dabache.top:443?type=ws&security=tls&sni=www.multiplydose.com&path=%252Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://4a942a11-2178-4b10-af73-15b1cfee99df@172.67.73.14:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -239,4 +215,6 @@ vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?type=ws&encryp
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
 vless://6c827f78-f774…#%F0%9F%8C%90%20TCP-None%20%7C%20%40HajmVPN_Config
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
