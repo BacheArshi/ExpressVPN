@@ -3536,3 +3536,13 @@ vless://f36b76da-6c4a-44c9-b6ad-4dbd374c7227@Join.ShhProxy.Site:443?path=%2F&sec
 
 vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?mode=auto&path=%2F%40custom_config&security=reality&encryption=none&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&type=xhttp&sni=yahoo.com&sid=fbe3b0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
 
+vless://2a318751-af28-41c6-8bd6-1ae254832536@highspeed.jafarghasemiturk.ir:2053/?type=ws&encryption=none&flow=&host=jafarservices.jafarghasemiturk.ir&path=%2Fws&security=tls&sni=jafarservices.jafarghasemiturk.ir&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://69f1ac23-ceb0-4f20-bf26-0488fc0a897e@ru-cdn.ultima.foundation:2443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&security=reality&sni=eh.vk.com&type=tcp&name=TG:YoutubeUnBlockRu#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://d5226296-c3ec-435b-a1c8-a81c770b3c2a@198.38.86.30:2083?type=xhttp&security=none&encryption=none&path=/xhttp&mode=auto#%F0%9F%87%AE%F0%9F%87%B3%20XHTTP-None%20%7C%20%40v2ray_configs_pool
+
+vless://ea9ba1ec-bfe7-407b-bd21-aeebc86da741@77.83.246.88:443?security=reality&encryption=none&pbk=5P5lwGRGhGJATZMYduxof-ZR6eb5lzUpsbdDNddT4l4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=71e87186710e710e#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@62.141.42.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&sid=81#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
