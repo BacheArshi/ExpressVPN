@@ -124,3 +124,9 @@ vless://e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2@91.107.190.249:2095?path=%2F%40hash
 
 vless://99bfccdb-c4ac-4add-e42c-cc7172970dab@91.107.190.249:2052?path=%2F%40hashmakvpn+%F0%9F%87%A9%F0%9F%87%AA&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
 
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.155.209:443?path=%2F%3Fed&security=tls&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&sni=powered-by-surena.user68f797c2f3e1b.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://00000000-0000-4000-8000-000000000000@8.209.220.50:21273/?type=ws&encryption=none&flow=&host=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&path=/@Marisa_kristi&security=tls&sni=0svchmb3c4f5y4ll-vxn7qy.saghv.filegear-sg.me&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.com&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
