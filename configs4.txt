@@ -268,3 +268,7 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.30:23335?security=realit
 
 vless://cd98b622-9c24-4d33-af57-81da8477966b@us.persianvps.de:1160?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2FERl
 
+vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80/?type=ws&encryption=none&flow=&host=akamaized.net&path=%2Fvless%2F#%F0%9F%87%AB%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzMC4yNiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJnYm5oLjBubi5jY3d1LmNjIiwgImlkIjogIjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInBvcnQiOiA4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLU5vbmUgfCBAdjJyYXlfY29uZmlnc19wb29sIn0=
+
