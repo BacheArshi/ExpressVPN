@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@ghj.huangdi2025.dpdns.org:443?path=/4e633j8uZI4BWzwNzcYz&security=tls&alpn=http/1.1&host=ghj.huangdi2025.dpdns.org&type=ws&sni=ghj.huangdi2025.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@95.163.210.159:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@sahand.cocomelon.org:443?security=reality&encryption=none&pbk=1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finance.yahoo.com&sid=dd8ca121bb77dad9#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
-
 trojan://Nova-Proxy@join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443?path=%2F%3Fed%3D2560&security=tls&host=join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev&fp=random&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://2f2af478-e99b-4dd4-a6ff-d3b94449b483@poli.appleseraj.ir:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=holand.appleseraj.ir&type=ws&sni=holand.appleseraj.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -83,6 +73,8 @@ vmess://eyJhZGQiOiAiMTcyLjY3LjIxOS4yMDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAi
 vmess://eyJhZGQiOiAiMTA0LjIxLjkxLjEyOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtZ2hubmJqLjF5eS5jY3d1LmNjIiwgImlkIjogIjRlNDVjMWI0LTkxMDctNDVkZC05OTk1LWNkZjdjYmI0NGQ5ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwgInBvcnQiOiA4MCwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBvbmVjbGlja3ZwbmtleXM6OlhYOjpYWDo6VVM6OlhYOjpYWDo6WFg6OlhYIiwgInBzIjogIlx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNiBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052/?type=ws&encryption=none&flow=&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@172.64.155.209:443/?type=ws&encryption=none&flow=&host=apii.onlineshoppingez.ir&path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&sni=apii.onlineshoppingez.ir&alpn=http%2F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vmess://eyJ2IjogbnVsbCwgImFkZCI6ICIxNzIuNjcuMjE0LjIxIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1Y2NjYjRkYS04YWVlLTRiMDEtYmU4NC0yMDU2MjY1ZTUyZGMiLCAiYWlkIjogIjAiLCAic2N5IjogbnVsbCwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiampqay4xOTEyNjgueHl6IiwgImFscG4iOiBudWxsLCAicGF0aCI6ICIvQXdVSnlHaDlZbTZ2VnpnMzVBNnVleXlabldkIiwgInRscyI6ICJ0bHMiLCAic25pIjogbnVsbCwgImZwIjogbnVsbCwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDE5NiIsICJwcyI6ICJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgV1MtVExTIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
@@ -239,4 +231,14 @@ vless://8880a102-7c54-40fb-8508-88d7b28b2014@144.31.197.124:443?security=reality
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://15a8a868-ddd3-4a8c-bf7a-bb81671bf157@f1.springpaatogh8.store:8443?path=/?ed=2560/AKBARCONFIG/Telegram/AKBARCONFIG/Telegram/AKBARCONFIG/Telegram/AKBARCONFIG&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9e308743-bc58-4109-b8a8-c2c686959c65@vvbggs.988988.shop:443?encryption=none&security=tls&sni=vvbggs.988988.shop&insecure=0&allowInsecure=0&type=ws&host=vvbggs.988988.shop&path=%2FI4W63AAjPkpe1D3pAvPtZpEoeO#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://000123@masterserver1-masterserver1-masterserver1-masterserver1.semanik588.workers.dev:443?path=/?ed=2560&security=tls&host=masterserver1-masterserver1-masterserver1-masterserver1.semanik588.workers.dev&fp=chrome&type=ws&sni=masterserver1-masterserver1-masterserver1-masterserver1.semanik588.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=4a3ad88ff867a295&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@ipbaz.ping-box.com:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
