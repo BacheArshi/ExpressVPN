@@ -124,6 +124,8 @@ vless://98aec3c3-d957-4363-9933-018e533c7c06@104.16.139.37:443?path=/&security=t
 
 trojan://telegram-id-v2rayvpnchannel@15.236.70.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
 
+vmess://eyJhZGQiOiAiMTA0LjIxLjQwLjY2IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICJ1ampqbWtray43Nzc3MTEyLnh5eiIsICJpZCI6ICIyYmZlNThmNy1kYTFkLTQ1ZGYtYWI0My03YzY2NWIyMGVlMjkiLCAibmFtZSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMjk5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90MVVWNEhTcnpiV0dtSnRiQmhtS2I4bk9rZyIsICJwb3J0IjogNDQzLCAic2N5IjogImF1dG8iLCAic25pIjogInVqampta2trLjc3NzcxMTIueHl6IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbCwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IFdTLVRMUyB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
+
 vmess://eyJhZGQiOiAiNDUuMTMuMjI3LjExOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLigpLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4iLCAiaWQiOiAiOGNlNjQ2NjItZjhiOC00OTU1LWJkZjItYTU1YjgyMWJjNGFhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9leUpxZFc1cklqb2lOREJOV0dZM1owTlBkMGxvWjJZaUxDSndjbTkwYjJOdmJDSTZJblpzSWl3aWJXOWtaU0k2SW5CeWIzaDVhWEFpTENKd1lXNWxiRWxRY3lJNlcxMTkiLCAicG9ydCI6IDgwLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInBzIjogIlx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmMSBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
 
 vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.153.187:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -411,4 +413,14 @@ vless://d95e192e-1050-48ae-ae54-6fd8f6c389a3@45.136.128.184:443?security=reality
 vless://07c87666-ece0-4ffd-9ef1-51180fc5c320@ip.linux-panel.com:1517?security=none&type=tcp&headerType=http&path=%2F&host=testspeed-foreign.tci.ir#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
 
 vless://97d216c9-7561-45fa-fd67-e56fde36360b@193.58.119.134:443?security=none&encryption=none&host=google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40NETMelliAnti
+
+vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@ghj.huangdi2025.dpdns.org:443?path=/4e633j8uZI4BWzwNzcYz&security=tls&alpn=http/1.1&host=ghj.huangdi2025.dpdns.org&type=ws&sni=ghj.huangdi2025.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@95.163.210.159:80?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?path=/?ed=2560&telegram🇨🇳@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8@sahand.cocomelon.org:443?security=reality&encryption=none&pbk=1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=finance.yahoo.com&sid=dd8ca121bb77dad9#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
