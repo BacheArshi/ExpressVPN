@@ -706,3 +706,13 @@ vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.118.3:80?type=ws&host=kr1.17
 
 vless://e9b9b46b-3a65-4216-be55-4c176be5a277@138.2.68.200:57866?security=tls&sni=xiaoer88602.xiaoer886.dynv6.net&type=ws&host=xiaoer88602.xiaoer886.dynv6.net&path=TG%40juzibaipiao-%E6%A9%98%E5%AD%90%E5%88%86%E4%BA%AB#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
+trojan://2k7p5iwa-1b02-aoeu-2g2m-ce2qvquhyman@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://ha6zs32t-p1m2-196f-66ut-ffi2rn7hb01f@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://5rumao0l-8b4j-u1h5-2iuw-0x1mtvpqzlym@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@37.139.34.145:443?type=tcp&security=reality&sni=m.vk.ru&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-directvpn@3.65.251.210:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
