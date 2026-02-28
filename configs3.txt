@@ -1174,3 +1174,7 @@ vless://e8fb0f43-3497-4ef3-8a89-35bae56549b7@93.94.51.8:13380?security=reality&e
 
 vless://87580984-c2ef-4f44-9c7e-0b216f99aa87@93.94.51.19:56864?security=reality&encryption=none&pbk=AIt19ZFk_JxCvW7OOwUn4mhE_1alZJlNj-xnQOpPZCI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=2e3c82922ef98049#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://c52064f6-67f3-43cd-ada7-29d3cc1623cd@k5.adamak.top:11035?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmessorg
+
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@95.163.211.13:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
+
