@@ -236,3 +236,5 @@ vless://escovpn_69551ragul@94.177.13.135:442?type=tcp&security=reality&sni=googl
 
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@yhj.huangshang2026.indevs.in:443?sni=yhj.huangshang2026.indevs.in&peer=yhj.huangshang2026.indevs.in&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?type=ws&security=tls&sni=hetz.x-smm.com&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
