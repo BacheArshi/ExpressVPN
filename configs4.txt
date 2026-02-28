@@ -24,3 +24,7 @@ vless://2500b5d3-b7d6-41e7-8e28-2ba244e0917a@217.60.244.15:2095?security=none&ty
 
 vless://a7b1b295-89c0-4794-bc3b-13af6cf63312@109.120.180.30:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&path=/&fp=chrome&pbk=htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE&sid=edbc04c389#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
+trojan://BxceQaOe@18.162.51.53:45285?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
