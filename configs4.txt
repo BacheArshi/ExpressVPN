@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
-
 vless://ac1f64ca-3d3d-4c98-abef-883155e94f26@ge.x2net.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=ge.x2net.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Spotify_Porteghali
 
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&%3Bsecurity=tls&%3Bhost=ubu.okaoclax.me&%3Btype=ws&%3Bsni=ubu.okaoclax.me#%F0%9F%87%B8%F0%9F%87%AC%20TCP-None%20%7C%20%40v2nodes
@@ -61,4 +59,12 @@ vmess://eyJhZGQiOiAiRlJtZmMuY3djLWNla2luLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIs
 vless://81f8391d-13c9-4c82-86c7-60993a8632ff@Fnfkf.faste-serv.com:5938?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40BugFreeNet
 
 vmess://eyJhZGQiOiAiVHVkaWNtLXRrLmRlc3J0LWkuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICIxMzBiNGZlZC0wNmNhLTQ2NTEtYjUxOC0yOGQxMGExYWRmNjEiLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL2dzbXgiLCAicG9ydCI6ICI4MiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBAQnVnRnJlZU5ldCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@dis1x.uae.neural-portal.com:8887?mode=auto&path=%2F&security=none&encryption=none&host=gbaz.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@caxp8.ru.neural-portal.com:8886?mode=auto&path=%2F&security=none&encryption=none&host=gbaz.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@jx1z5.de1.ion-quantum.com:8881?mode=auto&path=%2F&security=none&encryption=none&host=gbaz.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@t7p9a.uk.modern-surge.com:8884?mode=auto&path=%2F&security=none&encryption=none&host=gbaz.ir&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
 
