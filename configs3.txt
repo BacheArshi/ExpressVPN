@@ -2196,3 +2196,13 @@ vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@178.162.242.24:443?type=tcp&securit
 
 vless://0c942b51-66f2-4788-98c3-8cf58954421b@91.107.159.32:22?type=grpc&security=reality&fp=chrome&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
 
+trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gr1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40vmess_iran
+
+vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@hub1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40vmess_iran
+
+vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@moh1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40vmess_iran
+
+vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gb1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40vmess_iran
+
