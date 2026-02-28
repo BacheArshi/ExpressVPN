@@ -58,3 +58,15 @@ vless://22fc4701-8c86-4d4f-a858-8f5921d83977@144.31.129.172:443?security=reality
 
 vless://5b6c6456-8544-4099-9f06-fc2e219a9baa@azinsite.amir777.sbs:2010?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
+trojan://ypyg7lbj-h1xv-qe6n-rh23-98msnv9t84u6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://7xsdxxf9-c2mn-dm5i-nuel-7qyct910ixjt@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://72iw5mfe-dlvb-sz7e-fg31-8cj262z6qog6@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://c915a857-a088-4292-b182-25cb30507275@130.193.59.133:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@178.162.242.24:443?type=tcp&security=reality&sni=www.jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://0c942b51-66f2-4788-98c3-8cf58954421b@91.107.159.32:22?type=grpc&security=reality&fp=chrome&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
+
