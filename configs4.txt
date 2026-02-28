@@ -42,3 +42,5 @@ trojan://e6ykgoke-4ah4-ai3m-k1xf-ug24teb2s9t5@127.0.0.1:4080?security=tls&type=t
 
 vless://a1a04d74-79e6-e5c8-5380-b74ed56f7b04@armenia.unlimiteds.sbs:874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=armenia.unlimiteds.sbs#%F0%9F%87%A6%F0%9F%87%B2%20TCP-None%20%7C%20%40ConfigV2rayNG
 
+vless://621d5f40-707c-40f0-8b5c-253d38e1d0cb@95.163.210.159:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
