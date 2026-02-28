@@ -44,3 +44,5 @@ vless://5ee40272-88da-455f-84f2-afe1e7bf6a99@norbert-2.conf-tun.site:11112?secur
 
 vless://b4adc526-acc0-4347-a836-0e179451c82d@107.174.181.241:8443?security=reality&encryption=none&pbk=O0oplKJbcs9bjogO_OIrHYHjuNWhf0Kt5hGRNbYHZic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=abcd1234#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://56e0b162-f4d5-c960-1154-4ebbd37abf49@85.133.250.33:666?encryption=none&type=tcp&headerType=http&host=zula.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
+
