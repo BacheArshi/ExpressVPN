@@ -72,3 +72,7 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.130:80?security=none&type
 
 vless://be69896f-e641-41d9-bfc8-1e30885263d2@141.98.234.40:62520?security=reality&encryption=none&pbk=OTbIHKT0UyR2T2ooCpI0Ozivr1JHUwOs29LQHtYltkk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=46319295d140d75d#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://d78542f1-cc90-42a9-9cc4-56fceeff63fa@bia.gdsrguydsrghj.ir:600?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Vip_fragment_v2ray
+
+vless://e384913f-8863-47b4-8858-a84b68abb4a6@178.72.145.23:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=xyz&fp=chrome&sni=eh.vk.com&pbk=qflDse4yNSmw5uo74Leu1S9lHAcP9ThsanYSkZYSPTs&sid=34a4ccbd1e2be450#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2nodes
+
