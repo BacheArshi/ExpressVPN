@@ -694,3 +694,5 @@ vless://37ce2f1a-7c49-45bf-aab3-821cb86e7849@germany4.modem99.ir:2702?security=n
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
 
+vless://ac1f64ca-3d3d-4c98-abef-883155e94f26@ge.x2net.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=ge.x2net.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Spotify_Porteghali
+
