@@ -18,3 +18,27 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.188:443?security=tls&sni
 
 vless://a9877123-5f57-42cd-ba49-0b0514be53f5@104.16.144.152:8080?security=none&type=ws&host=unlimiteddev-vpn.unlimiteddev.Community.#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+trojan://qerxhq0a-n7jm-pvfm-3vkn-62v526y7xl76@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://2kehlwam-k70a-05j1-1nfz-wzy9vls569ee@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://x0njao8w-px7z-04ji-pmrl-kmnwnc7kc89f@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://qmm25klz-eyrj-dom5-xtne-9332qqirr7hb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://gymq5l5y-e4fu-y4bz-n1l2-bamb107puqa8@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://3w3jnmkh-xmx1-7f1m-7gnr-3rxdhvqcvvs9@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://humanity@104.18.32.47:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?sni=kuame.missionsec.us&peer=kuame.missionsec.us&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://do0dy8z1-htl7-s39o-4cgn-tss5zkg2wvbl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://g8hen5co-gvga-7izk-4zl5-07ers29huhhi@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://e6ykgoke-4ah4-ai3m-k1xf-ug24teb2s9t5@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://a1a04d74-79e6-e5c8-5380-b74ed56f7b04@armenia.unlimiteds.sbs:874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=armenia.unlimiteds.sbs#%F0%9F%87%A6%F0%9F%87%B2%20TCP-None%20%7C%20%40ConfigV2rayNG
+
