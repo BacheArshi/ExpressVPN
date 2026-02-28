@@ -690,3 +690,13 @@ vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@87.107.162.104:443?security=none&ty
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.185.236:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+vless://6aca4d75-3b81-4d29-a951-3b8d5dd7470e@it0.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2342?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Spotify_Porteghali
+
+vmess://eyJhZGQiOiAiR1IxLVB1YmxpYy1JUi5nMmdzdG9yZS5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJkaXZhcmNkbi5jb20iLCAiaWQiOiAiYWU1NjUxMWQtNmIzOS00NTRiLTg0N2ItYjcxMTc4MmQxOGNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiOTExOSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+
+vless://ac1f64ca-3d3d-4c98-abef-883155e94f26@ge.x2net.top:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=ge.x2net.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
+
+vless://53e3ad33-7ca3-0393-f8db-3c56cca64686@address1.vector-reactor.ir:443?path=%2Fwss%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=app.vector-reactor.ir&fp=chrome&type=ws&sni=app.vector-reactor.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
+
+vless://d268df3a-b47d-46fc-994f-41f6f9da5aa9@us.x2fastt.top:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=ws&sni=us.x2fastt.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
+
