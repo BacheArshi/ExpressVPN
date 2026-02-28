@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://ypyg7lbj-h1xv-qe6n-rh23-98msnv9t84u6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://7xsdxxf9-c2mn-dm5i-nuel-7qyct910ixjt@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://72iw5mfe-dlvb-sz7e-fg31-8cj262z6qog6@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://c915a857-a088-4292-b182-25cb30507275@130.193.59.133:8443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://f23b2b7e-c876-4f7f-bca5-20a4f57c3864@178.162.242.24:443?type=tcp&security=reality&sni=www.jobinvest.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://0c942b51-66f2-4788-98c3-8cf58954421b@91.107.159.32:22?type=grpc&security=reality&fp=chrome&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
-
 trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gr1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40vmess_iran
@@ -39,4 +27,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.87.52:80?security=none&type=
 vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@132.145.93.198:2083?security=tls&sni=2022585a-86a7-4231-b3a0-eeda14f77f4d.8f18237c-8e5f-4ffb-a434-1b2948c87be3.ddnsfree.com&type=ws&path=%2Ffylink.pages.dev%2Fproxyip#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@hub1.wiziii.xyz:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
+
+vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gb1.wiziii.xyz:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
 
