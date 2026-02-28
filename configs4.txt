@@ -38,3 +38,9 @@ vless://dfab83c0-56c6-4e0a-8bdc-4ee6dda769f3@172.67.196.97:8080?security=none&ty
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.19.35.114:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+vless://5ee40272-88da-455f-84f2-afe1e7bf6a99@norbert-2.conf-tun.site:11112?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BugFreeNet
+
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=65ce6cee3941af69#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BugFreeNet
+
+vless://5ee40272-88da-455f-84f2-afe1e7bf6a99@norbert-2.conf-tun.site:11112?security=…#%F0%9F%8C%90%20TCP-None%20%7C%20%40BugFreeNet
+
