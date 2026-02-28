@@ -26,3 +26,5 @@ trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-w
 
 vless://194d0fc3-800b-44a1-be2f-3486051ab9b3@grr.x2net.top:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=grr.x2net.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Spotify_Porteghali
 
+vmess://eyJhZGQiOiAibWFjLnBrcG93ZXJraW5nLnh5eiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIsICJpZCI6ICI5MWRjZTU1ZS00N2M3LTQxNzYtYmU2MS0yMWIxMTIyZDljNDAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjM0MDgyIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBTcG90aWZ5X1BvcnRlZ2hhbGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
