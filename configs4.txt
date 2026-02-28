@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-privatevpns@15.236.70.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gr1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40vmess_iran
-
-vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@hub1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40vmess_iran
-
-vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@moh1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40vmess_iran
-
-vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gb1.wiziii.xyz:8085?encryption=none&type=tcp&headerType=http&host=telewebion.com&path=/?V_P_N_Ahmad#%F0%9F%87%AC%F0%9F%87%A7%20TCP-None%20%7C%20%40vmess_iran
-
 vless://703b10ad-c406-410f-b68c-31ec443c5f0a@185.146.173.185:2083?security=tls&sni=ca1.vless.site&type=ws&host=ca1.vless.site&path=%2FTEL_vpnAndroid2%2F%3Fed%3D2048#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
 vless://420cdff4-40fa-4b49-a078-008c5475bce1@188.212.97.169:2023?security=none&type=tcp&host=playstation.com&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
@@ -29,4 +19,6 @@ vless://d6b3de64-f0f8-4113-b49f-2660f3c031fb@132.145.93.198:2083?security=tls&sn
 vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@hub1.wiziii.xyz:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
 
 vless://193ef43d-4e63-41a5-95da-b8a0cea8197a@gb1.wiziii.xyz:8085?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayngSeven
+
+vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjIyYzM5NmEzLTk1ZGEtNGJlOC1iZWVmLTgzNGQxN2Q3NTc4NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDAzMCIsICJwcyI6ICJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
