@@ -38,8 +38,6 @@ vless://f075b138-4e46-4022-a625-c5dfe4ddf19c@172.67.193.157:8443?security=tls&sn
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.151.218:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
-vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@de-as2.connect-opengate.cv:8443?security=reality&encryption=none&pbk=muLYnqGdHhl_0kk555yqwJym0yMNS6yXNUYzlvhidF4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fastsync.xyz&sid=c912b13091f9e50d#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://05f0c31f-d127-4a4e-a43c-b040ba8e42d0@ru-tw-yt.connect-opengate.cv:8443?security=reality&encryption=none&pbk=xvvrurW0HVr8EtgNTG-alZweqKnO-PNtpl8n-sGUGCo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=shiftline.xyz&sid=5b53a1a319f9c803#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6354585c37827955#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
