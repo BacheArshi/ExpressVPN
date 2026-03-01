@@ -24,9 +24,9 @@ vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?type=ws&securit
 
 vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?mode=gun&security=reality&encryption=none&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&fp=chrome&type=grpc&sni=a.primarymaster.online&sid=c5b7244c0fef441a#%F0%9F%87%B7%F0%9F%87%BA%20GRPC-Reality%20%7C%20%40v2nodes
 
-vless://e65b6429-8cbb-45da-808d-21ac5499acb7@sanator-vipkaftar.api-tell.ir:9445?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 vless://695df8a2-e948-4906-83ab-18e680ef130b@213.142.149.156:14519?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40v2nodes
+
+vless://e65b6429-8cbb-45da-808d-21ac5499acb7@sanator-vipkaftar.api-tell.ir:9445?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?type=tcp&security=reality&sni=yandex.ru&path=/&fp=chrome&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&sid=34d8e80d8fa40501#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
 
@@ -901,4 +901,6 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.89.4:443?security=tls&sni=cf
 vless://82c91f31-470c-4ea7-8602-27e3d916d62b@62.60.212.209:8580?security=none&type=tcp&host=speedtest.net&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
 
 vless://d35db0ad-224c-4bf2-9ddc-f72eb26d3938@87.106.189.9:443?type=tcp&security=reality&pbk=h21nIjwib-HnJm4LOS6s80wmiAmib0WF2-qEe9qYg1M&fp=chrome&sni=yahoo.com&sid=2d05&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://400c1f85-9d3a-444a-8a50-81b11f3b4c20@178.154.224.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&security=reality&sid=3c1523da43287ec4&sni=ads.x5.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
