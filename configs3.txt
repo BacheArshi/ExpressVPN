@@ -982,3 +982,5 @@ vless://bf028773-b964-4529-93f2-fc168d89fb7b@109.95.67.200:25443?security=none&t
 
 vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&encryption=none&host=Myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&type=tcp&headerType=http&path=%2F&host=Myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
+
