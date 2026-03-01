@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://63inp6gb-7w9v-46b0-nnl9-p8i8s3a8ldn5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://txyuin36-ytg6-vcvd-tzt7-or1g0zq188tp@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://nxlpccca-ookw-jdb2-gqys-7z4mvcv5dr4q@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&sid=28bf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBsYW5CX25ldCIsICJhZGQiOiAiZ2VyLnNlcnZlci12aXAuY29tIiwgInBvcnQiOiAiNzA4MSIsICJpZCI6ICJhYzVmYzI0OC1lZTM5LTQyNDEtOGE0My01MTc1N2I2OGE3YWIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
-
 trojan://telegram-id-directvpn@35.181.225.239:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.225.239:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -221,4 +211,18 @@ vmess://eyJhZGQiOiAieDUubWVocmFkc2VydmljZS5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIi
 vless://951feaf5-c793-47c7-86fc-db85501ff9c8@entekhabat.iran.asiatech.numthree.iranvatanam.com:813?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40configraygan
 
 vless://27511a97-b005-4b76-8fb6-84a6b66997b0@next.bestirspeed.top:1008?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40configraygan
+
+vless://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@hk.tfree.top:10004?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=Rp0axdMMyjBY3su8yFECX1rMCcg90y0HcCHalmxs73Y&sid=494cf2&sni=www.cloudflare.com&servername=www.cloudflare.com&spx=/&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://f5ecae54-e502-4504-a5f6-018002dad489@81.12.80.72:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vmess://eyJhZGQiOiAiODEuMTIuODMuMjUwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogIjgxZmZlOGYwLWNmOWQtNWE5NC05NWNkLWYyN2Q5YjVmOGYyMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjUxIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBjb25maWdyYXlnYW4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://2cf00aaa-898f-4883-9eb7-ce5b56a1c1dd@Blue9.webjob7.eu:48486?security=reality&encryption=none&pbk=I2bozyAqYo5CxnJZ_WtX5uP_BcaujVBfXnYu85sU2FM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dash.cloudflare.com&sid=a629f128#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://1eb573db-365b-34f2-e5e1-43ced8643353@amin2.atlasz.ir:446?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://8b67a778-e406-44db-8f35-f6d236f45428@c5viip.forredeye.com:4015?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vmess://eyJhZGQiOiAiODEuMTIuMzMuMTY2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogIjA2YzFjMTA1LThjNjEtNGYzZi1iOWU4LTQ1NjEzZmUyYzQ3NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjEwMDYiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
 
