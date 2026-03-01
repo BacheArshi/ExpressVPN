@@ -128,9 +128,9 @@ trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&h
 
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.154:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&path=Telegram=@N3TWRK &sni=yahoo.com&sid=c39cc7310a&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://52737d41-b5d4-4cf2-a28b-d70e42a6e82b@m2.masih1-ah.site:57070?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
-
 vless://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&sid=eeaaae5d951ddea3&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40v2nodes
+
+vless://52737d41-b5d4-4cf2-a28b-d70e42a6e82b@m2.masih1-ah.site:57070?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
 
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?path=%2FhV829BTVzg35A6ueyyZnWd&security=tls&alpn=http/1.1&host=mMKK.WwW890604.DpdNS.OrG&type=ws&sni=mMKK.WwW890604.DpdNS.OrG#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
@@ -693,4 +693,8 @@ vless://08767088-d43b-4469-8f95-945d6eb95a91@85.9.110.99:80?security=none&type=w
 vless://f4986fca-cd10-4f8f-b232-444e866dcf3d@172.67.204.84:2086?security=none&type=ws&host=Cloutdcjvg.samancenter.com.#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
 vless://fb86e44c-6bb8-4ebb-9dfb-040f2821908a@KRT.starz-net.com:2089?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNg_madam
+
+vless://45913ab8-f6be-41f0-aca0-78b4fdcf1ce8@irfrance.tunelclub.top:48287?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://6d12fa79-2eab-4082-b5f5-90f3c4c08165@blog.telegrambot4.ir:60?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
