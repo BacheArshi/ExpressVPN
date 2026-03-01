@@ -18,8 +18,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.126.213:80?security=none&typ
 
 vless://cc9f7840-757a-430b-bddc-a73478bea434@deu469.unboundworld.org:8443?fp=chrome&security=tls&serviceName=grpc-vless&sni=deu469.unboundworld.org&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
 
-vless://3a4c06c8-4c43-4f2a-b813-416f401d22e2@pb3.ir:3306?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
-
 vless://4633c501-7487-4cd1-ade5-54c2efef2a4b@partners.dissertationhelpspecialist.com:443?mode=gun&security=reality&encryption=none&pbk=ZcgOydOxZfr51VUnsTqCGVGJYME6a_cOZ3L4fPvgkTo&fp=firefox&spx=%2F&type=grpc&serviceName=twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice-twixservice&sni=tgju.org&sid=611f53cf893b#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40azadi_config
 
 vless://2woOwUs/zbI+lIS1ef7fo8FabmePG9nCpmCa2P2wfBNlaXb/LwGmimdHg9eULSWHWJDVc1Ma4WKY6RyCYI8v7Hqii2JBStuibodTnLairhrQ3cLcvsSBFTyBHjlXyNrVQQbK96EVw3QSdlUsbULuqqcLyqgGKsVvlCqSeEZc8dKNclSUbmlpXSTyuqNkOea7#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
@@ -1153,4 +1151,6 @@ vmess://eyJhZGQiOiAiaXI3LmZhc3Rsb3ZlLnNicyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJm
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai%2Csoroushplus.com%2Cweb.igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
 
 vless://01055869-26df-4f17-bb7e-cfde6dc3d785@81.12.35.242:9000?security=none&encryption=none&host=bale.ai%2C+soroushplus.com%2C+web.igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://c29fbec1-f7ed-4233-b13c-2d22dbf83154@s5.laptopstock7.com:9976?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Vpn_Midas
 
