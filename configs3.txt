@@ -90,6 +90,8 @@ vless://17c4e377-ea15-0bb8-98b2-3e348c9ff5d9@89.208.228.167:443?encryption=none&
 
 vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?&fp=chrome&type=ws&headerType=none&host=www.ptnk.sry-vpn.com&path=%2Fvless#%F0%9F%87%B9%F0%9F%87%AD%20WS-None%20%7C%20%40v2nodes
 
+vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#%F0%9F%87%AC%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://4bef06d1-7535-4ba5-8446-bd6b94e6b150@gb1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
 
 vless://782b8b33-087b-446b-b4cf-1c0d87f1cf08@4qphdr11cwbdcy9o7q.lunargnome.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=khodepi2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=khodepi2.global.ssl.fastly.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40azadi_config
@@ -103,8 +105,6 @@ vless://f3bf2de4-495d-45f1-bf5e-00da3b58796f@212.80.19.203:8081?security=none&en
 vmess://eyJhZGQiOiAiOTQuMTM5LjE4MC44MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiN2JkNDQ2MTEtZjJjYS00YWQwLWJlZDUtMmZlOGYyMzg3ZDY4IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgVENQLU5vbmUgfCBAYXphZGlfY29uZmlnIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 
 vmess://eyJhZGQiOiAidWsxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogImJmYmQ4MGU1LTMyOTktZjQ1MC02ODAyLTI0MjNhZjFhYWZkMiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBTcG90aWZ5X1BvcnRlZ2hhbGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-
-vless://c0d4ebce-a832-4fe6-94b3-de3ba1203de0@77.91.74.84:44148?security=reality&encryption=none&pbk=03p9kJxTSoiEEQXtQPtCfPijrPFjRH2pMaMLQbrusiI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=fb1e6bf864b50297#%F0%9F%87%AC%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://1b4e2fd9-dcf1-48ca-82a2-521828fced48@n.masih1-ah.site:9091?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
