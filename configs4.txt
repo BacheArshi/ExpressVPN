@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://adcd165a-e934-48af-95ad-8afc82261e8b@178.154.202.254:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://34adb595-1546-4d89-a3f2-25c314291ebf@51.250.69.188:8449?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=/&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://ed9cbe67-25c5-4d41-a29d-891dceda33ff@shop.khalijservers1.top:7432?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
@@ -49,4 +47,6 @@ vless://b615fe48-fea2-428b-a955-995f726e5788@51.250.69.188:8446?flow=xtls-rprx-v
 vless://6b6e08b1-63ea-4280-b285-28217144aeab@51.250.69.188:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&spx=/#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://cef12ad2-fb16-4ace-ab26-2a026d40a7d2@144.31.74.41:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=LB2i67ErtJPlIIDeDHlGvSip6-qPJLH9HzYju5fZ32c&sid=2916&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2nodes
+
+vless://642e5ad8-bd76-07d0-8b5c-b4d0628f07bc@212.193.157.118:443?type=ws&security=tls&sni=lk-cdn.deploy-assure.ru&host=lk-cdn.deploy-assure.ru&path=%2F%2F&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2nodes
 
