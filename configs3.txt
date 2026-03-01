@@ -16,8 +16,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.46.167:80?security=none&type
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.105.146:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
-vless://c031d6c7-5132-4d81-8efc-3b13a947984e@81.88.25.20:59029?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
-
 vless://39ad7d26-09a1-41c1-9a30-d17dfd28de2d@45.90.99.242:8443?security=reality&encryption=none&pbk=LJkDgEjaOEpTTHz4NDhDfE-NUqHVrSIx_OWUekbCqTY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=22#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@62.182.195.78:8443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=retn.net&sid=6b374e33af12fd1e#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
