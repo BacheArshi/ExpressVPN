@@ -920,3 +920,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.133:2053?path=%2Fdanfeng%3
 
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?&security=tls&fp=chrome&sni=bank.alaska-tigr.info&type=ws&headerType=none&host=bank.alaska-tigr.info&path=%2Flove#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2nodes
 
+vless://395b4d7b-0abf-4b48-b9da-7432d800ef65@2.56.179.207:443?type=tcp&security=reality&pbk=TZG5DCQE_AbyDZ_I25TEewa-uk5bs_9Nx0X1vRSpxk8&fp=chrome&sni=yahoo.com&sid=6d7b&spx=/#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://184aae9f-795f-a18c-ff65-177b90e4c7f0@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-None%20%7C%20%40v2nodes
+
