@@ -16,19 +16,19 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.160:443?security=tls&sni=
 
 vless://7509f896-2115-4420-b487-501c9103bebd@47.76.154.53:34237?security=tls&sni=ccs.443888.xyz&type=ws&path=%2Fvless%3Fed#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
 
-trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://2woOwUs/zbI+lIS1ef7fo8FabmePG9nCpmCa2P2wfBNlaXb/LwGmimdHg9eULSWHWJDVc1Ma4WKY6RyCYI8v7Hqii2JBStuibodTnLairhrQ3cLcvsSBFTyBHjlXyNrVQQbK96EVw3QSdlUsbULuqqcLyqgGKsVvlCqSeEZc8dKNclSUbmlpXSTyuqNkOea7#%F0%9F%8C%90%20TCP-None%20%7C%20%40xsfilternet
-
 vless://f740a3ca-4d39-4f17-b236-8837fb7cf8a3@vip-meli2.nightgemshop.com:443?security=none&encryption=none&host=alef.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://37c78abe-6a19-59ec-60b5-396198d5adbc@usa.mytopmedia.sbs:850?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://ab7732f1-37fe-4bb7-becd-230102e3e7bf@webb.gdsrguydsrghj.ir:3000?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
 
+trojan://telegram-id-privatevpns@13.39.66.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+vless://2woOwUs/zbI+lIS1ef7fo8FabmePG9nCpmCa2P2wfBNlaXb/LwGmimdHg9eULSWHWJDVc1Ma4WKY6RyCYI8v7Hqii2JBStuibodTnLairhrQ3cLcvsSBFTyBHjlXyNrVQQbK96EVw3QSdlUsbULuqqcLyqgGKsVvlCqSeEZc8dKNclSUbmlpXSTyuqNkOea7#%F0%9F%8C%90%20TCP-None%20%7C%20%40xsfilternet
+
+vless://a5eb4618-c4b5-458b-aafb-e74558d9592d@uae-user-naran.chamehdan.ir:8080?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://telegram-id-ArV2ray2@84.32.102.152:443?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-Reality%20%7C%20%40manVPN
 
