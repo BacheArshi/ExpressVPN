@@ -24,24 +24,6 @@ trojan://telegram-id-privatevpns@35.157.43.29:22222?security=tls&alpn=http/1.1&h
 
 vless://fb86e44c-6bb8-4ebb-9dfb-040f2821908a@KRT.starz-net.com:2089?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNg_madam
 
-vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=0&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vmess://eyJhZGQiOiJIYW5sby5mYXN0ZS1zZXJ2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTQ3ODU0Yy01M2VmLTRhOTQtYmE1Yi0wNmM1YzVjZGJlNDgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijc5ODMiLCJwcyI6IvCfjJAgVENQLU5vbmUgfCBAa2FuZmlnX2thZGUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://Telegram@193.53.40.219:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40V2HUBIR
-
-vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@217.19.4.233:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vless://b86c0cdc-8a02-4da4-8693-72ba27005587@144.31.17.80:30677?security=reality&encryption=none&pbk=2UqLjQFhlvLcY7VzaKRotIDQFOgAJe1dYD1njigp9wk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=47595474#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
@@ -163,6 +145,8 @@ trojan://3zhxj2z5-t2j8-nwt0-hzd9-8zszt7tg3fuk@127.0.0.1:1080?security=tls&type=t
 trojan://5q07cl10-mvox-g68k-etbx-zbul4igx5ax1@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://fi148gln-hmbz-h1th-e49a-22skewn042cw@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1XUy1OVExTIFx1MjUwNyBOb25lIiwiYWRkIjoiN2NjMDJhYjktMzQ3OC0xNzMzLWVhOTQtMmI0NWQ4ZTExNWEwLmJ1Z3Rpay5sdGQiLCJwb3J0Ijo4MCwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
 
 trojan://72au3413-e9q7-85hs-hsyy-6m7e81vm60cc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
@@ -1151,4 +1135,6 @@ vless://1eb573db-365b-34f2-e5e1-43ced8643353@amin2.atlasz.ir:446?security=none&e
 vless://8b67a778-e406-44db-8f35-f6d236f45428@c5viip.forredeye.com:4015?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vmess://eyJhZGQiOiAiODEuMTIuMzMuMTY2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogIjA2YzFjMTA1LThjNjEtNGYzZi1iOWU4LTQ1NjEzZmUyYzQ3NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjEwMDYiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+
+vless://c922f5cd-134e-4ce6-be9e-da246ef93216@srv-germany.hajimamadcloud.com.tr:1991?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
