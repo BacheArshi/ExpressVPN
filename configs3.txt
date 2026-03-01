@@ -92,6 +92,8 @@ vless://080556c0-0117-07d0-b1d9-3708fa8ab8c4@5.188.141.67:443?flow=xtls-rprx-vis
 
 vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
 
+vless://adcd165a-e934-48af-95ad-8afc82261e8b@178.154.202.254:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
 vless://b77e5cba-da56-481e-9111-307cccaf1fc2@vt137.m2ray.site:2024?type=grpc&mode=gun&security=tls&encryption=none&allowInsecure=1&sni=speedtest.net#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40BrilliantGift
 
 vless://e65b6429-8cbb-45da-808d-21ac5499acb7@sanator-vipkaftar.api-tell.ir:9445?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
@@ -101,8 +103,6 @@ vless://e5b3365b-50f7-4479-b25a-5f314ce871c2@shop.khalijservers1.top:7432?securi
 vless://d3b81f05-3ebe-2a25-f487-f9c6f89b7195@netherland.mytopmedia.pro:28961?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=netherland.mytopmedia.sbs#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://31bdae38-ab95-499a-8105-2fe7c45a8240@gr1.wiziii.xyz:8085?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://adcd165a-e934-48af-95ad-8afc82261e8b@178.154.202.254:8447?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=T1tALmySOtH_eYNiFY3rRn4p5A6mEBCzdMHnRV7ehRQ&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://34adb595-1546-4d89-a3f2-25c314291ebf@51.250.69.188:8449?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=/&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
 
