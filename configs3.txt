@@ -22,13 +22,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.43.29:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@35.157.43.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://459bf109-911b-498f-8f82-3dfb6ba91b65@sh.hypersonic.pw:4085?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ibahad
-
 vless://fb86e44c-6bb8-4ebb-9dfb-040f2821908a@KRT.starz-net.com:2089?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNg_madam
-
-vless://4b10710f-4ca7-48d8-b271-9b4bcb2a847e@109.122.251.109:600?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://d7577f0f-d55d-4a12-a7fd-c04c5006175e@85.133.200.78:26480?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=0&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
 
@@ -71,6 +65,8 @@ vless://d9e40483-30ae-4076-8c8d-8d380f46ea33@94.101.191.11:80?path=%2F&security=
 vless://4b10710f-4ca7-48d8-b271-9b4bcb2a847e@109.122.251.109:600?security=&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=none&encryption=none&host=skyroom.online%2C+igap.net%2C+gharar.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://4b10710f-4ca7-48d8-b271-9b4bcb2a847e@109.122.251.109:600?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
