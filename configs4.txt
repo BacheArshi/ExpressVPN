@@ -230,3 +230,5 @@ vless://e384913f-8863-47b4-8858-a84b68abb4a6@82.22.40.109:23335?security=reality
 
 vless://26524cce-d514-4014-a426-365fb266a14d@31.133.0.133:2053?path=%2Fdanfeng%3Fed%3D2560&security=tls&encryption=none&host=_acme-challenge.443888.xyz&fp=random&type=ws&sni=_acme-challenge.443888.xyz#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?&security=tls&fp=chrome&sni=bank.alaska-tigr.info&type=ws&headerType=none&host=bank.alaska-tigr.info&path=%2Flove#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2nodes
+
