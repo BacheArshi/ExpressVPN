@@ -982,3 +982,7 @@ vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?secu
 
 vless://1b7987a1-595b-49a2-9cc4-ce87d7104419@zerotrust.0ppenheimer.com:2088?security=none&type=tcp&headerType=http&path=%2F&host=Myket.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
+vless://c12cd0d5-ece2-4b18-bb0d-ba8a095c3edc@gsm.shabroo.com:7880?type=tcp&encryption=none&path=%2F&host=telewebion.com&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://c922f5cd-134e-4ce6-be9e-da246ef93216@srv-germany.hajimamadcloud.com.tr:1991?security=none&type=tcp&headerType=http&path=%2F&host=skyroom.online%2Cigap.net%2Cgharar.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
