@@ -950,3 +950,13 @@ vless://b9653688-1470-f844-f106-a12f10fb3517@porttt4.webchipro2.ir:3040?security
 
 vless://ce7331c5-a28c-4478-ae06-2a2c5b5416fe@ir.api.clothesshopping.ir:19163?security=none&allowInsecure=0&encryption=none&type=grpc&serviceName=vless#%F0%9F%8C%90%20GRPC-None%20%7C%20%40ConfigX2ray
 
+trojan://63inp6gb-7w9v-46b0-nnl9-p8i8s3a8ldn5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://txyuin36-ytg6-vcvd-tzt7-or1g0zq188tp@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://nxlpccca-ookw-jdb2-gqys-7z4mvcv5dr4q@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://9042affd-0ad3-4014-adbc-e52f00891ea2@199.241.32.132:26978?type=tcp&security=reality&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&pbk=n2w4hj7Q7wN6P21LSJJwIPitfYZbwWh5a2seJHH58SE&sid=28bf#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBsYW5CX25ldCIsICJhZGQiOiAiZ2VyLnNlcnZlci12aXAuY29tIiwgInBvcnQiOiAiNzA4MSIsICJpZCI6ICJhYzVmYzI0OC1lZTM5LTQyNDEtOGE0My01MTc1N2I2OGE3YWIiLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
+
