@@ -14,8 +14,6 @@ vless://208fba39-203e-4bef-8a29-be88e772c3e8@185.146.173.90:80?security=none&typ
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.115.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?type=tcp&security=reality&headerType=none&fp=chrome&sni=api.push.apple.com&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
 trojan://BxceQaOe@52.199.90.129:1359?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://BxceQaOe@52.199.90.129:32536?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
