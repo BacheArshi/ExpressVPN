@@ -14,6 +14,10 @@ vless://208fba39-203e-4bef-8a29-be88e772c3e8@185.146.173.90:80?security=none&typ
 
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.115.174:80?security=none&type=ws&host=us3.rtacg.com&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
 
+vless://2d4960b3-2e47-fa47-b232-2e2c656413b9@91.234.147.80:4001?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray1_ng
+
+vless://2d4960b3-2e47-fa47-b232-2e2c656413b9@91.234.147.80:4003?security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=xhttp&sni=stackoverflow.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray1_ng
+
 trojan://BxceQaOe@52.199.90.129:1359?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://BxceQaOe@52.199.90.129:32536?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
@@ -43,10 +47,6 @@ vmess://eyJhZGQiOiAiRlJtZmMuY3djLWNla2luLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIs
 vless://9b639014-2a3c-40b2-afa8-9e30ff4c5643@Fnfkf.faste-serv.com:5938?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
 
 vmess://eyJhZGQiOiAiVHVkaWNtLXRrLmRlc3J0LWkuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICI0MTQ3ODU0Yy01M2VmLTRhOTQtYmE1Yi0wNmM1YzVjZGJlNDgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9nc214IiwgInBvcnQiOiAiODIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGthbmZpZ19rYWRlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
-
-vless://2d4960b3-2e47-fa47-b232-2e2c656413b9@91.234.147.80:4001?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray1_ng
-
-vless://2d4960b3-2e47-fa47-b232-2e2c656413b9@91.234.147.80:4003?security=reality&encryption=none&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=xhttp&sni=stackoverflow.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40v2ray1_ng
 
 vless://2d4960b3-2e47-fa47-b232-2e2c656413b9@91.234.147.80:4003?secur…#%F0%9F%8C%90%20TCP-None%20%7C%20%40v2ray1_ng
 
