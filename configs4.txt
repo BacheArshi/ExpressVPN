@@ -30,3 +30,19 @@ vless://459bf109-911b-498f-8f82-3dfb6ba91b65@sh.hypersonic.pw:4085?security=none
 
 vless://d7577f0f-d55d-4a12-a7fd-c04c5006175e@85.133.200.78:26480?security=none&type=tcp&headerType=&path=&host=#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://d435363f-b221-428b-94d2-8d0db0113b60@104.24.55.23:443?path=ws&security=tls&encryption=none&insecure=0&host=fancy-disk-fbb6.tmpesterouglas.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fancy-disk-fbb6.tmpesterouglas.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://Telegram@193.53.40.219:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=pqh30v5.carwashipdir.shop#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40V2HUBIR
+
+vless://17c4e377-ea15-07d0-98b2-3e348c9ff5d9@46.235.189.157:443?path=%2F%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=lk-cdn.deploy-assure.ru&fp=chrome&type=ws&allowInsecure=0&sni=lk-cdn.deploy-assure.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2@217.19.4.233:8443?path=%2Fsg-lnd&security=tls&encryption=none&insecure=0&host=tn1rr.qzz.io&type=ws&allowInsecure=0&sni=tn1rr.qzz.io#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
